@@ -25,7 +25,14 @@
         "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA1",
+      "date": "6th c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-2",
@@ -54,7 +61,14 @@
         "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA2",
+      "date": "4th c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-3",
@@ -82,7 +96,14 @@
         "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA3",
+      "date": "3rd c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-4",
@@ -104,7 +125,14 @@
         "consultation": "Bibliographic lead, not redistributed"
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA4",
+      "date": "3rd/2nd c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-5",
@@ -126,7 +154,14 @@
         "consultation": "Bibliographic lead, not redistributed"
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA5",
+      "date": "6th c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-6",
@@ -170,7 +205,14 @@
         "consultation": "Bibliographic lead, not redistributed"
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "DRE1",
+      "date": "c. 650 BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-DREROS-2",
