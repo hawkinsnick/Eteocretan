@@ -1,0 +1,37 @@
+{
+  "scope": "Source snapshot and curated admission inputs; validate against committed checksums. Checksums ensure integrity, not epigraphic correctness.",
+  "files": [
+    {
+      "path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65"
+    },
+    {
+      "path": "data/source-evidence/conway1902-p127.jpg",
+      "sha256": "f3c784d7ad3c1b8b9d7ce0fd33db5e30bec4b5990aa6b957bade860c80ddd25a"
+    },
+    {
+      "path": "data/source-evidence/conway1902-p132.jpg",
+      "sha256": "b2700b816c91f278c72dab0e6382656a206136df7c1f9a97061420f8c91338b3"
+    },
+    {
+      "path": "data/source-evidence/conway1902-p135.jpg",
+      "sha256": "5cfe89a36f7879afbaff096fbbad9b1786d6852b7de399daad42c149e383b37e"
+    },
+    {
+      "path": "data/source-evidence/conway1904-p117.jpg",
+      "sha256": "ea90ea9354d3119fe36a6cd9582abead24272d5a494c9817c84f953645312f43"
+    },
+    {
+      "path": "data/readings.json",
+      "sha256": "038cc319aa683149491a1423c2b29b83681178df881605c589b366480d3dca2e"
+    },
+    {
+      "path": "research/coverage-register.json",
+      "sha256": "27d56f752bbd6bc70ca8323290105f36ada14895a0609d5b29c5a5996305e266"
+    },
+    {
+      "path": "project.json",
+      "sha256": "2d5b5b9207f6e88f83e73306fd568684c86978f6011caaec05aeb05dbbc0c3db"
+    }
+  ]
+}

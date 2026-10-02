@@ -1,0 +1,242 @@
+[
+  {
+    "object_id": "ECR-PRAISOS-1",
+    "label": "Praisos 1",
+    "language": "ecr",
+    "status": "historical_edition_available",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-PRAISOS-1-WIKIPEDIA-174295509",
+      "ECR-PRAISOS-1-CONWAY-135"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-PRAISOS-2",
+    "label": "Praisos 2",
+    "language": "ecr",
+    "status": "historical_edition_available",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-PRAISOS-2-WIKIPEDIA-174295509",
+      "ECR-PRAISOS-2-CONWAY-127",
+      "ECR-PRAISOS-2-CONWAY-127-II"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-PRAISOS-3",
+    "label": "Praisos 3",
+    "language": "ecr",
+    "status": "historical_edition_available",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-PRAISOS-3-WIKIPEDIA-174295509",
+      "ECR-PRAISOS-3-CONWAY-117"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-PRAISOS-4",
+    "label": "Praisos 4",
+    "language": null,
+    "status": "uncertain_language",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-PRAISOS-4-WIKIPEDIA-174295509"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-PRAISOS-5",
+    "label": "Praisos 5",
+    "language": null,
+    "status": "uncertain_language",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-PRAISOS-5-WIKIPEDIA-174295509"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-PRAISOS-6",
+    "label": "Praisos 6",
+    "language": null,
+    "status": "uncertain_language",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-PRAISOS-6-WIKIPEDIA-174295509"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-DREROS-1",
+    "label": "Dreros 1",
+    "language": "ecr",
+    "status": "secondary_reference_only",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-DREROS-1-WIKIPEDIA-174295509"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-DREROS-2",
+    "label": "Dreros 2",
+    "language": "ecr",
+    "status": "secondary_reference_only",
+    "analysis_eligible": false,
+    "reading_versions": [
+      "ECR-DREROS-2-WIKIPEDIA-174295509"
+    ],
+    "source_leads": [
+      {
+        "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+        "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+        "consultation": "Bibliographic lead; full critical edition not acquired"
+      },
+      {
+        "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+        "consultation": "Bibliographic lead, not redistributed"
+      }
+    ],
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+  },
+  {
+    "object_id": "ECR-PSYCHRO-DISPUTED",
+    "label": "Psychro / Epioi inscription",
+    "language": null,
+    "status": "disputed_authenticity",
+    "analysis_eligible": false,
+    "reading_versions": [],
+    "source_leads": [
+      {
+        "citation": "C. B. Kritzas, The “Bilingual” inscription from Psychro (Crete). A coup de grâce, in Μεγάλαι Νῆσοι I, 2004 [published 2006], pp. 255–261",
+        "consultation": "Bibliographic lead; no transcription imported"
+      },
+      {
+        "citation": "E. Papakitsos and I. Kenanidis, The Eteocretan Inscription from Psychro (Crete) is Genuine, Anistoriton 14 (2014–2015)",
+        "url": "https://www.researchgate.net/publication/312038989",
+        "consultation": "Contrary authenticity position; not adopted as consensus"
+      }
+    ],
+    "note": "Competing authenticity claims remain attributed. No translation or linguistic identity assigned."
+  },
+  {
+    "object_id": "CRET-DISPUTED-HM-X2416",
+    "label": "Arkalochori inscribed bronze axe",
+    "language": null,
+    "status": "disputed_script",
+    "analysis_eligible": false,
+    "reading_versions": [],
+    "source_leads": [
+      {
+        "citation": "Georgia Flouda, Materiality and script, SMEA NS 1 (2015), pp. 43–56",
+        "locator": "pp. 50–52"
+      },
+      {
+        "url": "https://github.com/hawkinsnick/Cretan-hieroglpyhs/blob/main/research/disputed-inscriptions/arkalochori-axe.json",
+        "consultation": "Shared canonical object register"
+      }
+    ],
+    "note": "Cretan comparison object; not assigned to Eteocretan. Distinct from the small Linear A gold and silver axes."
+  },
+  {
+    "object_id": "ECR-AZORIA-COLLECTION-LEAD",
+    "label": "Azoria proposed Eteocretan graffiti and dipinti",
+    "language": null,
+    "status": "collection_lead",
+    "analysis_eligible": false,
+    "reading_versions": [],
+    "source_leads": [
+      {
+        "url": "https://azoria.unc.edu/summary-field-reports/2006-summary/",
+        "locator": "D300 pithos handles, caption with question mark",
+        "consultation": "Excavation report consulted; no images or transcription redistributed"
+      },
+      {
+        "citation": "D. C. Haggis et al., Excavations in the Archaic Civic Buildings at Azoria in 2005–2006, Hesperia 80 (2011)",
+        "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/hesp.80.1.0001.pdf",
+        "consultation": "Follow-up edition lead; objects not yet individually reconciled"
+      }
+    ],
+    "note": "Collection-level discovery lead, not one physical object. Must inventory individual items and verify attribution before any exhaustive claim."
+  }
+]

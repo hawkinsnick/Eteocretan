@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "scope": "Historical Praisos editions plus a separately excluded secondary reference layer and an explicitly incomplete coverage register.",
+  "records": 12,
+  "record_unit": "attributed_reading_version",
+  "categories": {
+    "historical_edition": 4,
+    "secondary_reference": 8
+  },
+  "languages": {
+    "ecr": {
+      "records": 12,
+      "source_text_rows": 101,
+      "analysis_eligible_rows": 0,
+      "excluded_greek_script_rows": 0,
+      "conservative_source_string_tokens": 0
+    }
+  },
+  "blocked_claims": [
+    "exhaustive_world_corpus",
+    "independently_verified_critical_edition",
+    "linguistic_gold_standard",
+    "cross_script_phonetic_equivalence",
+    "decipherment",
+    "unique_physical_monument_total"
+  ],
+  "independent_human_epigraphic_review": false,
+  "source_snapshot_reconciled": true,
+  "coverage_register": {
+    "entries": 11,
+    "statuses": {
+      "historical_edition_available": 3,
+      "uncertain_language": 3,
+      "secondary_reference_only": 2,
+      "disputed_authenticity": 1,
+      "disputed_script": 1,
+      "collection_lead": 1
+    },
+    "known_incomplete": true
+  },
+  "distinct_objects_with_readings": 8
+}

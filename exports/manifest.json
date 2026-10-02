@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "license": "CC-BY-SA-4.0",
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "3463c089dec912a1fec98cebff9d73572864a59c53d23d782c30f42c39f86b28"
+    },
+    {
+      "path": "audit.json",
+      "sha256": "b9e7cadfb00ae1c9322bdc76c2c4055f1d97b20a8b42507617a1e450366bfb0b"
+    },
+    {
+      "path": "corpus.json",
+      "sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8"
+    },
+    {
+      "path": "corpus.jsonl",
+      "sha256": "ef8b2dc2d19fc5dcb47366cc92463855b58a70d745f86488410e83b265e9c7d9"
+    },
+    {
+      "path": "frequency-ecr.json",
+      "sha256": "19c481b7d82731ba261809a32e31d2f6a45d3e848e495829d3c30f3e94df67ac"
+    },
+    {
+      "path": "lines.csv",
+      "sha256": "6056648913957a235b6f0f5522a2a2e31f77721cffd6f7f82ea93650c0868a8f"
+    }
+  ]
+}

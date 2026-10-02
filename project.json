@@ -1,0 +1,8 @@
+{
+  "project": "Eteocretan",
+  "adapter": "eteocretan",
+  "scope": "Historical Praisos editions plus a separately excluded secondary reference layer and an explicitly incomplete coverage register.",
+  "record_unit": "attributed_reading_version",
+  "python_minimum": "3.10",
+  "data_license": "CC-BY-SA-4.0"
+}

@@ -1,0 +1,1137 @@
+[
+  {
+    "record_id": "ECR-DREROS-1-WIKIPEDIA-174295509",
+    "object_id": "ECR-DREROS-1",
+    "source_id": "Dreros 1",
+    "label": "Dreros 1 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Dreros 1",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "---rmaw|et|isalabre|komn",
+        "locator": "HTML element #mwTA",
+        "source_text_id": "mwTA",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "---d|men|inai|isaluria|lmo",
+        "locator": "HTML element #mwTg",
+        "source_text_id": "mwTg",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": "----tonturonmēa.oaoiewad",
+        "locator": "HTML element #mwUw",
+        "source_text_id": "mwUw",
+        "partition": "grc",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "4",
+        "text": "eturo---munadoa-enē--",
+        "locator": "HTML element #mwVQ",
+        "source_text_id": "mwVQ",
+        "partition": "grc",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "5",
+        "text": "--matritaia--",
+        "locator": "HTML element #mwVw",
+        "source_text_id": "mwVw",
+        "partition": "grc",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-DREROS-2-WIKIPEDIA-174295509",
+    "object_id": "ECR-DREROS-2",
+    "source_id": "Dreros 2",
+    "label": "Dreros 2 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Dreros 2",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "--S|TUPRMĒRIĒIA",
+        "locator": "HTML element #mwiQ",
+        "source_text_id": "mwiQ",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "saidaperenorkioisi|a-- ",
+        "locator": "HTML element #mwbw",
+        "source_text_id": "mwbw",
+        "partition": "grc",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": "--kaθarongenoito",
+        "locator": "HTML element #mwcQ",
+        "source_text_id": "mwcQ",
+        "partition": "grc",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-1-WIKIPEDIA-174295509",
+    "object_id": "ECR-PRAISOS-1",
+    "source_id": "Praisos 1",
+    "label": "Praisos 1 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Praisos 1",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "--nkalmitke",
+        "locator": "HTML element #mwjw",
+        "source_text_id": "mwjw",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "os barze a-- o--",
+        "locator": "HTML element #mwkQ",
+        "source_text_id": "mwkQ",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": "--ark-agset med-",
+        "locator": "HTML element #mwkw",
+        "source_text_id": "mwkw",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "4",
+        "text": "arkrkokles de---",
+        "locator": "HTML element #mwlQ",
+        "source_text_id": "mwlQ",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "5",
+        "text": "--asegdnanit",
+        "locator": "HTML element #mwlw",
+        "source_text_id": "mwlw",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-2-WIKIPEDIA-174295509",
+    "object_id": "ECR-PRAISOS-2",
+    "source_id": "Praisos 2",
+    "label": "Praisos 2 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Praisos 2",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "--onadesimetepimitsφa ",
+        "locator": "HTML element #mwoQ",
+        "source_text_id": "mwoQ",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "--do--iaralaφraisoiinai vac. ",
+        "locator": "HTML element #mwow",
+        "source_text_id": "mwow",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": "--restnmtorasardoφsano ",
+        "locator": "HTML element #mwpg",
+        "source_text_id": "mwpg",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "4",
+        "text": "--satoissteφ-satiun vac. ",
+        "locator": "HTML element #mwqA",
+        "source_text_id": "mwqA",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "5",
+        "text": "-animestepaluneutat vac. ",
+        "locator": "HTML element #mwqw",
+        "source_text_id": "mwqw",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "6",
+        "text": "-sanomoselosφraisona ",
+        "locator": "HTML element #mwrg",
+        "source_text_id": "mwrg",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "7",
+        "text": "--tsaadoφtena-- ",
+        "locator": "HTML element #mwsA",
+        "source_text_id": "mwsA",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "8",
+        "text": "--maprainaireri-- ",
+        "locator": "HTML element #mwsg",
+        "source_text_id": "mwsg",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "9",
+        "text": "--ireirereie--- ",
+        "locator": "HTML element #mwtA",
+        "source_text_id": "mwtA",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "10",
+        "text": "--nrirano-- ",
+        "locator": "HTML element #mwtg",
+        "source_text_id": "mwtg",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "11",
+        "text": "--askes-- ",
+        "locator": "HTML element #mwuA",
+        "source_text_id": "mwuA",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "12",
+        "text": "--i-t-- ",
+        "locator": "HTML element #mwug",
+        "source_text_id": "mwug",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "13",
+        "text": "--- ",
+        "locator": "HTML element #mwvA",
+        "source_text_id": "mwvA",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-3-WIKIPEDIA-174295509",
+    "object_id": "ECR-PRAISOS-3",
+    "source_id": "Praisos 3",
+    "label": "Praisos 3 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Praisos 3",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "-x-nnumit ",
+        "locator": "HTML element #mwxw",
+        "source_text_id": "mwxw",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "--atarkomn",
+        "locator": "HTML element #mwyQ",
+        "source_text_id": "mwyQ",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": "---ēdēsdea ",
+        "locator": "HTML element #mwyw",
+        "source_text_id": "mwyw",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "4",
+        "text": "--sōpeirari",
+        "locator": "HTML element #mwzQ",
+        "source_text_id": "mwzQ",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "5",
+        "text": "--en tasetwseu ",
+        "locator": "HTML element #mwzw",
+        "source_text_id": "mwzw",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "6",
+        "text": "--nnasiroukles ",
+        "locator": "HTML element #mw0Q",
+        "source_text_id": "mw0Q",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "7",
+        "text": "--irermēiamarφ ",
+        "locator": "HTML element #mw0w",
+        "source_text_id": "mw0w",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "8",
+        "text": "--eirerφinasdan ",
+        "locator": "HTML element #mw1Q",
+        "source_text_id": "mw1Q",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "9",
+        "text": "--mamdedikark ",
+        "locator": "HTML element #mw1w",
+        "source_text_id": "mw1w",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "10",
+        "text": "--risrairariφ ",
+        "locator": "HTML element #mw2Q",
+        "source_text_id": "mw2Q",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "11",
+        "text": "---nneikarx ",
+        "locator": "HTML element #mw2w",
+        "source_text_id": "mw2w",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "12",
+        "text": "--taridoēi ",
+        "locator": "HTML element #mw3Q",
+        "source_text_id": "mw3Q",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "13",
+        "text": "--enba ",
+        "locator": "HTML element #mw3w",
+        "source_text_id": "mw3w",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "14",
+        "text": "--dnas ",
+        "locator": "HTML element #mw4Q",
+        "source_text_id": "mw4Q",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "15",
+        "text": "----- ",
+        "locator": "HTML element #mw4w",
+        "source_text_id": "mw4w",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "16",
+        "text": "--- ",
+        "locator": "HTML element #mw5Q",
+        "source_text_id": "mw5Q",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-4-WIKIPEDIA-174295509",
+    "object_id": "ECR-PRAISOS-4",
+    "source_id": "Praisos 4",
+    "label": "Praisos 4 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Praisos 4",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "----uo--",
+        "locator": "HTML element #mw7A",
+        "source_text_id": "mw7A",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "---oit||s--",
+        "locator": "HTML element #mw7g",
+        "source_text_id": "mw7g",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": "--φ|ras|---",
+        "locator": "HTML element #mw8A",
+        "source_text_id": "mw8A",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "4",
+        "text": "---is--",
+        "locator": "HTML element #mw8g",
+        "source_text_id": "mw8g",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-5-WIKIPEDIA-174295509",
+    "object_id": "ECR-PRAISOS-5",
+    "source_id": "Praisos 5",
+    "label": "Praisos 5 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Praisos 5",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "--artia--",
+        "locator": "HTML element #mw-A",
+        "source_text_id": "mw-A",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "--e-at--",
+        "locator": "HTML element #mw-g",
+        "source_text_id": "mw-g",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": "-----a--",
+        "locator": "HTML element #mw_A",
+        "source_text_id": "mw_A",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "4",
+        "text": "--θert---",
+        "locator": "HTML element #mw_g",
+        "source_text_id": "mw_g",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "5",
+        "text": " vacat ",
+        "locator": "HTML element #mwAQA",
+        "source_text_id": "mwAQA",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "6",
+        "text": "--kosa--",
+        "locator": "HTML element #mwAQM",
+        "source_text_id": "mwAQM",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "7",
+        "text": "--tern--",
+        "locator": "HTML element #mwAQU",
+        "source_text_id": "mwAQU",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "8",
+        "text": "--komne--",
+        "locator": "HTML element #mwAQc",
+        "source_text_id": "mwAQc",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "9",
+        "text": "--atate--",
+        "locator": "HTML element #mwAQk",
+        "source_text_id": "mwAQk",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "10",
+        "text": "--dears--",
+        "locator": "HTML element #mwAQs",
+        "source_text_id": "mwAQs",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "11",
+        "text": " vacat ",
+        "locator": "HTML element #mwAQ0",
+        "source_text_id": "mwAQ0",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-6-WIKIPEDIA-174295509",
+    "object_id": "ECR-PRAISOS-6",
+    "source_id": "Praisos 6",
+    "label": "Praisos 6 (secondary reference)",
+    "authority": "Wikipedia contributors, Idioma eteocretense",
+    "source_level": "secondary_reference",
+    "default_reading": false,
+    "representation": "secondary_roman_transcription",
+    "source": {
+      "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+      "evidence_path": "data/raw/wikipedia-es.html",
+      "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+      "license": "CC-BY-SA-4.0",
+      "locator": "Praisos 6",
+      "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "--ea--",
+        "locator": "HTML element #mwARQ",
+        "source_text_id": "mwARQ",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "2",
+        "text": "--arr--- ",
+        "locator": "HTML element #mwARY",
+        "source_text_id": "mwARY",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      },
+      {
+        "label": "3",
+        "text": " vacat ",
+        "locator": "HTML element #mwARg",
+        "source_text_id": "mwARg",
+        "partition": "ecr",
+        "partition_evidence": "Wikipedia section description; secondary attribution only",
+        "uncertain": true,
+        "note": "Secondary transcription; not independently collated. Spaces and vacat labels preserved."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-1-CONWAY-135",
+    "object_id": "ECR-PRAISOS-1",
+    "source_id": "Conway BSA 8:135",
+    "label": "Praisos 1 (historical primary edition)",
+    "authority": "R. S. Conway; R. C. Bosanquet and R. M. Dawkins credited in the edition",
+    "source_level": "primary_historical_edition",
+    "default_reading": true,
+    "representation": "historical_roman_line_groups",
+    "source": {
+      "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1901-1902_8/annual-of-the-british-school-at-athens_1901-1902_8.pdf",
+      "evidence_path": "data/source-evidence/conway1902-p135.jpg",
+      "sha256": "5cfe89a36f7879afbaff096fbbad9b1786d6852b7de399daad42c149e383b37e",
+      "license": "public_domain_original",
+      "locator": "BSA 8, printed p. 135",
+      "full_source_sha256": "c2f07669e1cb694aae136c8f2b6b9ba09b488f7e0809d159d777cdc5d1c39461",
+      "publication_note": "BSA 8, 1901–1902",
+      "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+    },
+    "lines": [
+      {
+        "text": ". φ . . nkalmitkeos barxe a . . φo",
+        "label": "1–2",
+        "locator": "printed page 135, reading line 1–2",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ark ? agset meumarkrkokles ues",
+        "label": "3–4",
+        "locator": "printed page 135, reading line 3–4",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": ". . φasegunanait",
+        "label": "5",
+        "locator": "printed page 135, reading line 5",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-2-CONWAY-127",
+    "object_id": "ECR-PRAISOS-2",
+    "source_id": "Conway BSA 8:127",
+    "label": "Praisos 2 (historical primary edition)",
+    "authority": "R. S. Conway; R. C. Bosanquet and R. M. Dawkins credited in the edition",
+    "source_level": "primary_historical_edition",
+    "default_reading": true,
+    "representation": "historical_roman_transcription",
+    "source": {
+      "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1901-1902_8/annual-of-the-british-school-at-athens_1901-1902_8.pdf",
+      "evidence_path": "data/source-evidence/conway1902-p127.jpg",
+      "sha256": "f3c784d7ad3c1b8b9d7ce0fd33db5e30bec4b5990aa6b957bade860c80ddd25a",
+      "license": "public_domain_original",
+      "locator": "BSA 8, printed p. 127",
+      "full_source_sha256": "c2f07669e1cb694aae136c8f2b6b9ba09b488f7e0809d159d777cdc5d1c39461",
+      "publication_note": "BSA 8, 1901–1902",
+      "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+    },
+    "lines": [
+      {
+        "text": "onadesiemetepimitsφa",
+        "label": "1",
+        "locator": "printed page 127, reading (i), line 1",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "do . . . . alaφraisoi . na .",
+        "label": "2",
+        "locator": "printed page 127, reading (i), line 2",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": ". est . . . o . . . . doφsano",
+        "label": "3",
+        "locator": "printed page 127, reading (i), line 3",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "satois . te . . sia . . un",
+        "label": "4",
+        "locator": "printed page 127, reading (i), line 4",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "animestepalungutat",
+        "label": "5",
+        "locator": "printed page 127, reading (i), line 5",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "sanomoselosφraison .",
+        "label": "6",
+        "locator": "printed page 127, reading (i), line 6",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "tsaadoφten . . . . o",
+        "label": "7",
+        "locator": "printed page 127, reading (i), line 7",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "mapraina . . e . .",
+        "label": "8",
+        "locator": "printed page 127, reading (i), line 8",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": ". . eirereiet",
+        "label": "9",
+        "locator": "printed page 127, reading (i), line 9",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ntiran .",
+        "label": "10",
+        "locator": "printed page 127, reading (i), line 10",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "askes .",
+        "label": "11",
+        "locator": "printed page 127, reading (i), line 11",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": ". . . t .",
+        "label": "12",
+        "locator": "printed page 127, reading (i), line 12",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-3-CONWAY-117",
+    "object_id": "ECR-PRAISOS-3",
+    "source_id": "Conway BSA 10:117",
+    "label": "Praisos 3 (historical primary edition)",
+    "authority": "R. S. Conway; R. C. Bosanquet and R. M. Dawkins credited in the edition",
+    "source_level": "primary_historical_edition",
+    "default_reading": true,
+    "representation": "project_encoding_of_printed_greek_letterforms",
+    "source": {
+      "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1903-1904_10/annual-of-the-british-school-at-athens_1903-1904_10.pdf",
+      "evidence_path": "data/source-evidence/conway1904-p117.jpg",
+      "sha256": "ea90ea9354d3119fe36a6cd9582abead24272d5a494c9817c84f953645312f43",
+      "license": "public_domain_original",
+      "locator": "BSA 10, printed p. 117",
+      "full_source_sha256": "d74c0f2090fe43058c3882fa0f10d5c236a8faf3158dd1b2fc0399a4293d00c2",
+      "publication_note": "BSA 10, session 1903–1904; article and addendum dated 1905",
+      "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+    },
+    "lines": [
+      {
+        "text": "ΞΟΝΝΥΜΙΤ",
+        "label": "1",
+        "locator": "printed page 117, reading line 1",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΑΤΑΡΚΟΜΝ",
+        "label": "2",
+        "locator": "printed page 117, reading line 2",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΡΗΔΗΣΔΕΑ",
+        "label": "3",
+        "locator": "printed page 117, reading line 3",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΣΩΠΕΙΡΑΡΙ",
+        "label": "4",
+        "locator": "printed page 117, reading line 4",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "[trace]ΝΤΑΣ·ΑΤϜΣΕΥ",
+        "label": "5",
+        "locator": "printed page 117, reading line 5",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΝΝΑΣΙΡΟΥΚΛΕΣ",
+        "label": "6",
+        "locator": "printed page 117, reading line 6",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΙΡΕΡΜΗ[trace]ΑΜΑΡΦ",
+        "label": "7",
+        "locator": "printed page 117, reading line 7",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΞΙΡΕΡΦΙΝΣΔΑΝ",
+        "label": "8",
+        "locator": "printed page 117, reading line 8",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΜΑΜΔΕΔΙΚΑΡΚ",
+        "label": "9",
+        "locator": "printed page 117, reading line 9",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΡΙΣΡΑΙΡΑΡΙΦ",
+        "label": "10",
+        "locator": "printed page 117, reading line 10",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "[trace]Ν·ΝΕΙΚΑΡ·Ξ",
+        "label": "11",
+        "locator": "printed page 117, reading line 11",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΤΑΡΙΔΟΗΙ",
+        "label": "12",
+        "locator": "printed page 117, reading line 12",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΕΝΒΑ",
+        "label": "13",
+        "locator": "printed page 117, reading line 13",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      },
+      {
+        "text": "ΛΝΑΣ",
+        "label": "14",
+        "locator": "printed page 117, reading line 14",
+        "uncertain": true,
+        "note": "Source injury, doubtful signs and/or editorial spacing retained conservatively; entire line excluded from token frequency pending collation."
+      }
+    ]
+  },
+  {
+    "record_id": "ECR-PRAISOS-2-CONWAY-127-II",
+    "object_id": "ECR-PRAISOS-2",
+    "source_id": "Conway BSA 8:127",
+    "label": "Praisos 2 (Conway probable reading ii)",
+    "authority": "R. S. Conway; R. C. Bosanquet and R. M. Dawkins credited in the edition",
+    "source_level": "primary_historical_edition",
+    "default_reading": false,
+    "representation": "historical_roman_transcription",
+    "source": {
+      "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1901-1902_8/annual-of-the-british-school-at-athens_1901-1902_8.pdf",
+      "evidence_path": "data/source-evidence/conway1902-p127.jpg",
+      "sha256": "f3c784d7ad3c1b8b9d7ce0fd33db5e30bec4b5990aa6b957bade860c80ddd25a",
+      "license": "public_domain_original",
+      "locator": "BSA 8, printed p. 127",
+      "full_source_sha256": "c2f07669e1cb694aae136c8f2b6b9ba09b488f7e0809d159d777cdc5d1c39461",
+      "publication_note": "BSA 8, 1901–1902",
+      "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+    },
+    "lines": [
+      {
+        "label": "1",
+        "text": "onadesiemetepimitsφa",
+        "locator": "printed page 127, reading (ii), line 1",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "2",
+        "text": "doφmralaφraisoiinai",
+        "locator": "printed page 127, reading (ii), line 2",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "3",
+        "text": "rest . . . torsardoφsano",
+        "locator": "printed page 127, reading (ii), line 3",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "4",
+        "text": "satois steφesiamun",
+        "locator": "printed page 127, reading (ii), line 4",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "5",
+        "text": "animestepalungutat",
+        "locator": "printed page 127, reading (ii), line 5",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "6",
+        "text": "sanomoselosφraisona",
+        "locator": "printed page 127, reading (ii), line 6",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "7",
+        "text": "tsaadoφten . . . . o",
+        "locator": "printed page 127, reading (ii), line 7",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "8",
+        "text": "maprainairere",
+        "locator": "printed page 127, reading (ii), line 8",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "9",
+        "text": "ireirereiet",
+        "locator": "printed page 127, reading (ii), line 9",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "10",
+        "text": "ntiran .",
+        "locator": "printed page 127, reading (ii), line 10",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "11",
+        "text": "askes .",
+        "locator": "printed page 127, reading (ii), line 11",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      },
+      {
+        "label": "12",
+        "text": ". . ot .",
+        "locator": "printed page 127, reading (ii), line 12",
+        "uncertain": true,
+        "note": "Probable reading; supra-linear alternatives and underlining require scan consultation. Not an independent witness."
+      }
+    ]
+  }
+]

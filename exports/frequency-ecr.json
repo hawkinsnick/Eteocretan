@@ -1,0 +1,8 @@
+{
+  "language": "ecr",
+  "measure": "whole_unmarked_source_strings_not_phonemes_or_signs",
+  "case_sensitive": true,
+  "unicode_normalized": false,
+  "counts": {},
+  "total": 0
+}
