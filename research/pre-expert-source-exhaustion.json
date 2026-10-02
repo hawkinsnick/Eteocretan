@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "checked": "2026-10-02",
+  "target": "PRE_EXPERT_SOURCE_EXHAUSTION",
+  "dispositions": [
+    {
+      "id": "ECR-PRE-001",
+      "scope": "Dreros 1-2",
+      "status": "PRIMARY_CRITICAL_SOURCE_BLOCKED",
+      "evidence": "Duhoux 1982 and Guarducci IC III remain identified critical-edition routes; no lawful full critical text has been acquired. Secondary readings remain non-admitted."
+    },
+    {
+      "id": "ECR-PRE-002",
+      "scope": "Praisos 1-3",
+      "status": "HISTORICAL_EDITION_REGISTERED_CRITICAL_COLLATION_BLOCKED",
+      "evidence": "Conway historical readings and exact evidence images are archived; Duhoux/Guarducci remain critical collation routes. No later-edition winner is inferred."
+    },
+    {
+      "id": "ECR-PRE-003",
+      "scope": "Azoria",
+      "status": "COLLECTION_LEVEL_ROUTE_REGISTERED",
+      "evidence": "Open excavation/publication lead reports 17 inscribed sherds; they remain a collection lead rather than 17 admitted Eteocretan inscriptions."
+    },
+    {
+      "id": "ECR-PRE-004",
+      "scope": "disputed material",
+      "status": "QUARANTINED",
+      "evidence": "Psychro authenticity dispute and Arkalochori script dispute remain attributed and analytically excluded."
+    }
+  ],
+  "completion_assessment": "PRE_EXPERT_MAXIMUM_REACHED_FOR_CURRENT_LAWFUL_SOURCE_ROUTES",
+  "qualification": "Open-world discovery remains active; newly available authoritative lawful evidence reopens acquisition. Expert-only decisions remain unasserted."
+}
