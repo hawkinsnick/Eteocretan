@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "generated_for": "expert_validation",
+  "principle": "Only questions requiring scholarly/epigraphic judgment belong here; machine-verifiable integrity remains enforced separately.",
+  "items": [
+    {
+      "id": "ECR-VAL-001",
+      "priority": "critical",
+      "object_scope": [
+        "ECR-DREROS-1",
+        "ECR-DREROS-2"
+      ],
+      "task": "Collate primary Dreros editions against retained secondary reference readings.",
+      "decision_needed": "line/sign reading and uncertainty spans",
+      "status": "awaiting_expert_or_primary_source"
+    },
+    {
+      "id": "ECR-VAL-002",
+      "priority": "critical",
+      "object_scope": [
+        "ECR-PRAISOS-1",
+        "ECR-PRAISOS-2",
+        "ECR-PRAISOS-3"
+      ],
+      "task": "Reconcile Conway historical readings with later critical editions.",
+      "decision_needed": "reading lineage, corrections, restorations and uncertainty",
+      "status": "awaiting_expert_or_critical_edition"
+    },
+    {
+      "id": "ECR-VAL-003",
+      "priority": "high",
+      "object_scope": [
+        "ECR-PRAISOS-4",
+        "ECR-PRAISOS-5",
+        "ECR-PRAISOS-6"
+      ],
+      "task": "Review language attribution and analytical admissibility.",
+      "decision_needed": "classification and admissibility",
+      "status": "awaiting_expert"
+    },
+    {
+      "id": "ECR-VAL-004",
+      "priority": "high",
+      "object_scope": [
+        "Azoria collection lead"
+      ],
+      "task": "Resolve item-level inventory and candidate inscription identities.",
+      "decision_needed": "object identity, script/language attribution and source locator",
+      "status": "awaiting_expert_or_catalogue"
+    }
+  ],
+  "admission_rule": "No item may become analysis_eligible solely because it appears in this queue."
+}
