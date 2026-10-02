@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Openly licensed image leads for object-level collation; image availability does not itself validate a transcription.",
+  "items": [
+    {
+      "object_id": "ECR-PRAISOS-1",
+      "source": "Wikimedia Commons",
+      "asset": "Earliest Eteocretan inscription from Praisos.png",
+      "license": "GFDL / CC BY-SA 3.0",
+      "status": "image_lead",
+      "verification": "object mapping to be confirmed against museum/catalogue metadata"
+    },
+    {
+      "object_id": "ECR-PRAISOS-2",
+      "source": "Wikimedia Commons",
+      "asset": "Eteocretan inscritpion in alphabet, Praisos, 4 th c BC, AM Herakleon, 258462.jpg",
+      "license": "CC BY-SA 4.0",
+      "status": "image_lead",
+      "verification": "high-resolution museum photograph; exact corpus-object mapping must be reconciled before collation"
+    },
+    {
+      "object_id": null,
+      "source": "Wikimedia Commons",
+      "asset_group": "Praisos Inschrift 01–04",
+      "license": "CC BY 3.0 / GFDL as specified per asset",
+      "status": "image_collection_lead",
+      "verification": "four high-resolution museum photographs; map individually to corpus objects before use"
+    },
+    {
+      "object_id": "ECR-PRAISOS-1",
+      "source": "British School at Athens",
+      "asset_id": "BSA SPHS/1/2816.7202",
+      "license": "institutional archive terms apply",
+      "status": "historical_image_lead",
+      "verification": "1901 glass negative described as Eteocretan inscription / nomos-fragment; do not redistribute without checking archive terms"
+    }
+  ]
+}
