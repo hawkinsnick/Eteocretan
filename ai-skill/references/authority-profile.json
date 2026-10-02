@@ -21,6 +21,16 @@
       "role": "method",
       "path": "docs/METHOD.md",
       "required": true
+    },
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "required": true
+    },
+    {
+      "role": "coverage_register",
+      "path": "research/coverage-register.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -28,6 +38,7 @@
     "Alternative reading versions of one inscription are not independent witnesses",
     "Historical encodings are not new observations of the stones",
     "Arkalochori is not admitted as Eteocretan",
-    "Decipherment and cross-script phonetic equivalence remain blocked"
+    "Decipherment and cross-script phonetic equivalence remain blocked",
+    "Analytical admission may increase only through documented source collation; archive size alone never unblocks frequency."
   ]
 }
