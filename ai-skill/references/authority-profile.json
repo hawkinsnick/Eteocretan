@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "required_authorities": [
+    {
+      "role": "audit",
+      "path": "exports/audit.json",
+      "required": true
+    },
+    {
+      "role": "corpus",
+      "path": "exports/corpus.json",
+      "required": true
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "required": true
+    },
+    {
+      "role": "method",
+      "path": "docs/METHOD.md",
+      "required": true
+    }
+  ],
+  "behavioral_gates": [
+    "Analytically admitted rows and tokens remain zero",
+    "Alternative reading versions of one inscription are not independent witnesses",
+    "Historical encodings are not new observations of the stones",
+    "Arkalochori is not admitted as Eteocretan",
+    "Decipherment and cross-script phonetic equivalence remain blocked"
+  ]
+}
