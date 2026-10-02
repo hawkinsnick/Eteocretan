@@ -38,5 +38,15 @@
     },
     "known_incomplete": true
   },
-  "distinct_objects_with_readings": 8
+  "distinct_objects_with_readings": 8,
+  "acceleration": {
+    "target": "Linear-A-style evidence coherence, not artificial record parity",
+    "priority_gates": [
+      "Acquire/collate primary Dreros editions",
+      "Acquire later Praisos critical editions under permissible access",
+      "Resolve object-level identity and reading lineage",
+      "Admit only independently collated clean rows",
+      "Expand coverage discovery including Azoria while preserving uncertain/disputed objects"
+    ]
+  }
 }

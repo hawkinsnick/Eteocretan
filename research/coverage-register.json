@@ -18,9 +18,21 @@
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
         "consultation": "Bibliographic lead, not redistributed"
+      },
+      {
+        "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
+        "url": "https://digital.bsa.ac.uk/",
+        "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA1",
+      "date": "6th c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-2",
@@ -42,9 +54,21 @@
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
         "consultation": "Bibliographic lead, not redistributed"
+      },
+      {
+        "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
+        "url": "https://digital.bsa.ac.uk/",
+        "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA2",
+      "date": "4th c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-3",
@@ -65,9 +89,21 @@
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
         "consultation": "Bibliographic lead, not redistributed"
+      },
+      {
+        "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
+        "url": "https://digital.bsa.ac.uk/",
+        "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA3",
+      "date": "3rd c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-4",
@@ -89,7 +125,14 @@
         "consultation": "Bibliographic lead, not redistributed"
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA4",
+      "date": "3rd/2nd c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-5",
@@ -111,7 +154,14 @@
         "consultation": "Bibliographic lead, not redistributed"
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "PRA5",
+      "date": "6th c. BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-PRAISOS-6",
@@ -155,7 +205,14 @@
         "consultation": "Bibliographic lead, not redistributed"
       }
     ],
-    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
+    "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
+    "scholarly_baseline": {
+      "catalogue_id": "DRE1",
+      "date": "c. 650 BC",
+      "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+      "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+      "project_independent_review": false
+    }
   },
   {
     "object_id": "ECR-DREROS-2",
@@ -237,6 +294,10 @@
         "consultation": "Follow-up edition lead; objects not yet individually reconciled"
       }
     ],
-    "note": "Collection-level discovery lead, not one physical object. Must inventory individual items and verify attribution before any exhaustive claim."
+    "note": "Collection-level discovery lead, not one physical object. Must inventory individual items and verify attribution before any exhaustive claim.",
+    "reported_collection_count": 17,
+    "reported_count_source": "Haggis et al., Hesperia 80 (2011), discussion of inscribed sherds",
+    "attribution_status": "possible Eteocretan characteristics discussed; not probative and not project-admitted",
+    "verification_note": "Open-access publication reports 17 inscribed sherds, mostly from stratified 6th/early-5th-century contexts. Count is a publication-level collection lead, not 17 admitted Eteocretan inscriptions."
   }
 ]
