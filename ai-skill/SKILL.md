@@ -1,7 +1,7 @@
 ---
 name: eteocretan-research
 description: Evidence-first AI research skill for the Eteocretan corpus.
-version: 0.1.0
+version: 0.3.1
 ---
 
 # Eteocretan Research Skill
@@ -26,3 +26,10 @@ Give the direct answer, followed as relevant by Evidence; Evidentiary status; Un
 
 ## Synchronization
 Read `ai-skill/generated/source-state.json` before substantive work. It records the corpus commit from which the AI-facing package was synchronized. Generated files are rebuildable views; canonical corpus files govern if a discrepancy is found.
+
+## Academic-scrutiny gates
+- Analytically admitted rows and tokens remain zero
+- Alternative reading versions of one inscription are not independent witnesses
+- Historical encodings are not new observations of the stones
+- Arkalochori is not admitted as Eteocretan
+- Decipherment and cross-script phonetic equivalence remain blocked
