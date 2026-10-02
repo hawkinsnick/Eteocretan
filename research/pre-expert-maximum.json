@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "target": "PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-02",
+  "established": [
+    {
+      "gate": "attributed_reading_archive",
+      "status": "PASS",
+      "records": 12
+    },
+    {
+      "gate": "coverage_register",
+      "status": "PASS",
+      "entries": 11,
+      "known_incomplete": true
+    },
+    {
+      "gate": "analysis_admission",
+      "status": "SEALED",
+      "analysis_eligible_rows": 0
+    }
+  ],
+  "remaining_nonexpert_work": [
+    {
+      "id": "ECR-PRE-001",
+      "scope": "Dreros 1-2",
+      "action": "Acquire and index primary editions.",
+      "blocked_by": "primary_source_access"
+    },
+    {
+      "id": "ECR-PRE-002",
+      "scope": "Praisos 1-3",
+      "action": "Acquire and lineage-map later critical editions against Conway.",
+      "blocked_by": "critical_edition_access"
+    },
+    {
+      "id": "ECR-PRE-003",
+      "scope": "Azoria",
+      "action": "Resolve collection lead into item-level catalogue candidates.",
+      "blocked_by": "catalogue_discovery"
+    }
+  ],
+  "human_only_boundary": [
+    {
+      "id": "ECR-HUM-001",
+      "decision": "adjudicate readings, restorations and uncertainty"
+    },
+    {
+      "id": "ECR-HUM-002",
+      "decision": "adjudicate uncertain language attribution"
+    },
+    {
+      "id": "ECR-HUM-003",
+      "decision": "adjudicate disputed script or authenticity"
+    }
+  ],
+  "completion_rule": "Exhaust source routes before expert review; zero analytical admission remains until scholarly gates are satisfied."
+}
