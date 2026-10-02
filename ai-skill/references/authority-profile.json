@@ -36,6 +36,16 @@
       "role": "open_image_register",
       "path": "research/open-image-register.json",
       "required": true
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "required": true
+    },
+    {
+      "role": "pre_expert_source_exhaustion",
+      "path": "research/pre-expert-source-exhaustion.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -44,6 +54,7 @@
     "Historical encodings are not new observations of the stones",
     "Arkalochori is not admitted as Eteocretan",
     "Decipherment and cross-script phonetic equivalence remain blocked",
-    "Analytical admission may increase only through documented source collation; archive size alone never unblocks frequency."
+    "Analytical admission may increase only through documented source collation; archive size alone never unblocks frequency.",
+    "Pre-Expert Maximum dispositions current lawful source routes; it does not convert source labels or secondary readings into independent expert validation."
   ]
 }
