@@ -237,6 +237,10 @@
         "consultation": "Follow-up edition lead; objects not yet individually reconciled"
       }
     ],
-    "note": "Collection-level discovery lead, not one physical object. Must inventory individual items and verify attribution before any exhaustive claim."
+    "note": "Collection-level discovery lead, not one physical object. Must inventory individual items and verify attribution before any exhaustive claim.",
+    "reported_collection_count": 17,
+    "reported_count_source": "Haggis et al., Hesperia 80 (2011), discussion of inscribed sherds",
+    "attribution_status": "possible Eteocretan characteristics discussed; not probative and not project-admitted",
+    "verification_note": "Open-access publication reports 17 inscribed sherds, mostly from stratified 6th/early-5th-century contexts. Count is a publication-level collection lead, not 17 admitted Eteocretan inscriptions."
   }
 ]
