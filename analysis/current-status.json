@@ -38,5 +38,11 @@
     },
     "known_incomplete": true
   },
-  "distinct_objects_with_readings": 8
+  "distinct_objects_with_readings": 8,
+  "source_inspection": {
+    "register": "research/source-inspection-2026-10-02.json",
+    "Dreros_2_primary_locus": "candidate no. 5, BCH 70 (1946), pp. 602–603",
+    "independent_review": false,
+    "reading_admissions": 0
+  }
 }

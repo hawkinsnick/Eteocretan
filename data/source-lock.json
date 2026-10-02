@@ -27,11 +27,15 @@
     },
     {
       "path": "research/coverage-register.json",
-      "sha256": "af072605a254b0bffbc7684389c626a1cd34c50b820c158f2411c21c86f1ac74"
+      "sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754"
     },
     {
       "path": "project.json",
       "sha256": "2d5b5b9207f6e88f83e73306fd568684c86978f6011caaec05aeb05dbbc0c3db"
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5"
     }
   ]
 }
