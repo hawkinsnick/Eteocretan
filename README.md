@@ -60,8 +60,7 @@ Search includes excluded material and clearly reports its eligibility.
 
 Read [the method](docs/METHOD.md), [researcher workflow](docs/RESEARCHER_WORKFLOW.md),
 [coverage policy](docs/COVERAGE.md), [source credits](NOTICE), and
-[family links](research/family/README.md). Data and documentation are
-CC BY-SA 4.0; code is MIT. Public-domain originals retain that status.
+[family links](research/family/README.md). Project-original software is PolyForm Noncommercial 1.0.0 and project-owned content/documentation is CC BY-NC 4.0. Third-party CC BY-SA material retains CC BY-SA; public-domain originals retain that status. See the component-specific licensing files and NOTICE.
 
 Here 1.0 means a tested and reproducible attributed archive. Independent
 collation, critical source reconciliation and full discovery coverage remain
