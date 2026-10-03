@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "source": "Michel Lejeune 1947, L'inscription Isaluria de Drèros : étéocrétois ou crétois?",
+  "source_role": "NEAR_PRIMARY_CRITICAL_WITNESS_REPRODUCING_VAN_EFFENTERRE_1946",
+  "primary_locator": "H. van Effenterre, Revue de Philologie XX (1946), pp. 131-138",
+  "lejeune_locator": "REA 49 (1947), pp. 274-285",
+  "object": "Dreros Isaluria / project Dreros 1 candidate",
+  "physical_text_structure": {
+    "deep_inscription_lines": 2,
+    "direction_lines_1_2": "retrograde",
+    "faint_inscription_lines": 3,
+    "direction_lines_3_5": "boustrophedon; 3 and 5 retrograde, 4 direct",
+    "right_edge": "text incomplete at right for beginnings of lines 1,2,3,5; possible blank/damage ambiguities retained"
+  },
+  "uncertainty_examples": [
+    "line 1 initial indistinct sign",
+    "line 1 after beta-rho-epsilon: tau or vertical interpunct",
+    "line 1 final letter appears bent nu",
+    "line 2 before delta: upper stroke may belong to nu/mu/u",
+    "line 3 multiple ambiguous traces",
+    "line 4/5 endings affected by blank/break uncertainty"
+  ],
+  "project_rule": "Use as attributed critical witness to primary editor's reported state; do not promote Lejeune's linguistic interpretation or silently replace the unavailable original facsimile.",
+  "rights": "Record bibliographic metadata, structural observations, and short uncertainty summaries; do not redistribute full protected article/facsimile absent applicable permission.",
+  "status": "DREROS1_NEAR_PRIMARY_SOURCE_ROUTE_OPEN"
+}
