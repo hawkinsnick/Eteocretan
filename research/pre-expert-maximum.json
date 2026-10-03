@@ -25,8 +25,10 @@
     {
       "id": "ECR-PRE-001",
       "scope": "Dreros 1-2",
-      "action": "Acquire and index primary editions.",
-      "blocked_by": "primary_source_access"
+      "action": "Dreros 2 primary BCH is inspected; Dreros 1 now has Lejeune 1947 near-primary critical witness reproducing Van Effenterre layout/uncertainties. Continue acquisition of original Rev. Phil. 1946 facsimile.",
+      "blocked_by": "original_dreros1_facsimile_access_only",
+      "status": "PARTIAL_SOURCE_ROUTE_COMPLETE",
+      "evidence": "research/dreros1-lejeune-critical-witness.json"
     },
     {
       "id": "ECR-PRE-002",
