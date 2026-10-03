@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "scope": "Dreros source-number reconciliation and Praisos version comparison; no reading replacement.",
+  "sources": [
+    {
+      "source_id": "van-effenterre1946",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1946_num_70_1_2609",
+      "locator": "pp. 602–604, nos. 5–6",
+      "role": "primary_publication",
+      "inspection": [
+        {
+          "file_name": "dreros602.jpg",
+          "sha256": "d4e408355c8a42276e951adeabde0409c5d398026324d0e4f43f422d433d12bb",
+          "bytes": 168888,
+          "redistributed": false
+        },
+        {
+          "file_name": "dreros603.jpg",
+          "sha256": "7a8c6713b5aff71fceaff240f3b98188b21aafe27f92e1fff7a4223cefa57447",
+          "bytes": 157371,
+          "redistributed": false
+        },
+        {
+          "file_name": "dreros604.jpg",
+          "sha256": "27f801575a9bdcb33c968bdca8cb4eb0a75da3310f40dec009f969efc56a6655",
+          "bytes": 160034,
+          "redistributed": false
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "project_object_id": "ECR-DREROS-2",
+      "edition_item": "no. 5",
+      "locator": "pp. 602–603",
+      "association_status": "CANDIDATE_BY_THREE_LINE_LAYOUT_AND_READING_CORRESPONDENCE",
+      "reported_material": "sideropetra",
+      "reported_dimensions_mm": {
+        "length": 990,
+        "height": 230,
+        "thickness": 230
+      },
+      "reported_line_count": 3,
+      "reported_direction": "boustrophedon; starts upper right",
+      "damage": "Both ends fractured; left fragment refits. Right-hand lacuna extent unknown.",
+      "language_partition_status": "UNRESOLVED: publisher questions possible Eteocretan remnants in first line; existing secondary partition is not upgraded."
+    },
+    {
+      "edition_item": "no. 6",
+      "locator": "pp. 603–604",
+      "project_object_id": null,
+      "status": "DISTINCT_OBJECT_NOT_JOINED_TO_DREROS_2",
+      "reported_dimensions_mm": {
+        "length": 740,
+        "height": 250,
+        "thickness": 300
+      }
+    }
+  ],
+  "independent_review": false,
+  "canonical_admission_granted": false,
+  "limitations": [
+    "Source numbering is not project numbering. No. 5 candidate is not independently certified.",
+    "Dreros 1 original Rev. Phil. edition remains an acquisition target; this BCH paper does not substitute for it.",
+    "Praisos historical and secondary representations are compared separately; differences are not adjudicated.",
+    "No source image or new full transcription redistributed; all analytical admission remains blocked."
+  ]
+}

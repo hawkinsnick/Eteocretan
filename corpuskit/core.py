@@ -304,6 +304,7 @@ def audit(root, records=None):
         out['coverage_register'] = {'entries': len(registry), 'statuses': dict(Counter(x['status'] for x in registry)),
                                     'known_incomplete': True}
         out['distinct_objects_with_readings'] = len({r['object_id'] for r in records})
+        out['source_inspection'] = {'register':'research/source-inspection-2026-10-02.json', 'Dreros_2_primary_locus':'candidate no. 5, BCH 70 (1946), pp. 602–603', 'independent_review':False, 'reading_admissions':0}
     return out
 
 
@@ -324,6 +325,8 @@ def verify_lock(root):
                 for p in (root / directory).rglob('*') if p.is_file()}
     inputs = ('data/source-index.json', 'data/acquisition.json') if read_json(root / 'project.json')['adapter'] == 'ediana' else ('data/readings.json', 'research/coverage-register.json')
     expected.update((*inputs, 'project.json'))
+    if read_json(root / 'project.json')['adapter'] == 'eteocretan':
+        expected.add('research/source-inspection-2026-10-02.json')
     if expected != {x['path'] for x in lock['files']}:
         errors.append('Source lock membership mismatch')
     for x in lock['files']:

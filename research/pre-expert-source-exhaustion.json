@@ -7,8 +7,8 @@
     {
       "id": "ECR-PRE-001",
       "scope": "Dreros 1-2",
-      "status": "PRIMARY_CRITICAL_SOURCE_BLOCKED",
-      "evidence": "Duhoux 1982 and Guarducci IC III remain identified critical-edition routes; no lawful full critical text has been acquired. Secondary readings remain non-admitted."
+      "status": "PRIMARY_PUBLICATION_CANDIDATE_INSPECTED",
+      "evidence": "BCH 70 (1946), no. 5 pp. 602–603 inspected as Dreros 2 candidate; no. 6 is excluded. Dreros 1 original publication and later critical collation remain outstanding."
     },
     {
       "id": "ECR-PRE-002",
@@ -29,6 +29,6 @@
       "evidence": "Psychro authenticity dispute and Arkalochori script dispute remain attributed and analytically excluded."
     }
   ],
-  "completion_assessment": "PRE_EXPERT_MAXIMUM_REACHED_FOR_CURRENT_LAWFUL_SOURCE_ROUTES",
+  "completion_assessment": "ADDITIONAL_PRIMARY_SOURCE_LOCUS_INSPECTED_COLLATION_PENDING",
   "qualification": "Open-world discovery remains active; newly available authoritative lawful evidence reopens acquisition. Expert-only decisions remain unasserted."
 }

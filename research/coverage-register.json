@@ -232,6 +232,14 @@
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
         "consultation": "Bibliographic lead, not redistributed"
+      },
+      {
+        "citation": "H. Van Effenterre, Inscriptions archaïques crétoises, BCH 70 (1946), pp. 588–606",
+        "doi": "10.3406/bch.1946.2609",
+        "url": "https://www.persee.fr/doc/bch_0007-4217_1946_num_70_1_2609",
+        "locator": "no. 5, pp. 602–603; no. 6 excluded from candidate join",
+        "consultation": "Publisher scans inspected; candidate identity and metadata only. No critical reading admitted.",
+        "inspection_register": "research/source-inspection-2026-10-02.json"
       }
     ],
     "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."

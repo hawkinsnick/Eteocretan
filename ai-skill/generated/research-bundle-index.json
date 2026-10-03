@@ -1,0 +1,101 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "source_commit": "55a4eb3a54190d436e7ddc303a5708f3af326bc6",
+  "canonical_repository": true,
+  "generated_at_utc": "2026-10-02T23:18:42+00:00",
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "artifacts": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "sha256": "87634380f256b32c9333d0bd7e2137ee2e716e9ddf065a9ffb2869fba0567371",
+      "bytes": 1418
+    },
+    {
+      "role": "reading_version_comparison",
+      "path": "analysis/reading-version-comparison-v1.json",
+      "sha256": "4513314328232c61c0b3e9dc10c4f96b92ea8e5372d123c4545e5b9e768b3c0b",
+      "bytes": 9333
+    },
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5",
+      "bytes": 2602
+    },
+    {
+      "role": "reading_versions",
+      "path": "data/readings.json",
+      "sha256": "038cc319aa683149491a1423c2b29b83681178df881605c589b366480d3dca2e",
+      "bytes": 48473
+    },
+    {
+      "role": "coverage_register",
+      "path": "research/coverage-register.json",
+      "sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "bytes": 13280
+    },
+    {
+      "role": "coverage_register",
+      "path": "research/coverage-register.json",
+      "sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "bytes": 13280
+    },
+    {
+      "role": "open_image_register",
+      "path": "research/open-image-register.json",
+      "sha256": "e9a31f2ac9335175977cc494e4c73e881494ed9923766d43f2928534146aa3bb",
+      "bytes": 1579
+    },
+    {
+      "role": "audit",
+      "path": "exports/audit.json",
+      "sha256": "87634380f256b32c9333d0bd7e2137ee2e716e9ddf065a9ffb2869fba0567371",
+      "bytes": 1418
+    },
+    {
+      "role": "corpus_json",
+      "path": "exports/corpus.json",
+      "sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "bytes": 113351
+    },
+    {
+      "role": "corpus_jsonl",
+      "path": "exports/corpus.jsonl",
+      "sha256": "ef8b2dc2d19fc5dcb47366cc92463855b58a70d745f86488410e83b265e9c7d9",
+      "bytes": 76488
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "sha256": "3463c089dec912a1fec98cebff9d73572864a59c53d23d782c30f42c39f86b28",
+      "bytes": 3364
+    },
+    {
+      "role": "method",
+      "path": "docs/METHOD.md",
+      "sha256": "d10e59cf7560ad753958d9591846289e0031311ebd770d46ee79c52d5fa3bab3",
+      "bytes": 4180
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "bbda3b0054020534fc1e291c75b9dc0bde760f6df316536c9982962403f7b63c",
+      "bytes": 1550
+    },
+    {
+      "role": "pre_expert_source_exhaustion",
+      "path": "research/pre-expert-source-exhaustion.json",
+      "sha256": "4e106c75b85cb58d62a1bd5fe33f5da844c6551d4ba21d0e6f5263f122081c35",
+      "bytes": 1554
+    }
+  ]
+}
