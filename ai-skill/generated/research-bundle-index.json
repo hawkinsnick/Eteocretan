@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a4daec16925a937a87d0ba92c49eb83222ce00fa",
+  "source_commit": "9164374574489148d63d9af30f5c1a311c5439c0",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T10:08:10+00:00",
+  "generated_at_utc": "2026-10-04T16:06:48+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "cf8f802f7df1679f1a090d44f2e998f2e6f6f842a91c54ef4844edaffba0476a",
-      "bytes": 6558
+      "sha256": "9458b64311390cacb7c01eee001d0eea0c08a678c55739a7c92af4c1ffdaf8bf",
+      "bytes": 7277
     },
     {
       "role": "institutional_archive_leads",
@@ -76,14 +76,14 @@
     {
       "role": "source_critical_dossier",
       "path": "analysis/source-critical-dossier.json",
-      "sha256": "46f41945d8e9252536f3e2e81b1560c271f798957e6f8bf76422a9de7396c499",
-      "bytes": 31298
+      "sha256": "ddc5058142a9d7c9cea2bb2b67c384558627a45ea716a57f724ed0017a4f364a",
+      "bytes": 34392
     },
     {
       "role": "azoria_item_candidates",
       "path": "research/azoria-item-candidates.json",
-      "sha256": "5b765635f3805cf8ebbd0566f4126e23666877211d73697df1219d2d94b8f6cb",
-      "bytes": 2710
+      "sha256": "dba8cc269b21e893257cfa184eb8374154548311ac27f375e6d48d493a36b177",
+      "bytes": 5026
     },
     {
       "role": "dreros1_near_primary_witness",
