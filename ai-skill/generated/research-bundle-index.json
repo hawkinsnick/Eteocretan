@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "57931e7b32984ec3dcf9063c53cb1d0d6f227669",
+  "source_commit": "8eee10568dcd8b976096880ba245090784cd03c7",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T05:11:12+00:00",
+  "generated_at_utc": "2026-10-04T06:04:18+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,14 +16,26 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "af1ffa0113064152f2ede340054f64dc549aec257e966231556672a51d608713",
-      "bytes": 3316
+      "sha256": "cb1e97c555aa0854844860f0a61b6cbcb9dc833e08995b4e55a7b286fef85de1",
+      "bytes": 3439
     },
     {
       "role": "institutional_archive_leads",
       "path": "research/institutional-archive-leads.json",
       "sha256": "e12586f0c079b91cd329a0fa4f865cefd530c9e0bc0eb66042630d603635ddfe",
       "bytes": 2103
+    },
+    {
+      "role": "praisos_historical_identity_crosswalk",
+      "path": "research/praisos-historical-identity-crosswalk.json",
+      "sha256": "d085532bf0d960e5d41672204e47eb480a53326dc33d31985acef1437f6b3f6d",
+      "bytes": 2239
+    },
+    {
+      "role": "praisos_identity_audit",
+      "path": "analysis/praisos-identity-audit.json",
+      "sha256": "b5ad6f764f0cc09d728725ee26de4d8eb3d11ae5598d4b5dc776b74db6b62956",
+      "bytes": 713
     },
     {
       "role": "source_critical_dossier",
