@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "85d351d89a3737b35988cfe23addaba551c3472c",
+  "source_commit": "24eb53472f698ec00fb1d2f44c6c0eb5308fc57d",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T09:01:27+00:00",
+  "generated_at_utc": "2026-10-04T09:10:07+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -52,14 +52,14 @@
     {
       "role": "guarducci_1942_access_route",
       "path": "research/guarducci-1942-access-route.json",
-      "sha256": "44a70a0ef5ba618d76ed408133e63017413b60783832333c8eb9225bdcd89815",
-      "bytes": 1884
+      "sha256": "416c3c549f7c83e3f60c80a4f52b44925a2f4ff2acb3e4ddbcffb2feceb0b2d2",
+      "bytes": 1912
     },
     {
       "role": "guarducci_route_audit",
       "path": "analysis/guarducci-route-audit.json",
-      "sha256": "3cf590090e01065a5fc68db23950afc2d383ee55f3542713e80dd3bc406a029c",
-      "bytes": 1019
+      "sha256": "4613c315758b5eb4aff9c753ba85adfa69bbc7072137e3a05c64ae00bc88682d",
+      "bytes": 1047
     },
     {
       "role": "source_critical_dossier",
