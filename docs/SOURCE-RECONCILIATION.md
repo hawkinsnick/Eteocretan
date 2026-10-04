@@ -7,6 +7,7 @@ python scripts/build_review_dossier.py --check
 python scripts/audit_praisos_identity.py --check
 python scripts/audit_praisos_layout_units.py --check
 python scripts/audit_guarducci_route.py --check
+python scripts/audit_praisos_guarducci_numbers.py --check
 python scripts/release_check.py
 ```
 
@@ -42,3 +43,9 @@ Direct inspection of the registered Conway pages now distinguishes source lines 
 `research/guarducci-1942-access-route.json` records the University of Crete Anemi institutional route to Margherita Guarducci, *Inscriptiones Creticae*, volume III (1942): permanent metadata resource **000070579**, volume file **000070579_3.pdf**, 101 scan pages, reported 600-dpi digitization dated 10 December 2003, and project print locator pp. 134–142. The route covers the project's Praisos 1–6 and Dreros 1–2 bibliography entries. `analysis/guarducci-route-audit.json` binds that route to the coverage register by hashes and identifiers.
 
 The institutional record and delivery metadata were inspected, but direct volume delivery returned gateway/time-out failures in this environment. Therefore zero primary pages, readings, or analytical rows were collated from this route. The registered file size and page count describe the institutional digital object; they do not establish that the relevant pages were seen, that the scan is openly redistributable, or that eight project labels are eight physical objects. A future lawful inspection must verify title/volume pages and pp. 134–142 before adding evidence or readings.
+
+## Guarducci publication-number concordance
+
+A directly inspected Persée rendering of Michel Lejeune (1947), p. 276 n. 4, reports Guarducci's section III, pp. 137–142, nos. 1–6. It names nos. 1–3 as the *barxe*, *nomos* and *neihar* inscriptions, respectively. It describes nos. 4–6 only as short fragments that may be Eteocretan. The same note attributes Ionic script to nos. 2, 3 and 5, and archaic script to nos. 1, 4 and 6. `research/praisos-guarducci-number-concordance.json` preserves those source attributions; `analysis/praisos-guarducci-number-audit.json` binds all six publication numbers to the project labels without converting the last three into certain Eteocretan texts.
+
+This witness improves the publication-number crosswalk but does not replace inspection of Guarducci, certify present objects or museum accessions, or select readings and dates. The first three historical name/number joins and the last three number-only fragment correspondences remain different evidence classes.

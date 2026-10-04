@@ -111,6 +111,16 @@
       "role": "guarducci_route_audit",
       "path": "analysis/guarducci-route-audit.json",
       "required": true
+    },
+    {
+      "role": "praisos_guarducci_number_concordance",
+      "path": "research/praisos-guarducci-number-concordance.json",
+      "required": true
+    },
+    {
+      "role": "praisos_guarducci_number_audit",
+      "path": "analysis/praisos-guarducci-number-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -124,6 +134,7 @@
     "Use source-critical dossiers to retain project attribution versus attributed secondary classification conflicts.",
     "Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels.",
     "Praisos source lines, printed groups, project rows, alternatives and physical identities are distinct counting units.",
-    "The Anemi Guarducci volume route is exact institutional discovery metadata, not proof of page inspection, scan rights, reading collation, source independence, or physical-object identity."
+    "The Anemi Guarducci volume route is exact institutional discovery metadata, not proof of page inspection, scan rights, reading collation, source independence, or physical-object identity.",
+    "Lejeune's reported Guarducci number concordance keeps nos. 4–6 as perhaps Eteocretan fragments; project-number correspondence never certifies language or physical identity."
   ]
 }

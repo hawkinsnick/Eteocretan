@@ -25,3 +25,4 @@ jobs:
       - run: python scripts/audit_praisos_identity.py --check
       - run: python scripts/audit_praisos_layout_units.py --check
       - run: python scripts/audit_guarducci_route.py --check
+      - run: python scripts/audit_praisos_guarducci_numbers.py --check

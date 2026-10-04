@@ -1,0 +1,23 @@
+{
+  "format": "eteocretan-praisos-guarducci-number-concordance-v1",
+  "checked": "2026-10-04",
+  "source": {
+    "citation": "Michel Lejeune, L'inscription Isaluria de Drèros : étéocrétois ou crétois ?, Revue des Études Anciennes 49 (1947), 274–285",
+    "doi": "10.3406/rea.1947.5361",
+    "url": "https://www.persee.fr/doc/rea_0035-2004_1947_num_49_3_5361?pageId=T1_276",
+    "locator": "p. 276 n. 4",
+    "source_role": "near-contemporary critical witness reporting the Guarducci numbering and classifications",
+    "rendered_page_text_directly_inspected": true,
+    "page_image_or_pdf_redistributed": false
+  },
+  "reported_guarducci_locator": "Inscriptiones Creticae III (1942), section III, pp. 137–142, nos. 1–6",
+  "records": [
+    {"guarducci_number": 1, "project_id": "ECR-PRAISOS-1", "historical_name_reported": "barxe inscription", "script_class_reported": "archaic", "language_status_reported": "named Praisos inscription", "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK"},
+    {"guarducci_number": 2, "project_id": "ECR-PRAISOS-2", "historical_name_reported": "nomos inscription", "script_class_reported": "Ionic", "language_status_reported": "named Praisos inscription", "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK"},
+    {"guarducci_number": 3, "project_id": "ECR-PRAISOS-3", "historical_name_reported": "neihar inscription", "script_class_reported": "Ionic", "language_status_reported": "named Praisos inscription", "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK"},
+    {"guarducci_number": 4, "project_id": "ECR-PRAISOS-4", "historical_name_reported": null, "script_class_reported": "archaic", "language_status_reported": "short fragment, perhaps Eteocretan", "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY"},
+    {"guarducci_number": 5, "project_id": "ECR-PRAISOS-5", "historical_name_reported": null, "script_class_reported": "Ionic", "language_status_reported": "short fragment, perhaps Eteocretan", "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY"},
+    {"guarducci_number": 6, "project_id": "ECR-PRAISOS-6", "historical_name_reported": null, "script_class_reported": "archaic", "language_status_reported": "short fragment, perhaps Eteocretan", "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY"}
+  ],
+  "boundary": "Lejeune's footnote supplies a reported publication-number concordance and attributed script/language classifications, not inspection of Guarducci's pages or the stones. Nos. 4–6 remain perhaps Eteocretan; matching their numbers to project labels does not certify physical identity, museum accession, reading, date or language."
+}
