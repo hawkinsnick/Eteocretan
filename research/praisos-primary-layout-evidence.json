@@ -1,0 +1,39 @@
+{
+  "format": "eteocretan-praisos-primary-layout-evidence-v1",
+  "checked": "2026-10-04",
+  "entries": [
+    {
+      "project_object_id": "ECR-PRAISOS-1",
+      "source_record_ids": ["ECR-PRAISOS-1-CONWAY-135"],
+      "evidence_path": "data/source-evidence/conway1902-p135.jpg",
+      "evidence_sha256": "5cfe89a36f7879afbaff096fbbad9b1786d6852b7de399daad42c149e383b37e",
+      "locator": "BSA 8 (1902), printed p. 135, section 20",
+      "source_line_count": 5,
+      "printed_transliteration_group_labels": ["1, 2", "3, 4", "5"],
+      "project_representation_row_labels": ["1–2", "3–4", "5"],
+      "source_method_note": "Conway says it is best to transliterate two lines at a time; the printed groups are 1,2; 3,4; and 5."
+    },
+    {
+      "project_object_id": "ECR-PRAISOS-2",
+      "source_record_ids": ["ECR-PRAISOS-2-CONWAY-127", "ECR-PRAISOS-2-CONWAY-127-II"],
+      "evidence_path": "data/source-evidence/conway1902-p127.jpg",
+      "evidence_sha256": "f3c784d7ad3c1b8b9d7ce0fd33db5e30bec4b5990aa6b957bade860c80ddd25a",
+      "locator": "BSA 8 (1902), printed p. 127, transcriptions (i) and (ii)",
+      "source_line_count": 12,
+      "printed_alternative_count": 2,
+      "project_representation_row_labels": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+      "source_method_note": "The page prints two alternative transcriptions of the same twelve-line inscription; alternatives are not independent objects or witnesses."
+    },
+    {
+      "project_object_id": "ECR-PRAISOS-3",
+      "source_record_ids": ["ECR-PRAISOS-3-CONWAY-117"],
+      "evidence_path": "data/source-evidence/conway1904-p117.jpg",
+      "evidence_sha256": "ea90ea9354d3119fe36a6cd9582abead24272d5a494c9817c84f953645312f43",
+      "locator": "BSA 10 (1903–1904), printed p. 117, section 2",
+      "source_line_count": 14,
+      "project_representation_row_labels": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"],
+      "source_method_note": "The printed transcription has fourteen lines; the page reports the fragment complete on the right-hand side except that lines 3 and 4 continue to the end."
+    }
+  ],
+  "boundary": "These are direct observations of the registered printed pages and their layout, not fresh inspection of the stones. Source lines, printed transliteration groups, project rows, reading alternatives and physical objects are distinct counting units. No preferred reading, restoration, museum identity or line-level re-collation is asserted."
+}

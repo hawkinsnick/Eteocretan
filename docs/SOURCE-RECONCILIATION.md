@@ -5,6 +5,7 @@ The source-critical dossier organizes all eleven coverage entries and twelve att
 ```sh
 python scripts/build_review_dossier.py --check
 python scripts/audit_praisos_identity.py --check
+python scripts/audit_praisos_layout_units.py --check
 python scripts/release_check.py
 ```
 
@@ -30,3 +31,7 @@ Acquire and collate later Praisos critical editions and the original Dreros 1 fa
 The BSA institutional catalogue supplies archive reference **BSA SPHS/1/2816.7202**, item 157706, for the Praesos nomos-fragment copy negative, with a BSA 8:125 publication reference. Primary-page markers now support a three-way historical identity crosswalk: **Pr. I / barxe-inscription = ECR-PRAISOS-1**, **Pr. II / nomos-inscription = ECR-PRAISOS-2**, and **third Eteocretan fragment = ECR-PRAISOS-3**. `research/praisos-historical-identity-crosswalk.json` records the exact pages and hashes; `analysis/praisos-identity-audit.json` replays them. The BSA negative is therefore attached to Praisos 2, but remains a reproduction rather than a second ancient witness. Museum accessions, present physical-object identities, image rights and direct image collation remain pending.
 
 The publisher-indexed Hesperia text supplies **06-0334 (D346.1), Figure 42** as an Azoria handle lead. Direct PDF retrieval failed, so this remains an excerpt-located source lead, not a directly inspected figure or a verified match to either caption candidate.
+
+## Praisos layout and counting units
+
+Direct inspection of the registered Conway pages now distinguishes source lines from project rows and reading alternatives. Praisos 1 has five numbered source lines but Conway groups them into three printed transliteration units (`1–2`, `3–4`, `5`). Praisos 2 has twelve lines printed in two alternative transcriptions of the same inscription. Praisos 3 has fourteen printed lines. `research/praisos-primary-layout-evidence.json` records exact page locators and hashes; `analysis/praisos-layout-unit-audit.json` replays the four project reading versions against those structures. The resulting 31 source lines, 41 project rows across four versions, and three physical publication identities are deliberately not interchangeable denominators.

@@ -91,6 +91,16 @@
       "role": "praisos_identity_audit",
       "path": "analysis/praisos-identity-audit.json",
       "required": true
+    },
+    {
+      "role": "praisos_primary_layout_evidence",
+      "path": "research/praisos-primary-layout-evidence.json",
+      "required": true
+    },
+    {
+      "role": "praisos_layout_unit_audit",
+      "path": "analysis/praisos-layout-unit-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -102,6 +112,7 @@
     "Analytical admission may increase only through documented source collation; archive size alone never unblocks frequency.",
     "Pre-Expert Maximum dispositions current lawful source routes; it does not convert source labels or secondary readings into independent expert validation.",
     "Use source-critical dossiers to retain project attribution versus attributed secondary classification conflicts.",
-    "Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels."
+    "Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels.",
+    "Praisos source lines, printed groups, project rows, alternatives and physical identities are distinct counting units."
   ]
 }

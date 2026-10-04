@@ -1,0 +1,38 @@
+{
+  "format": "eteocretan-praisos-layout-unit-audit-v1",
+  "evidence_sha256": "0c15dc9dcda476688e79caf7c48e46c029c1dd3196d6fc95c5b3c2de6af229c6",
+  "objects": [
+    {
+      "project_object_id": "ECR-PRAISOS-1",
+      "source_line_count": 5,
+      "reading_version_count": 1,
+      "rows_per_version": [
+        3
+      ],
+      "printed_group_count": 3
+    },
+    {
+      "project_object_id": "ECR-PRAISOS-2",
+      "source_line_count": 12,
+      "reading_version_count": 2,
+      "rows_per_version": [
+        12,
+        12
+      ],
+      "printed_group_count": null
+    },
+    {
+      "project_object_id": "ECR-PRAISOS-3",
+      "source_line_count": 14,
+      "reading_version_count": 1,
+      "rows_per_version": [
+        14
+      ],
+      "printed_group_count": null
+    }
+  ],
+  "source_line_total_across_three_objects": 31,
+  "reading_version_count": 4,
+  "preferred_readings_selected": 0,
+  "boundary": "These are direct observations of the registered printed pages and their layout, not fresh inspection of the stones. Source lines, printed transliteration groups, project rows, reading alternatives and physical objects are distinct counting units. No preferred reading, restoration, museum identity or line-level re-collation is asserted."
+}
