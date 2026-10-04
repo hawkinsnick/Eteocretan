@@ -6,6 +6,7 @@ The source-critical dossier organizes all eleven coverage entries and twelve att
 python scripts/build_review_dossier.py --check
 python scripts/audit_praisos_identity.py --check
 python scripts/audit_praisos_layout_units.py --check
+python scripts/audit_guarducci_route.py --check
 python scripts/release_check.py
 ```
 
@@ -35,3 +36,9 @@ The publisher-indexed Hesperia text supplies **06-0334 (D346.1), Figure 42** as 
 ## Praisos layout and counting units
 
 Direct inspection of the registered Conway pages now distinguishes source lines from project rows and reading alternatives. Praisos 1 has five numbered source lines but Conway groups them into three printed transliteration units (`1–2`, `3–4`, `5`). Praisos 2 has twelve lines printed in two alternative transcriptions of the same inscription. Praisos 3 has fourteen printed lines. `research/praisos-primary-layout-evidence.json` records exact page locators and hashes; `analysis/praisos-layout-unit-audit.json` replays the four project reading versions against those structures. The resulting 31 source lines, 41 project rows across four versions, and three physical publication identities are deliberately not interchangeable denominators.
+
+## Guarducci volume route
+
+`research/guarducci-1942-access-route.json` records the University of Crete Anemi institutional route to Margherita Guarducci, *Inscriptiones Creticae*, volume III (1942): permanent metadata resource **000070579**, volume file **000070579_3.pdf**, 101 scan pages, reported 600-dpi digitization dated 10 December 2003, and project print locator pp. 134–142. The route covers the project's Praisos 1–6 and Dreros 1–2 bibliography entries. `analysis/guarducci-route-audit.json` binds that route to the coverage register by hashes and identifiers.
+
+The institutional record and delivery metadata were inspected, but direct volume delivery returned gateway/time-out failures in this environment. Therefore zero primary pages, readings, or analytical rows were collated from this route. The registered file size and page count describe the institutional digital object; they do not establish that the relevant pages were seen, that the scan is openly redistributable, or that eight project labels are eight physical objects. A future lawful inspection must verify title/volume pages and pp. 134–142 before adding evidence or readings.

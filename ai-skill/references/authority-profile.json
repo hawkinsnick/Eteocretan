@@ -101,6 +101,16 @@
       "role": "praisos_layout_unit_audit",
       "path": "analysis/praisos-layout-unit-audit.json",
       "required": true
+    },
+    {
+      "role": "guarducci_1942_access_route",
+      "path": "research/guarducci-1942-access-route.json",
+      "required": true
+    },
+    {
+      "role": "guarducci_route_audit",
+      "path": "analysis/guarducci-route-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -113,6 +123,7 @@
     "Pre-Expert Maximum dispositions current lawful source routes; it does not convert source labels or secondary readings into independent expert validation.",
     "Use source-critical dossiers to retain project attribution versus attributed secondary classification conflicts.",
     "Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels.",
-    "Praisos source lines, printed groups, project rows, alternatives and physical identities are distinct counting units."
+    "Praisos source lines, printed groups, project rows, alternatives and physical identities are distinct counting units.",
+    "The Anemi Guarducci volume route is exact institutional discovery metadata, not proof of page inspection, scan rights, reading collation, source independence, or physical-object identity."
   ]
 }
