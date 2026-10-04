@@ -1,73 +1,4 @@
 {
-  "schema_version": "1.0",
-  "corpus": "Eteocretan",
-  "required_authorities": [
-    {
-      "role": "audit",
-      "path": "exports/audit.json",
-      "required": true
-    },
-    {
-      "role": "corpus",
-      "path": "exports/corpus.json",
-      "required": true
-    },
-    {
-      "role": "notice",
-      "path": "NOTICE",
-      "required": true
-    },
-    {
-      "role": "method",
-      "path": "docs/METHOD.md",
-      "required": true
-    },
-    {
-      "role": "current_status",
-      "path": "analysis/current-status.json",
-      "required": true
-    },
-    {
-      "role": "coverage_register",
-      "path": "research/coverage-register.json",
-      "required": true
-    },
-    {
-      "role": "open_image_register",
-      "path": "research/open-image-register.json",
-      "required": true
-    },
-    {
-      "role": "pre_expert_maximum",
-      "path": "research/pre-expert-maximum.json",
-      "required": true
-    },
-    {
-      "role": "pre_expert_source_exhaustion",
-      "path": "research/pre-expert-source-exhaustion.json",
-      "required": true
-    },
-    {
-      "role": "source_inspection",
-      "path": "research/source-inspection-2026-10-02.json",
-      "required": true
-    },
-    {
-      "role": "reading_version_comparison",
-      "path": "analysis/reading-version-comparison-v1.json",
-      "required": true
-    },
-    {
-      "role": "reading_versions",
-      "path": "data/readings.json",
-      "required": true
-    },
-    {
-      "role": "coverage_register",
-      "path": "research/coverage-register.json",
-      "required": true
-    }
-  ],
   "behavioral_gates": [
     "Analytically admitted rows and tokens remain zero",
     "Alternative reading versions of one inscription are not independent witnesses",
@@ -76,5 +7,84 @@
     "Decipherment and cross-script phonetic equivalence remain blocked",
     "Analytical admission may increase only through documented source collation; archive size alone never unblocks frequency.",
     "Pre-Expert Maximum dispositions current lawful source routes; it does not convert source labels or secondary readings into independent expert validation."
-  ]
+  ],
+  "corpus": "Eteocretan",
+  "required_authorities": [
+    {
+      "path": "exports/audit.json",
+      "required": true,
+      "role": "audit"
+    },
+    {
+      "path": "exports/corpus.json",
+      "required": true,
+      "role": "corpus"
+    },
+    {
+      "path": "NOTICE",
+      "required": true,
+      "role": "notice"
+    },
+    {
+      "path": "docs/METHOD.md",
+      "required": true,
+      "role": "method"
+    },
+    {
+      "path": "analysis/current-status.json",
+      "required": true,
+      "role": "current_status"
+    },
+    {
+      "path": "research/coverage-register.json",
+      "required": true,
+      "role": "coverage_register"
+    },
+    {
+      "path": "research/open-image-register.json",
+      "required": true,
+      "role": "open_image_register"
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "required": true,
+      "role": "pre_expert_maximum"
+    },
+    {
+      "path": "research/pre-expert-source-exhaustion.json",
+      "required": true,
+      "role": "pre_expert_source_exhaustion"
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "required": true,
+      "role": "source_inspection"
+    },
+    {
+      "path": "analysis/reading-version-comparison-v1.json",
+      "required": true,
+      "role": "reading_version_comparison"
+    },
+    {
+      "path": "data/readings.json",
+      "required": true,
+      "role": "reading_versions"
+    },
+    {
+      "path": "research/coverage-register.json",
+      "required": true,
+      "role": "coverage_register"
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "schema_version": "1.0"
 }

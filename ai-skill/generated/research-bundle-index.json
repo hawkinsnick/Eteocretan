@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "f13d3230bb733c1b28d6575c1ae63561c904c328",
+  "source_commit": "2a782560c9e3b54bd4b20a86ad2b24cb04d867b0",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-03T03:41:15+00:00",
+  "generated_at_utc": "2026-10-04T00:48:30+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -13,6 +13,18 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "collection_work_ledger",
+      "path": "research/collection-work-ledger.json",
+      "sha256": "9055ef47955d04c1f7e08077875a8adc25e71bf1bdd8f10b36bf5efd89d3bd00",
+      "bytes": 47826
+    },
+    {
+      "role": "collection_review_packet",
+      "path": "review/collection-packet.json",
+      "sha256": "e0d360d3e66a4a3029f5196f6c47581e2d1a68472634e5ba09fa7042edb1e9d0",
+      "bytes": 1811
+    },
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
