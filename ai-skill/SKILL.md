@@ -39,3 +39,4 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - Use source-critical dossiers to retain project attribution versus attributed secondary classification conflicts.
 - Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels.
 - BSA SPHS/1/2816.7202 is source-identity crosswalked to project Praisos 2 through the archive's nomos-fragment title and Conway's Pr. II terminology; it is a copy negative, not an independent ancient witness, and does not establish a museum accession or image collation.
+- The primary-page crosswalk maps Pr. I/barxe, Pr. II/nomos and the third fragment to project Praisos 1, 2 and 3 respectively; it selects no preferred reading and establishes no modern museum identity.

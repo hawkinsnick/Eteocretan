@@ -22,3 +22,4 @@ jobs:
           python -m corpuskit export --output exports
           git diff --exit-code -- data/records.json analysis/current-status.json exports
       - run: python scripts/build_review_dossier.py --check
+      - run: python scripts/audit_praisos_identity.py --check

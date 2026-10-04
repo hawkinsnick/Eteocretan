@@ -1,0 +1,15 @@
+{
+  "format": "eteocretan-praisos-identity-audit-v1",
+  "crosswalk_sha256": "d085532bf0d960e5d41672204e47eb480a53326dc33d31985acef1437f6b3f6d",
+  "objects_reconciled": [
+    "ECR-PRAISOS-1",
+    "ECR-PRAISOS-2",
+    "ECR-PRAISOS-3"
+  ],
+  "archive_reference": "BSA SPHS/1/2816.7202",
+  "archive_join": "ECR-PRAISOS-2",
+  "preferred_readings_selected": 0,
+  "museum_accessions_established": 0,
+  "independent_reviews_added": 0,
+  "boundary": "This crosswalk reconciles historical publication identities with project object IDs. It does not establish modern museum accessions, present locations, object survival, image rights, preferred readings, line alignment across editions or independent epigraphic review."
+}

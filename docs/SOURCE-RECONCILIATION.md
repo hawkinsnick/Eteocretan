@@ -4,6 +4,7 @@ The source-critical dossier organizes all eleven coverage entries and twelve att
 
 ```sh
 python scripts/build_review_dossier.py --check
+python scripts/audit_praisos_identity.py --check
 python scripts/release_check.py
 ```
 
@@ -26,6 +27,6 @@ Acquire and collate later Praisos critical editions and the original Dreros 1 fa
 
 ## Exact institutional and excavation source leads
 
-The BSA institutional catalogue supplies archive reference **BSA SPHS/1/2816.7202**, item 157706, for the Praesos nomos-fragment copy negative, with a BSA 8:125 publication reference. The primary article identifies the newly discovered nomos inscription as **Pr. II**, and the project's Praisos 2 historical reading contains `sanomoselos`. The source-identity crosswalk is therefore corrected to **ECR-PRAISOS-2** (it had been attached to Praisos 1 in the image-lead register). `research/institutional-archive-leads.json` records the evidence chain. The negative is not a second ancient witness; museum accession, present physical-object identity, image rights and direct image collation remain pending.
+The BSA institutional catalogue supplies archive reference **BSA SPHS/1/2816.7202**, item 157706, for the Praesos nomos-fragment copy negative, with a BSA 8:125 publication reference. Primary-page markers now support a three-way historical identity crosswalk: **Pr. I / barxe-inscription = ECR-PRAISOS-1**, **Pr. II / nomos-inscription = ECR-PRAISOS-2**, and **third Eteocretan fragment = ECR-PRAISOS-3**. `research/praisos-historical-identity-crosswalk.json` records the exact pages and hashes; `analysis/praisos-identity-audit.json` replays them. The BSA negative is therefore attached to Praisos 2, but remains a reproduction rather than a second ancient witness. Museum accessions, present physical-object identities, image rights and direct image collation remain pending.
 
 The publisher-indexed Hesperia text supplies **06-0334 (D346.1), Figure 42** as an Azoria handle lead. Direct PDF retrieval failed, so this remains an excerpt-located source lead, not a directly inspected figure or a verified match to either caption candidate.

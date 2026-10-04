@@ -81,6 +81,16 @@
       "role": "institutional_archive_leads",
       "path": "research/institutional-archive-leads.json",
       "required": true
+    },
+    {
+      "role": "praisos_historical_identity_crosswalk",
+      "path": "research/praisos-historical-identity-crosswalk.json",
+      "required": true
+    },
+    {
+      "role": "praisos_identity_audit",
+      "path": "analysis/praisos-identity-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
