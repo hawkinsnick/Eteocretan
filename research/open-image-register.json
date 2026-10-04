@@ -27,12 +27,12 @@
       "verification": "four high-resolution museum photographs; map individually to corpus objects before use"
     },
     {
-      "object_id": "ECR-PRAISOS-1",
+      "object_id": "ECR-PRAISOS-2",
       "source": "British School at Athens",
       "asset_id": "BSA SPHS/1/2816.7202",
       "license": "institutional archive terms apply",
       "status": "historical_image_lead",
-      "verification": "1901 glass negative described as Eteocretan inscription / nomos-fragment; do not redistribute without checking archive terms"
+      "verification": "Source identity crosswalk: archive title says nomos-fragment and cites BSA 8:125; Conway calls the newly discovered nomos text Pr. II, matching project Praisos 2. Museum accession, present object identity and image rights remain unresolved; do not redistribute without checking archive terms."
     }
   ]
 }

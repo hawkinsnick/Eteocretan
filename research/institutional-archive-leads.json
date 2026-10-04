@@ -12,11 +12,22 @@
       "reported_date": 1901,
       "archive_unit": "glass negative; copy negative, not the inscribed stone",
       "catalogue_bibliography": "BSA 8: 125, publication dated 1901 in archive record",
-      "project_object_join": null,
-      "identity_status": "EXACT_ARCHIVE_REFERENCE_LOCATED_INSCRIPTION_JOIN_PENDING",
+      "project_object_join": {
+        "object_id": "ECR-PRAISOS-2",
+        "status": "SOURCE_IDENTITY_CROSSWALK_ESTABLISHED",
+        "basis": [
+          "The BSA archive title identifies the negative as the nomos-fragment and cites BSA 8:125.",
+          "Conway BSA 8 calls the newly discovered nomos inscription Pr. II; the project's Praisos 2 historical reading on printed p. 127 contains sanomoselos.",
+          "The project distinguishes this source-identity join from museum accession, present physical location and direct image collation."
+        ],
+        "primary_article_url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/prehellenic-inscriptions-of-praesos1/3A1DD2A08F28C67FE9F7F7F7FCB7DA34",
+        "primary_article_doi": "10.1017/S0068245400001416",
+        "article_locator": "BSA 8 (1902), pp. 125-156; Pr. II conservative/probable transliterations at printed p. 127"
+      },
+      "identity_status": "ARCHIVE_NEGATIVE_JOINED_TO_PROJECT_SOURCE_IDENTITY_MUSEUM_OBJECT_ID_PENDING",
       "image_rights": "not_assessed; no image downloaded or redistributed",
       "analytical_admission": false
     }
   ],
-  "boundary": "An archival reproduction is not a new ancient witness. Nomos-fragment title is not enough to assign a project inscription ID or physical monument."
+  "boundary": "An archival reproduction is not a new ancient witness. The archive-title/primary-edition crosswalk identifies the project source identity as Praisos 2; it does not establish a museum accession, present physical location, image rights or a new independent reading."
 }

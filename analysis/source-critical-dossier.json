@@ -5,7 +5,9 @@
     "research/coverage-register.json": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
     "research/azoria-item-candidates.json": "5b765635f3805cf8ebbd0566f4126e23666877211d73697df1219d2d94b8f6cb",
     "research/source-inspection-2026-10-02.json": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5",
-    "research/dreros1-lejeune-critical-witness.json": "b2f460b6f20d5292271e9eafc14b133dc795191e56a0e75adeae28ec4f624bb0"
+    "research/dreros1-lejeune-critical-witness.json": "b2f460b6f20d5292271e9eafc14b133dc795191e56a0e75adeae28ec4f624bb0",
+    "research/institutional-archive-leads.json": "e12586f0c079b91cd329a0fa4f865cefd530c9e0bc0eb66042630d603635ddfe",
+    "research/open-image-register.json": "284775a4c34244a8ddeb6abd0af7708fb46d0713b1d7a01719bba71cb14781b2"
   },
   "coverage_entries": 11,
   "reading_versions": 12,
@@ -180,7 +182,26 @@
           "physical_line_alignment_established": false,
           "decision": null
         }
-      ]
+      ],
+      "institutional_archive_witness": {
+        "reference_number": "BSA SPHS/1/2816.7202",
+        "archive_unit": "glass negative; copy negative, not the inscribed stone",
+        "identity_status": "ARCHIVE_NEGATIVE_JOINED_TO_PROJECT_SOURCE_IDENTITY_MUSEUM_OBJECT_ID_PENDING",
+        "project_object_join": {
+          "object_id": "ECR-PRAISOS-2",
+          "status": "SOURCE_IDENTITY_CROSSWALK_ESTABLISHED",
+          "basis": [
+            "The BSA archive title identifies the negative as the nomos-fragment and cites BSA 8:125.",
+            "Conway BSA 8 calls the newly discovered nomos inscription Pr. II; the project's Praisos 2 historical reading on printed p. 127 contains sanomoselos.",
+            "The project distinguishes this source-identity join from museum accession, present physical location and direct image collation."
+          ],
+          "primary_article_url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/prehellenic-inscriptions-of-praesos1/3A1DD2A08F28C67FE9F7F7F7FCB7DA34",
+          "primary_article_doi": "10.1017/S0068245400001416",
+          "article_locator": "BSA 8 (1902), pp. 125-156; Pr. II conservative/probable transliterations at printed p. 127"
+        },
+        "independent_ancient_witness": false,
+        "image_collated": false
+      }
     },
     {
       "object_id": "ECR-PRAISOS-3",

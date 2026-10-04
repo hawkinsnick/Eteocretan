@@ -26,6 +26,6 @@ Acquire and collate later Praisos critical editions and the original Dreros 1 fa
 
 ## Exact institutional and excavation source leads
 
-The BSA institutional catalogue now supplies archive reference **BSA SPHS/1/2816.7202**, item 157706, for the Praesos nomos-fragment copy negative, with a BSA 8:125 publication reference. `research/institutional-archive-leads.json` retains the exact route; the project-inscription join remains pending and the negative is not a second ancient witness.
+The BSA institutional catalogue supplies archive reference **BSA SPHS/1/2816.7202**, item 157706, for the Praesos nomos-fragment copy negative, with a BSA 8:125 publication reference. The primary article identifies the newly discovered nomos inscription as **Pr. II**, and the project's Praisos 2 historical reading contains `sanomoselos`. The source-identity crosswalk is therefore corrected to **ECR-PRAISOS-2** (it had been attached to Praisos 1 in the image-lead register). `research/institutional-archive-leads.json` records the evidence chain. The negative is not a second ancient witness; museum accession, present physical-object identity, image rights and direct image collation remain pending.
 
 The publisher-indexed Hesperia text supplies **06-0334 (D346.1), Figure 42** as an Azoria handle lead. Direct PDF retrieval failed, so this remains an excerpt-located source lead, not a directly inspected figure or a verified match to either caption candidate.

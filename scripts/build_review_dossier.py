@@ -7,12 +7,17 @@ def build(root=ROOT):
  root=Path(root)
  def read(path):return json.loads((root/path).read_text())
  coverage=read('research/coverage-register.json');readings=read('data/readings.json')
+ archive=read('research/institutional-archive-leads.json');images=read('research/open-image-register.json')
  azoria=read('research/azoria-item-candidates.json');dreros=read('research/source-inspection-2026-10-02.json');lejeune=read('research/dreros1-lejeune-critical-witness.json')
  known={c['object_id']:c for c in coverage}
  if len(known)!=len(coverage):raise ValueError('duplicate coverage object')
  if len({r['record_id'] for r in readings})!=len(readings):raise ValueError('duplicate reading version')
  if any(r['object_id'] not in known for r in readings):raise ValueError('reading has no coverage identity')
  if azoria['collection_parent'] not in known:raise ValueError('Azoria parent missing')
+ archive_entry=archive['entries'][0];join=archive_entry['project_object_join']
+ if join['object_id']!='ECR-PRAISOS-2' or join['object_id'] not in known:raise ValueError('nomos-fragment source identity misjoined')
+ image_matches=[i for i in images['items'] if i.get('asset_id')==archive_entry['reference_number']]
+ if len(image_matches)!=1 or image_matches[0]['object_id']!=join['object_id']:raise ValueError('archive/image register identity mismatch')
  ids=[c['candidate_id'] for c in azoria['candidates']]
  if len(ids)!=len(set(ids)):raise ValueError('duplicate Azoria candidate')
  for c in azoria['candidates']:
@@ -43,10 +48,12 @@ def build(root=ROOT):
   if obj['object_id']=='ECR-DREROS-2':
    item['primary_metadata_candidates']=[a for a in dreros['assertions'] if a.get('project_object_id')==obj['object_id']]
    item['review_findings'].append({'kind':'SOURCE_ITEM_NUMBER_IS_NOT_PROJECT_NUMBER','excluded_other_edition_item':'no. 6','decision':None})
+  if obj['object_id']==join['object_id']:
+   item['institutional_archive_witness']={'reference_number':archive_entry['reference_number'],'archive_unit':archive_entry['archive_unit'],'identity_status':archive_entry['identity_status'],'project_object_join':join,'independent_ancient_witness':False,'image_collated':False}
   if obj['object_id']==azoria['collection_parent']:item['item_candidates']=azoria['candidates']
   if len(versions)>1:item['review_findings'].append({'kind':'MULTIPLE_READING_VERSIONS','physical_line_alignment_established':False,'decision':None})
   dossiers.append(item)
- paths=['data/readings.json','research/coverage-register.json','research/azoria-item-candidates.json','research/source-inspection-2026-10-02.json','research/dreros1-lejeune-critical-witness.json']
+ paths=['data/readings.json','research/coverage-register.json','research/azoria-item-candidates.json','research/source-inspection-2026-10-02.json','research/dreros1-lejeune-critical-witness.json','research/institutional-archive-leads.json','research/open-image-register.json']
  return {'format':'eteocretan-source-critical-dossier-v1','input_hashes':{p:hashlib.sha256((root/p).read_bytes()).hexdigest() for p in paths},
   'coverage_entries':len(coverage),'reading_versions':len(readings),'azoria_item_candidates':len(ids),
   'canonical_admissions_added':0,'dossiers':dossiers,
