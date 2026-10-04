@@ -21,3 +21,4 @@ jobs:
           python -m corpuskit build
           python -m corpuskit export --output exports
           git diff --exit-code -- data/records.json analysis/current-status.json exports
+      - run: python scripts/build_review_dossier.py --check

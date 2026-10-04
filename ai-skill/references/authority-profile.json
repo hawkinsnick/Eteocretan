@@ -63,8 +63,23 @@
       "required": true
     },
     {
-      "role": "coverage_register",
-      "path": "research/coverage-register.json",
+      "role": "source_critical_dossier",
+      "path": "analysis/source-critical-dossier.json",
+      "required": true
+    },
+    {
+      "role": "azoria_item_candidates",
+      "path": "research/azoria-item-candidates.json",
+      "required": true
+    },
+    {
+      "role": "dreros1_near_primary_witness",
+      "path": "research/dreros1-lejeune-critical-witness.json",
+      "required": true
+    },
+    {
+      "role": "institutional_archive_leads",
+      "path": "research/institutional-archive-leads.json",
       "required": true
     }
   ],
@@ -75,6 +90,8 @@
     "Arkalochori is not admitted as Eteocretan",
     "Decipherment and cross-script phonetic equivalence remain blocked",
     "Analytical admission may increase only through documented source collation; archive size alone never unblocks frequency.",
-    "Pre-Expert Maximum dispositions current lawful source routes; it does not convert source labels or secondary readings into independent expert validation."
+    "Pre-Expert Maximum dispositions current lawful source routes; it does not convert source labels or secondary readings into independent expert validation.",
+    "Use source-critical dossiers to retain project attribution versus attributed secondary classification conflicts.",
+    "Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels."
   ]
 }

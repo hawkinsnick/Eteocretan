@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Eteocretan",
   "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-02",
+  "checked": "2026-10-04",
   "established": [
     {
       "gate": "attributed_reading_archive",
@@ -19,6 +19,16 @@
       "gate": "analysis_admission",
       "status": "SEALED",
       "analysis_eligible_rows": 0
+    },
+    {
+      "gate": "source_reconciliation_checkpoint",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "analysis/source-critical-dossier.json",
+        "research/azoria-item-candidates.json",
+        "research/dreros1-lejeune-critical-witness.json"
+      ],
+      "independent_review": false
     }
   ],
   "remaining_nonexpert_work": [
@@ -39,8 +49,10 @@
     {
       "id": "ECR-PRE-003",
       "scope": "Azoria",
-      "action": "Resolve collection lead into item-level catalogue candidates.",
-      "blocked_by": "catalogue_discovery"
+      "action": "Reconcile two D300 caption candidates to excavation/museum IDs and the 17-sherd collection; preserve uncertain attribution and vessel identity.",
+      "blocked_by": "catalogue_discovery",
+      "status": "TWO_CAPTION_CANDIDATES_SEPARATED_INVENTORY_JOIN_OPEN",
+      "evidence": "research/azoria-item-candidates.json"
     }
   ],
   "human_only_boundary": [

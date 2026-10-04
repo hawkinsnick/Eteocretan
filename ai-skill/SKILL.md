@@ -33,3 +33,8 @@ Read `ai-skill/generated/source-state.json` before substantive work. It records 
 - Historical encodings are not new observations of the stones
 - Arkalochori is not admitted as Eteocretan
 - Decipherment and cross-script phonetic equivalence remain blocked
+
+## Source reconciliation checkpoint
+Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artifacts before comparing versions, counting identities, or preparing specialist review.
+- Use source-critical dossiers to retain project attribution versus attributed secondary classification conflicts.
+- Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels.

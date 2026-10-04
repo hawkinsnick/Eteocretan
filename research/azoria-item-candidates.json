@@ -1,0 +1,54 @@
+{
+  "format": "eteocretan-azoria-item-candidates-v1",
+  "checked": "2026-10-04",
+  "source": {
+    "source_id": "azoria-2006-summary",
+    "institution": "University of North Carolina, Azoria Project",
+    "url": "https://azoria.unc.edu/summary-field-reports/2006-summary/",
+    "locator": "§4 D300, caption describing upper and lower pithos handles",
+    "inspection_sha256": "8eefe591ecbeb0f7208b9ad5e675b80b0bfefed4abe2ddb8a52e20b8ab271065",
+    "rights_scope": "Original factual metadata and links only; no source images or full transcription redistributed."
+  },
+  "collection_parent": "ECR-AZORIA-COLLECTION-LEAD",
+  "candidates": [
+    {
+      "candidate_id": "ECR-AZORIA-D300-UPPER-HANDLE",
+      "source_label": "upper inscribed pithos handle",
+      "reported_context": "Attached to pithos fragment lining a built basin/bin in D300.",
+      "museum_id": null,
+      "physical_object_identity_certified": false,
+      "language": null,
+      "language_attribution": "Eteocretan (?) in excavators caption",
+      "analysis_eligible": false,
+      "reading": null
+    },
+    {
+      "candidate_id": "ECR-AZORIA-D300-LOWER-HANDLE",
+      "source_label": "lower inscribed pithos handle",
+      "reported_context": "Recovered from room D300 destruction deposit.",
+      "museum_id": null,
+      "physical_object_identity_certified": false,
+      "language": null,
+      "language_attribution": "Eteocretan (?) in excavators caption",
+      "analysis_eligible": false,
+      "reading": null
+    }
+  ],
+  "relationship_to_17_sherd_collection": "Not reconciled item by item; two caption candidates are not 17 new Eteocretan inscriptions and are not added to native reading counts.",
+  "next_steps": [
+    "Match excavation catalogue/inventory numbers and Hesperia figures to each candidate.",
+    "Establish whether both handles belong to one pithos before counting physical objects.",
+    "Collate source readings and language attribution with qualified review."
+  ],
+  "independent_epigraphic_review": false,
+  "later_publication_identity_lead": {
+    "citation": "Haggis et al., Excavations in the Archaic Civic Buildings at Azoria in 2005–2006, Hesperia 80 (2011)",
+    "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/hesp.80.1.0001.pdf",
+    "locator": "Figure 42, D300 inscribed pithos handle; footnote 134",
+    "reported_excavation_identifier": "06-0334",
+    "reported_context_label": "D346.1",
+    "join_to_upper_or_lower_handle": null,
+    "consultation": "Publisher-indexed text excerpt inspected; direct PDF retrieval returned 502 / timeout. Figure not directly collated.",
+    "scope_caution": "The publication reports 17 inscribed sherds, not 17 established Eteocretan texts."
+  }
+}

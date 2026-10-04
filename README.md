@@ -66,3 +66,7 @@ Here 1.0 means a tested and reproducible attributed archive. Independent
 collation, critical source reconciliation and full discovery coverage remain
 separate gates. The next work should strengthen those gates rather than
 inflate the number of admitted readings.
+
+## Source reconciliation checkpoint
+
+See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for new source-located evidence, reproducible checks, unresolved anomalies and the remaining primary-source work.

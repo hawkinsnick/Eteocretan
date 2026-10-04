@@ -1,0 +1,644 @@
+{
+  "format": "eteocretan-source-critical-dossier-v1",
+  "input_hashes": {
+    "data/readings.json": "038cc319aa683149491a1423c2b29b83681178df881605c589b366480d3dca2e",
+    "research/coverage-register.json": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+    "research/azoria-item-candidates.json": "5b765635f3805cf8ebbd0566f4126e23666877211d73697df1219d2d94b8f6cb",
+    "research/source-inspection-2026-10-02.json": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5",
+    "research/dreros1-lejeune-critical-witness.json": "b2f460b6f20d5292271e9eafc14b133dc795191e56a0e75adeae28ec4f624bb0"
+  },
+  "coverage_entries": 11,
+  "reading_versions": 12,
+  "azoria_item_candidates": 2,
+  "canonical_admissions_added": 0,
+  "dossiers": [
+    {
+      "object_id": "ECR-PRAISOS-1",
+      "coverage_status": "historical_edition_available",
+      "versions": [
+        {
+          "record_id": "ECR-PRAISOS-1-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Praisos 1",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 5,
+          "partition_counts": {
+            "ecr": 5
+          },
+          "literal_text_sha256": "0827c458a4b094ecb20b28ff0ea4c3cac813106e22b59adce041cb73b492a9aa",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        },
+        {
+          "record_id": "ECR-PRAISOS-1-CONWAY-135",
+          "source_level": "primary_historical_edition",
+          "representation": "historical_roman_line_groups",
+          "source": {
+            "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1901-1902_8/annual-of-the-british-school-at-athens_1901-1902_8.pdf",
+            "evidence_path": "data/source-evidence/conway1902-p135.jpg",
+            "sha256": "5cfe89a36f7879afbaff096fbbad9b1786d6852b7de399daad42c149e383b37e",
+            "license": "public_domain_original",
+            "locator": "BSA 8, printed p. 135",
+            "full_source_sha256": "c2f07669e1cb694aae136c8f2b6b9ba09b488f7e0809d159d777cdc5d1c39461",
+            "publication_note": "BSA 8, 1901–1902",
+            "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+          },
+          "representation_row_count": 3,
+          "partition_counts": {
+            "not_recorded": 3
+          },
+          "literal_text_sha256": "5998c59367ff68777c6c4c54a781249f47197214a558b09f0db95724294173ed",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 1,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        },
+        {
+          "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
+          "url": "https://digital.bsa.ac.uk/",
+          "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [
+        {
+          "kind": "MULTIPLE_READING_VERSIONS",
+          "physical_line_alignment_established": false,
+          "decision": null
+        }
+      ]
+    },
+    {
+      "object_id": "ECR-PRAISOS-2",
+      "coverage_status": "historical_edition_available",
+      "versions": [
+        {
+          "record_id": "ECR-PRAISOS-2-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Praisos 2",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 13,
+          "partition_counts": {
+            "ecr": 13
+          },
+          "literal_text_sha256": "5e7e03fbe03de4d3e91239c654c945d69f753f7bd588f9b411e4b9f98ef04bf2",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        },
+        {
+          "record_id": "ECR-PRAISOS-2-CONWAY-127",
+          "source_level": "primary_historical_edition",
+          "representation": "historical_roman_transcription",
+          "source": {
+            "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1901-1902_8/annual-of-the-british-school-at-athens_1901-1902_8.pdf",
+            "evidence_path": "data/source-evidence/conway1902-p127.jpg",
+            "sha256": "f3c784d7ad3c1b8b9d7ce0fd33db5e30bec4b5990aa6b957bade860c80ddd25a",
+            "license": "public_domain_original",
+            "locator": "BSA 8, printed p. 127",
+            "full_source_sha256": "c2f07669e1cb694aae136c8f2b6b9ba09b488f7e0809d159d777cdc5d1c39461",
+            "publication_note": "BSA 8, 1901–1902",
+            "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+          },
+          "representation_row_count": 12,
+          "partition_counts": {
+            "not_recorded": 12
+          },
+          "literal_text_sha256": "9537731a087887ea627258aae3e064e853cb23b11bc00ae8f21f22d537902e45",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        },
+        {
+          "record_id": "ECR-PRAISOS-2-CONWAY-127-II",
+          "source_level": "primary_historical_edition",
+          "representation": "historical_roman_transcription",
+          "source": {
+            "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1901-1902_8/annual-of-the-british-school-at-athens_1901-1902_8.pdf",
+            "evidence_path": "data/source-evidence/conway1902-p127.jpg",
+            "sha256": "f3c784d7ad3c1b8b9d7ce0fd33db5e30bec4b5990aa6b957bade860c80ddd25a",
+            "license": "public_domain_original",
+            "locator": "BSA 8, printed p. 127",
+            "full_source_sha256": "c2f07669e1cb694aae136c8f2b6b9ba09b488f7e0809d159d777cdc5d1c39461",
+            "publication_note": "BSA 8, 1901–1902",
+            "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+          },
+          "representation_row_count": 12,
+          "partition_counts": {
+            "not_recorded": 12
+          },
+          "literal_text_sha256": "68e0f51021b8f67d61b2d24a861adbd1ffbdaa69fc961d739f2a6e675c126392",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 2,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        },
+        {
+          "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
+          "url": "https://digital.bsa.ac.uk/",
+          "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [
+        {
+          "kind": "MULTIPLE_READING_VERSIONS",
+          "physical_line_alignment_established": false,
+          "decision": null
+        }
+      ]
+    },
+    {
+      "object_id": "ECR-PRAISOS-3",
+      "coverage_status": "historical_edition_available",
+      "versions": [
+        {
+          "record_id": "ECR-PRAISOS-3-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Praisos 3",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 16,
+          "partition_counts": {
+            "ecr": 16
+          },
+          "literal_text_sha256": "4a6a7786c3657b85dc4e333b2262cc12285601c2848723b537be13fcb589dc2b",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        },
+        {
+          "record_id": "ECR-PRAISOS-3-CONWAY-117",
+          "source_level": "primary_historical_edition",
+          "representation": "project_encoding_of_printed_greek_letterforms",
+          "source": {
+            "url": "https://archive.org/download/annual-of-the-british-school-at-athens_1903-1904_10/annual-of-the-british-school-at-athens_1903-1904_10.pdf",
+            "evidence_path": "data/source-evidence/conway1904-p117.jpg",
+            "sha256": "ea90ea9354d3119fe36a6cd9582abead24272d5a494c9817c84f953645312f43",
+            "license": "public_domain_original",
+            "locator": "BSA 10, printed p. 117",
+            "full_source_sha256": "d74c0f2090fe43058c3882fa0f10d5c236a8faf3158dd1b2fc0399a4293d00c2",
+            "publication_note": "BSA 10, session 1903–1904; article and addendum dated 1905",
+            "changes": "Project transcription from page scan. Greek phi standardized as φ. Supra-linear doubts and underlining conservatively mark the entire line uncertain. Partial strokes encoded [trace]. See scan for exact typography."
+          },
+          "representation_row_count": 14,
+          "partition_counts": {
+            "not_recorded": 14
+          },
+          "literal_text_sha256": "327e96efca00f6f54b8f014454ef21688fdd87b222ff752550b969e28ec8c4df",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 1,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        },
+        {
+          "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
+          "url": "https://digital.bsa.ac.uk/",
+          "consultation": "Institutional image-archive lead located; item-level image identifiers must be reconciled before project collation."
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [
+        {
+          "kind": "MULTIPLE_READING_VERSIONS",
+          "physical_line_alignment_established": false,
+          "decision": null
+        }
+      ]
+    },
+    {
+      "object_id": "ECR-PRAISOS-4",
+      "coverage_status": "uncertain_language",
+      "versions": [
+        {
+          "record_id": "ECR-PRAISOS-4-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Praisos 4",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 4,
+          "partition_counts": {
+            "ecr": 4
+          },
+          "literal_text_sha256": "2145effd5466654afb9e044ef17940049edf3533ea76e5211b90ac6dee410385",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [
+        {
+          "kind": "ATTRIBUTION_LEVELS_DIFFER",
+          "project_status": "uncertain_language",
+          "reported_secondary_baseline": {
+            "catalogue_id": "PRA4",
+            "date": "3rd/2nd c. BC",
+            "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+            "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+            "project_independent_review": false
+          },
+          "decision": null,
+          "note": "Secondary classification is attributed, not project-established language identity."
+        }
+      ]
+    },
+    {
+      "object_id": "ECR-PRAISOS-5",
+      "coverage_status": "uncertain_language",
+      "versions": [
+        {
+          "record_id": "ECR-PRAISOS-5-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Praisos 5",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 11,
+          "partition_counts": {
+            "ecr": 11
+          },
+          "literal_text_sha256": "a5503964e86a01fdea016d5bfdd15ec8b2585711bc013428a674163fe8c33c94",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [
+        {
+          "kind": "ATTRIBUTION_LEVELS_DIFFER",
+          "project_status": "uncertain_language",
+          "reported_secondary_baseline": {
+            "catalogue_id": "PRA5",
+            "date": "6th c. BC",
+            "classification": "undoubtedly Eteocretan in Duhoux-derived scholarly baseline",
+            "source": "Maarschalk thesis table 6.1 citing Duhoux 1982/2007",
+            "project_independent_review": false
+          },
+          "decision": null,
+          "note": "Secondary classification is attributed, not project-established language identity."
+        }
+      ]
+    },
+    {
+      "object_id": "ECR-PRAISOS-6",
+      "coverage_status": "uncertain_language",
+      "versions": [
+        {
+          "record_id": "ECR-PRAISOS-6-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Praisos 6",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 3,
+          "partition_counts": {
+            "ecr": 3
+          },
+          "literal_text_sha256": "bba8e7b4542447a93b1e559afc6672229b4f8ffdfc11b947a98ae3d3939151eb",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": []
+    },
+    {
+      "object_id": "ECR-DREROS-1",
+      "coverage_status": "secondary_reference_only",
+      "versions": [
+        {
+          "record_id": "ECR-DREROS-1-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Dreros 1",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 5,
+          "partition_counts": {
+            "ecr": 2,
+            "grc": 3
+          },
+          "literal_text_sha256": "adc9156098f33e1b21af36ab830320ef364a02ca814b5f159839aeae1686c9c5",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [
+        {
+          "kind": "ORIGINAL_EDITION_ACQUISITION_OPEN",
+          "citation": "H. van Effenterre, Revue de Philologie XX (1946), pp. 131-138",
+          "decision": null
+        }
+      ],
+      "near_primary_witness": {
+        "schema_version": "1.0",
+        "source": "Michel Lejeune 1947, L'inscription Isaluria de Drèros : étéocrétois ou crétois?",
+        "source_role": "NEAR_PRIMARY_CRITICAL_WITNESS_REPRODUCING_VAN_EFFENTERRE_1946",
+        "primary_locator": "H. van Effenterre, Revue de Philologie XX (1946), pp. 131-138",
+        "lejeune_locator": "REA 49 (1947), pp. 274-285",
+        "object": "Dreros Isaluria / project Dreros 1 candidate",
+        "physical_text_structure": {
+          "deep_inscription_lines": 2,
+          "direction_lines_1_2": "retrograde",
+          "faint_inscription_lines": 3,
+          "direction_lines_3_5": "boustrophedon; 3 and 5 retrograde, 4 direct",
+          "right_edge": "text incomplete at right for beginnings of lines 1,2,3,5; possible blank/damage ambiguities retained"
+        },
+        "uncertainty_examples": [
+          "line 1 initial indistinct sign",
+          "line 1 after beta-rho-epsilon: tau or vertical interpunct",
+          "line 1 final letter appears bent nu",
+          "line 2 before delta: upper stroke may belong to nu/mu/u",
+          "line 3 multiple ambiguous traces",
+          "line 4/5 endings affected by blank/break uncertainty"
+        ],
+        "project_rule": "Use as attributed critical witness to primary editor's reported state; do not promote Lejeune's linguistic interpretation or silently replace the unavailable original facsimile.",
+        "rights": "Record bibliographic metadata, structural observations, and short uncertainty summaries; do not redistribute full protected article/facsimile absent applicable permission.",
+        "status": "DREROS1_NEAR_PRIMARY_SOURCE_ROUTE_OPEN"
+      }
+    },
+    {
+      "object_id": "ECR-DREROS-2",
+      "coverage_status": "secondary_reference_only",
+      "versions": [
+        {
+          "record_id": "ECR-DREROS-2-WIKIPEDIA-174295509",
+          "source_level": "secondary_reference",
+          "representation": "secondary_roman_transcription",
+          "source": {
+            "url": "https://es.wikipedia.org/w/index.php?title=Idioma_eteocretense&oldid=174295509",
+            "evidence_path": "data/raw/wikipedia-es.html",
+            "sha256": "9b0773ac02f23ded6d6999766c407e5c792a23dcdad2586c70e5a31e791edb65",
+            "license": "CC-BY-SA-4.0",
+            "locator": "Dreros 2",
+            "changes": "Extracted attributed reading blocks; structured language partitions; no modern interpretation imported."
+          },
+          "representation_row_count": 3,
+          "partition_counts": {
+            "ecr": 1,
+            "grc": 2
+          },
+          "literal_text_sha256": "fb8d0f31633aa1d9b80cbf6d1f53a076f533c8c071718f16a0ba840bae247af1",
+          "preferred_version": false,
+          "analysis_admission_granted": false
+        }
+      ],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "citation": "Yves Duhoux, L’Étéocrétois: les textes – la langue, Amsterdam 1982",
+          "locator": "Dreros pp. 27–53; Praisos pp. 55–85",
+          "consultation": "Bibliographic lead; full critical edition not acquired"
+        },
+        {
+          "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
+          "consultation": "Bibliographic lead, not redistributed"
+        },
+        {
+          "citation": "H. Van Effenterre, Inscriptions archaïques crétoises, BCH 70 (1946), pp. 588–606",
+          "doi": "10.3406/bch.1946.2609",
+          "url": "https://www.persee.fr/doc/bch_0007-4217_1946_num_70_1_2609",
+          "locator": "no. 5, pp. 602–603; no. 6 excluded from candidate join",
+          "consultation": "Publisher scans inspected; candidate identity and metadata only. No critical reading admitted.",
+          "inspection_register": "research/source-inspection-2026-10-02.json"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [
+        {
+          "kind": "SOURCE_ITEM_NUMBER_IS_NOT_PROJECT_NUMBER",
+          "excluded_other_edition_item": "no. 6",
+          "decision": null
+        }
+      ],
+      "primary_metadata_candidates": [
+        {
+          "project_object_id": "ECR-DREROS-2",
+          "edition_item": "no. 5",
+          "locator": "pp. 602–603",
+          "association_status": "CANDIDATE_BY_THREE_LINE_LAYOUT_AND_READING_CORRESPONDENCE",
+          "reported_material": "sideropetra",
+          "reported_dimensions_mm": {
+            "length": 990,
+            "height": 230,
+            "thickness": 230
+          },
+          "reported_line_count": 3,
+          "reported_direction": "boustrophedon; starts upper right",
+          "damage": "Both ends fractured; left fragment refits. Right-hand lacuna extent unknown.",
+          "language_partition_status": "UNRESOLVED: publisher questions possible Eteocretan remnants in first line; existing secondary partition is not upgraded."
+        }
+      ]
+    },
+    {
+      "object_id": "ECR-PSYCHRO-DISPUTED",
+      "coverage_status": "disputed_authenticity",
+      "versions": [],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "citation": "C. B. Kritzas, The “Bilingual” inscription from Psychro (Crete). A coup de grâce, in Μεγάλαι Νῆσοι I, 2004 [published 2006], pp. 255–261",
+          "consultation": "Bibliographic lead; no transcription imported"
+        },
+        {
+          "citation": "E. Papakitsos and I. Kenanidis, The Eteocretan Inscription from Psychro (Crete) is Genuine, Anistoriton 14 (2014–2015)",
+          "url": "https://www.researchgate.net/publication/312038989",
+          "consultation": "Contrary authenticity position; not adopted as consensus"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": []
+    },
+    {
+      "object_id": "CRET-DISPUTED-HM-X2416",
+      "coverage_status": "disputed_script",
+      "versions": [],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "citation": "Georgia Flouda, Materiality and script, SMEA NS 1 (2015), pp. 43–56",
+          "locator": "pp. 50–52"
+        },
+        {
+          "url": "https://github.com/hawkinsnick/Cretan-hieroglpyhs/blob/main/research/disputed-inscriptions/arkalochori-axe.json",
+          "consultation": "Shared canonical object register"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": []
+    },
+    {
+      "object_id": "ECR-AZORIA-COLLECTION-LEAD",
+      "coverage_status": "collection_lead",
+      "versions": [],
+      "primary_historical_version_count": 0,
+      "source_leads": [
+        {
+          "url": "https://azoria.unc.edu/summary-field-reports/2006-summary/",
+          "locator": "D300 pithos handles, caption with question mark",
+          "consultation": "Excavation report consulted; no images or transcription redistributed"
+        },
+        {
+          "citation": "D. C. Haggis et al., Excavations in the Archaic Civic Buildings at Azoria in 2005–2006, Hesperia 80 (2011)",
+          "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/hesp.80.1.0001.pdf",
+          "consultation": "Follow-up edition lead; objects not yet individually reconciled"
+        }
+      ],
+      "analysis_eligible": false,
+      "independent_review": false,
+      "review_findings": [],
+      "item_candidates": [
+        {
+          "candidate_id": "ECR-AZORIA-D300-UPPER-HANDLE",
+          "source_label": "upper inscribed pithos handle",
+          "reported_context": "Attached to pithos fragment lining a built basin/bin in D300.",
+          "museum_id": null,
+          "physical_object_identity_certified": false,
+          "language": null,
+          "language_attribution": "Eteocretan (?) in excavators caption",
+          "analysis_eligible": false,
+          "reading": null
+        },
+        {
+          "candidate_id": "ECR-AZORIA-D300-LOWER-HANDLE",
+          "source_label": "lower inscribed pithos handle",
+          "reported_context": "Recovered from room D300 destruction deposit.",
+          "museum_id": null,
+          "physical_object_identity_certified": false,
+          "language": null,
+          "language_attribution": "Eteocretan (?) in excavators caption",
+          "analysis_eligible": false,
+          "reading": null
+        }
+      ]
+    }
+  ],
+  "boundary": "Dossiers group attributed evidence and pending decisions. Candidate labels, reading versions, source rows and physical monuments are distinct units; no line alignment or language decision is inferred."
+}

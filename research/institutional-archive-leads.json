@@ -1,0 +1,22 @@
+{
+  "format": "eteocretan-institutional-archive-leads-v1",
+  "checked": "2026-10-04",
+  "entries": [
+    {
+      "archive": "British School at Athens",
+      "collection": "BSA SPHS Image Collection",
+      "reference_number": "BSA SPHS/1/2816.7202",
+      "institutional_item_id": "157706",
+      "title": "Praesos: Eteocretan inscription (the nomos-fragment)",
+      "url": "https://digital.bsa.ac.uk/results.php?creator-irn=353&irn=157706&start=501",
+      "reported_date": 1901,
+      "archive_unit": "glass negative; copy negative, not the inscribed stone",
+      "catalogue_bibliography": "BSA 8: 125, publication dated 1901 in archive record",
+      "project_object_join": null,
+      "identity_status": "EXACT_ARCHIVE_REFERENCE_LOCATED_INSCRIPTION_JOIN_PENDING",
+      "image_rights": "not_assessed; no image downloaded or redistributed",
+      "analytical_admission": false
+    }
+  ],
+  "boundary": "An archival reproduction is not a new ancient witness. Nomos-fragment title is not enough to assign a project inscription ID or physical monument."
+}
