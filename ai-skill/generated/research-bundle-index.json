@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "f13d3230bb733c1b28d6575c1ae63561c904c328",
+  "source_commit": "d93a2a88e433a77b2b83d97c69e3279d23c338d4",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-03T03:41:15+00:00",
+  "generated_at_utc": "2026-10-04T03:51:05+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -13,6 +13,36 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "source_reconciliation_guide",
+      "path": "docs/SOURCE-RECONCILIATION.md",
+      "sha256": "508277eaef85b3fdae17656bef3bd87306847487d727a7e9fa8e7f762309f1cd",
+      "bytes": 2964
+    },
+    {
+      "role": "institutional_archive_leads",
+      "path": "research/institutional-archive-leads.json",
+      "sha256": "e3ae65746f4fcc0ac4421bc80aa51759c7f6f683dafd4d2d3976d756593ab230",
+      "bytes": 1059
+    },
+    {
+      "role": "source_critical_dossier",
+      "path": "analysis/source-critical-dossier.json",
+      "sha256": "de1ea82d300cd31dd83531988d227675784bf7f7554e3012c2b97b6fcb3f7ba7",
+      "bytes": 29737
+    },
+    {
+      "role": "azoria_item_candidates",
+      "path": "research/azoria-item-candidates.json",
+      "sha256": "5b765635f3805cf8ebbd0566f4126e23666877211d73697df1219d2d94b8f6cb",
+      "bytes": 2710
+    },
+    {
+      "role": "dreros1_near_primary_witness",
+      "path": "research/dreros1-lejeune-critical-witness.json",
+      "sha256": "b2f460b6f20d5292271e9eafc14b133dc795191e56a0e75adeae28ec4f624bb0",
+      "bytes": 1529
+    },
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
@@ -36,12 +66,6 @@
       "path": "data/readings.json",
       "sha256": "038cc319aa683149491a1423c2b29b83681178df881605c589b366480d3dca2e",
       "bytes": 48473
-    },
-    {
-      "role": "coverage_register",
-      "path": "research/coverage-register.json",
-      "sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
-      "bytes": 13280
     },
     {
       "role": "coverage_register",
@@ -88,8 +112,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "aea0dc38565fdc40246199b84e4ca841ee2395581df14b9af3833522cb4e14e9",
-      "bytes": 1852
+      "sha256": "4139c641df2ec1d56325f2351d9ae594d2e2be02e35bb518d98af3cdae6d07b3",
+      "bytes": 2381
     },
     {
       "role": "pre_expert_source_exhaustion",
