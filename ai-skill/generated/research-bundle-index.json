@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "24eb53472f698ec00fb1d2f44c6c0eb5308fc57d",
+  "source_commit": "a4daec16925a937a87d0ba92c49eb83222ce00fa",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T09:10:07+00:00",
+  "generated_at_utc": "2026-10-04T10:08:10+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "8a7a36c5aa1c8f02c2634eed9cce2647dd9ab6b5f7650a2609738eba25c0aa34",
-      "bytes": 5490
+      "sha256": "cf8f802f7df1679f1a090d44f2e998f2e6f6f842a91c54ef4844edaffba0476a",
+      "bytes": 6558
     },
     {
       "role": "institutional_archive_leads",
@@ -60,6 +60,18 @@
       "path": "analysis/guarducci-route-audit.json",
       "sha256": "4613c315758b5eb4aff9c753ba85adfa69bbc7072137e3a05c64ae00bc88682d",
       "bytes": 1047
+    },
+    {
+      "role": "praisos_guarducci_number_concordance",
+      "path": "research/praisos-guarducci-number-concordance.json",
+      "sha256": "4d99b3f7abf2c1aa1d57e8a28b7c5e2478fc1636b4daa7fe1f69fa1b01d9f822",
+      "bytes": 2630
+    },
+    {
+      "role": "praisos_guarducci_number_audit",
+      "path": "analysis/praisos-guarducci-number-audit.json",
+      "sha256": "5a86b186f7587046eb4216c71548edf3cf4caa2b0e3ba8f1434f81e8d88df1ec",
+      "bytes": 2210
     },
     {
       "role": "source_critical_dossier",
