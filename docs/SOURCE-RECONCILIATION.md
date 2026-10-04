@@ -17,7 +17,7 @@ Read `analysis/source-critical-dossier.json` for per-object evidence and `resear
 
 | Candidate | Excavators' reported context | Identity and attribution |
 |---|---|---|
-| D300 upper handle | Attached to the pithos fragment used in a basin/bin lining | Inventory number unresolved; Eteocretan (?) remains attributed. |
+| D300 upper handle | Attached to the pithos fragment used in a basin/bin lining | Description-level Figure 42 link to excavation 06-0334 (D346.1); museum accession unresolved; language uncertain. |
 | D300 lower handle | Room destruction deposit | Inventory number unresolved; Eteocretan (?) remains attributed. |
 
 Source: University of North Carolina Azoria Project, 2006 summary, §4 D300 and the pithos-handle caption: https://azoria.unc.edu/summary-field-reports/2006-summary/ . Source images and full readings are not redistributed. These candidates are separate from the native reading archive. They may relate to the reported seventeen-sherd collection, but that relationship and whether they represent distinct vessels remain unestablished.
@@ -32,7 +32,7 @@ Acquire and collate later Praisos critical editions and the original Dreros 1 fa
 
 The BSA institutional catalogue supplies archive reference **BSA SPHS/1/2816.7202**, item 157706, for the Praesos nomos-fragment copy negative, with a BSA 8:125 publication reference. Primary-page markers now support a three-way historical identity crosswalk: **Pr. I / barxe-inscription = ECR-PRAISOS-1**, **Pr. II / nomos-inscription = ECR-PRAISOS-2**, and **third Eteocretan fragment = ECR-PRAISOS-3**. `research/praisos-historical-identity-crosswalk.json` records the exact pages and hashes; `analysis/praisos-identity-audit.json` replays them. The BSA negative is therefore attached to Praisos 2, but remains a reproduction rather than a second ancient witness. Museum accessions, present physical-object identities, image rights and direct image collation remain pending.
 
-The publisher-indexed Hesperia text supplies **06-0334 (D346.1), Figure 42** as an Azoria handle lead. Direct PDF retrieval failed, so this remains an excerpt-located source lead, not a directly inspected figure or a verified match to either caption candidate.
+The publicly author-uploaded Haggis et al. article indexed text (Hesperia 80, 2011, printed pp. 57–58, Figure 42; footnotes 130, 134) supports a description-level link between the bin-lining upper handle and excavation **06-0334 (D346.1)**. The second handle has no resolved individual identifier. The authors qualify the same-pithos hypothesis with “presumably”; no physical join is certified. Three D300 inscribed sherds and seventeen site-wide inscribed sherds are separate denominators, neither an Eteocretan text count. The language suggestion remains explicitly non-probative. See https://www.researchgate.net/publication/273676601_Excavations_in_the_Archaic_Civic_Buildings_at_Azoria_in_2005-2006 . Publisher/UNC delivery failed (502), and direct ResearchGate retrieval returned 403. Indexed text was inspected; PDF pages and figure pixels were not. Only original metadata and attributed summaries are redistributed.
 
 ## Praisos layout and counting units
 

@@ -29,3 +29,14 @@ class DossierTests(unittest.TestCase):
     else:x['items'][-1]['object_id']='ECR-PRAISOS-1'
     p.write_text(json.dumps(x),encoding='utf-8')
     with self.assertRaises(ValueError):m.build(root)
+
+ def test_unverified_azoria_count_and_join_promotions_rejected(self):
+  for field in ['physical_join','text_count','image_inspection']:
+   with tempfile.TemporaryDirectory() as tmp:
+    root=Path(tmp)/'repo';shutil.copytree(R,root,ignore=shutil.ignore_patterns('.git','__pycache__'))
+    p=root/'research/azoria-item-candidates.json';x=json.loads(p.read_text())
+    if field=='physical_join':x['reported_handle_relationship']['physical_join_certified']=True
+    elif field=='text_count':x['publication_count_units'][0]['eteocretan_text_count']=3
+    else:x['later_publication_identity_lead']['figure_directly_inspected']=True
+    p.write_text(json.dumps(x))
+    with self.assertRaises(ValueError):m.build(root)

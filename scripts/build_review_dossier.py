@@ -22,6 +22,11 @@ def build(root=ROOT):
  if len(ids)!=len(set(ids)):raise ValueError('duplicate Azoria candidate')
  for c in azoria['candidates']:
   if c['analysis_eligible'] or c['language'] is not None or c['physical_object_identity_certified']:raise ValueError('unreconciled Azoria candidate promoted')
+ relationship=azoria['reported_handle_relationship']
+ if relationship['physical_join_certified'] or relationship['unique_vessel_count'] is not None:raise ValueError('hypothetical pithos join promoted')
+ lead=azoria['later_publication_identity_lead']
+ if lead['figure_directly_inspected'] or lead['museum_accession_established']:raise ValueError('indexed text promoted to figure or museum verification')
+ if any(u['eteocretan_text_count'] is not None for u in azoria['publication_count_units']):raise ValueError('sherd counts promoted to Eteocretan text counts')
  dossiers=[]
  for obj in coverage:
   if obj['analysis_eligible']:raise ValueError('coverage cannot grant admission through dossier generation')
@@ -50,7 +55,12 @@ def build(root=ROOT):
    item['review_findings'].append({'kind':'SOURCE_ITEM_NUMBER_IS_NOT_PROJECT_NUMBER','excluded_other_edition_item':'no. 6','decision':None})
   if obj['object_id']==join['object_id']:
    item['institutional_archive_witness']={'reference_number':archive_entry['reference_number'],'archive_unit':archive_entry['archive_unit'],'identity_status':archive_entry['identity_status'],'project_object_join':join,'independent_ancient_witness':False,'image_collated':False}
-  if obj['object_id']==azoria['collection_parent']:item['item_candidates']=azoria['candidates']
+  if obj['object_id']==azoria['collection_parent']:
+   item['item_candidates']=azoria['candidates']
+   item['publication_identity_lead']=azoria['later_publication_identity_lead']
+   item['reported_handle_relationship']=azoria['reported_handle_relationship']
+   item['publication_count_units']=azoria['publication_count_units']
+   item['publication_language_assessment']=azoria['publication_language_assessment']
   if len(versions)>1:item['review_findings'].append({'kind':'MULTIPLE_READING_VERSIONS','physical_line_alignment_established':False,'decision':None})
   dossiers.append(item)
  paths=['data/readings.json','research/coverage-register.json','research/azoria-item-candidates.json','research/source-inspection-2026-10-02.json','research/dreros1-lejeune-critical-witness.json','research/institutional-archive-leads.json','research/open-image-register.json']

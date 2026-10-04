@@ -20,7 +20,15 @@
       "language": null,
       "language_attribution": "Eteocretan (?) in excavators caption",
       "analysis_eligible": false,
-      "reading": null
+      "reading": null,
+      "publication_description_link": {
+        "figure": "42",
+        "printed_page": 58,
+        "excavation_identifier": "06-0334",
+        "context_label": "D346.1",
+        "status": "textual_description_correspondence",
+        "museum_accession": null
+      }
     },
     {
       "candidate_id": "ECR-AZORIA-D300-LOWER-HANDLE",
@@ -31,24 +39,67 @@
       "language": null,
       "language_attribution": "Eteocretan (?) in excavators caption",
       "analysis_eligible": false,
-      "reading": null
+      "reading": null,
+      "publication_description_link": {
+        "printed_page": 57,
+        "excavation_identifier": null,
+        "status": "second_handle_reported_in_prose; individual identifier unresolved"
+      }
     }
   ],
-  "relationship_to_17_sherd_collection": "Not reconciled item by item; two caption candidates are not 17 new Eteocretan inscriptions and are not added to native reading counts.",
+  "relationship_to_17_sherd_collection": "Publication counts three D300 sherds and seventeen site-wide inscribed sherds; item-by-item site reconciliation remains open. Neither denominator is an Eteocretan text count.",
   "next_steps": [
-    "Match excavation catalogue/inventory numbers and Hesperia figures to each candidate.",
-    "Establish whether both handles belong to one pithos before counting physical objects.",
+    "Inspect the actual Figure 42 image and catalogue entry lawfully; verify the text-level upper-handle correspondence.",
+    "Resolve the second handle excavation identifier and both museum accessions.",
+    "Test the attributed same-pithos hypothesis without treating it as a certified join.",
     "Collate source readings and language attribution with qualified review."
   ],
   "independent_epigraphic_review": false,
   "later_publication_identity_lead": {
     "citation": "Haggis et al., Excavations in the Archaic Civic Buildings at Azoria in 2005–2006, Hesperia 80 (2011)",
     "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/hesp.80.1.0001.pdf",
-    "locator": "Figure 42, D300 inscribed pithos handle; footnote 134",
+    "locator": "Printed pp. 57–58, Figure 42 and footnotes 130, 134",
     "reported_excavation_identifier": "06-0334",
     "reported_context_label": "D346.1",
-    "join_to_upper_or_lower_handle": null,
-    "consultation": "Publisher-indexed text excerpt inspected; direct PDF retrieval returned 502 / timeout. Figure not directly collated.",
-    "scope_caution": "The publication reports 17 inscribed sherds, not 17 established Eteocretan texts."
+    "join_to_upper_or_lower_handle": "ECR-AZORIA-D300-UPPER-HANDLE",
+    "consultation": "Public author-uploaded article indexed text inspected; publisher PDF and UNC repository returned 502; direct ResearchGate request returned 403. No figure pixels or PDF pages collated.",
+    "scope_caution": "The publication reports 17 inscribed sherds, not 17 established Eteocretan texts.",
+    "join_evidence_class": "PRIMARY_TEXT_DESCRIPTION_JOIN_NOT_IMAGE_MATCH",
+    "join_basis": "The p. 57 bin-wall fragment paragraph calls out Figure 42; p. 58 labels that figure 06-0334 (D346.1). The UNC upper candidate is the bin-lining handle. This is a description-level correspondence, not a certified physical identity.",
+    "accessible_text_url": "https://www.researchgate.net/publication/273676601_Excavations_in_the_Archaic_Civic_Buildings_at_Azoria_in_2005-2006",
+    "source_classification": "primary_excavation_publication_indexed_text",
+    "figure_directly_inspected": false,
+    "pdf_directly_inspected": false,
+    "museum_accession_established": false
+  },
+  "reported_handle_relationship": {
+    "source_locator": "Haggis et al. 2011, p. 57",
+    "source_qualifier": "presumably",
+    "hypothesis": "Both handles belong to the same pithos.",
+    "physical_join_certified": false,
+    "unique_vessel_count": null
+  },
+  "publication_count_units": [
+    {
+      "count": 3,
+      "unit": "inscribed sherds",
+      "scope": "D300 west room",
+      "locator": "p. 57",
+      "composition": "one lid/stopper and two handle fragments",
+      "eteocretan_text_count": null
+    },
+    {
+      "count": 17,
+      "unit": "inscribed sherds with graffiti or dipinti",
+      "scope": "Azoria site",
+      "locator": "p. 58",
+      "eteocretan_text_count": null
+    }
+  ],
+  "publication_language_assessment": {
+    "locator": "p. 58, discussion and n. 134",
+    "status": "possible Eteocretan, explicitly not probative",
+    "project_language_decision": null,
+    "independent_review": false
   }
 }
