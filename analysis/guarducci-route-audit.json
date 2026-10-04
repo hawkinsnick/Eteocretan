@@ -1,6 +1,6 @@
 {
   "format": "eteocretan-guarducci-route-audit-v1",
-  "route_sha256": "44a70a0ef5ba618d76ed408133e63017413b60783832333c8eb9225bdcd89815",
+  "route_sha256": "416c3c549f7c83e3f60c80a4f52b44925a2f4ff2acb3e4ddbcffb2feceb0b2d2",
   "coverage_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
   "coverage_object_count": 8,
   "coverage_object_ids": [
@@ -19,5 +19,5 @@
   "primary_pages_collated": 0,
   "reading_versions_added": 0,
   "analytical_admissions_added": 0,
-  "boundary": "An open institutional delivery route is not the same as completed primary-edition collation. The two byte counts are separately reported delivery/preservation metadata and are not treated as conflicting content hashes. No reading, object identity, language classification or expert judgment is imported."
+  "boundary": "An institutional delivery route is not the same as completed primary-edition collation or an open-licence determination. The two byte counts are separately reported delivery/preservation metadata and are not treated as conflicting content hashes. No reading, object identity, language classification or expert judgment is imported."
 }

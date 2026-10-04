@@ -27,5 +27,5 @@
     "status": "not_assessed_for_redistribution",
     "scope": "Catalogue facts and access locators only. No page image, transcription or edition text is redistributed."
   },
-  "boundary": "An open institutional delivery route is not the same as completed primary-edition collation. The two byte counts are separately reported delivery/preservation metadata and are not treated as conflicting content hashes. No reading, object identity, language classification or expert judgment is imported."
+  "boundary": "An institutional delivery route is not the same as completed primary-edition collation or an open-licence determination. The two byte counts are separately reported delivery/preservation metadata and are not treated as conflicting content hashes. No reading, object identity, language classification or expert judgment is imported."
 }
