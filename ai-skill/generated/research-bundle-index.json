@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "9164374574489148d63d9af30f5c1a311c5439c0",
+  "source_commit": "3898c7463fa20b8d36839339f472e14f3b503010",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T16:06:48+00:00",
+  "generated_at_utc": "2026-10-05T02:08:32+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -14,10 +14,22 @@
   },
   "artifacts": [
     {
+      "role": "dreros_physical_context",
+      "path": "research/dreros-context-evidence.json",
+      "sha256": "f7ad9b8b4549a42a62b1804b724a900be5abe3745c27038f390f9af749c491f1",
+      "bytes": 6839
+    },
+    {
+      "role": "dreros_context_audit",
+      "path": "analysis/dreros-context-audit.json",
+      "sha256": "032f85f0b131e9d129eee4a8d7b62ce459da6b92e5d22f678d463fabc2074cc0",
+      "bytes": 4391
+    },
+    {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "9458b64311390cacb7c01eee001d0eea0c08a678c55739a7c92af4c1ffdaf8bf",
-      "bytes": 7277
+      "sha256": "bbeb4e2da437d5821eb895ec90f49a1f7aa94f9d552b4486e27dbfdc1f06ed9f",
+      "bytes": 9216
     },
     {
       "role": "institutional_archive_leads",
@@ -52,14 +64,14 @@
     {
       "role": "guarducci_1942_access_route",
       "path": "research/guarducci-1942-access-route.json",
-      "sha256": "416c3c549f7c83e3f60c80a4f52b44925a2f4ff2acb3e4ddbcffb2feceb0b2d2",
-      "bytes": 1912
+      "sha256": "108e370558eb2ab823b09bfa6ca86ecd22a5b16835437d37cdb6b8a4be1c62bc",
+      "bytes": 2794
     },
     {
       "role": "guarducci_route_audit",
       "path": "analysis/guarducci-route-audit.json",
-      "sha256": "4613c315758b5eb4aff9c753ba85adfa69bbc7072137e3a05c64ae00bc88682d",
-      "bytes": 1047
+      "sha256": "a4e9afa8d742797f1aa09d5cf65a80cd822b5f8a7a3048cc2ea576d62cc6f29a",
+      "bytes": 1241
     },
     {
       "role": "praisos_guarducci_number_concordance",
@@ -70,14 +82,14 @@
     {
       "role": "praisos_guarducci_number_audit",
       "path": "analysis/praisos-guarducci-number-audit.json",
-      "sha256": "5a86b186f7587046eb4216c71548edf3cf4caa2b0e3ba8f1434f81e8d88df1ec",
-      "bytes": 2210
+      "sha256": "28676b1b75e87f992e911b640521791ac7c27cf37aa32e5d2426599ba13b1ede",
+      "bytes": 2426
     },
     {
       "role": "source_critical_dossier",
       "path": "analysis/source-critical-dossier.json",
-      "sha256": "ddc5058142a9d7c9cea2bb2b67c384558627a45ea716a57f724ed0017a4f364a",
-      "bytes": 34392
+      "sha256": "b391e014f129b97e9cd9196fae718ae00b6f623d69c38bf144ce853415cacae3",
+      "bytes": 42001
     },
     {
       "role": "azoria_item_candidates",
@@ -94,8 +106,8 @@
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "87634380f256b32c9333d0bd7e2137ee2e716e9ddf065a9ffb2869fba0567371",
-      "bytes": 1418
+      "sha256": "8f0b2b14c9a5ff79139650ff77ec5973b19cdfb561cc7dea3efd4f7cfd5a2e85",
+      "bytes": 1709
     },
     {
       "role": "reading_version_comparison",
@@ -118,8 +130,8 @@
     {
       "role": "coverage_register",
       "path": "research/coverage-register.json",
-      "sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
-      "bytes": 13280
+      "sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "bytes": 15184
     },
     {
       "role": "open_image_register",
@@ -130,8 +142,8 @@
     {
       "role": "audit",
       "path": "exports/audit.json",
-      "sha256": "87634380f256b32c9333d0bd7e2137ee2e716e9ddf065a9ffb2869fba0567371",
-      "bytes": 1418
+      "sha256": "8f0b2b14c9a5ff79139650ff77ec5973b19cdfb561cc7dea3efd4f7cfd5a2e85",
+      "bytes": 1709
     },
     {
       "role": "corpus_json",
@@ -148,8 +160,8 @@
     {
       "role": "notice",
       "path": "NOTICE",
-      "sha256": "3463c089dec912a1fec98cebff9d73572864a59c53d23d782c30f42c39f86b28",
-      "bytes": 3364
+      "sha256": "f2477f7571ac5a27da4b1203a530571570d3b5dab30eea14efbe0572dcc14ba4",
+      "bytes": 3866
     },
     {
       "role": "method",
@@ -160,14 +172,14 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "4139c641df2ec1d56325f2351d9ae594d2e2be02e35bb518d98af3cdae6d07b3",
-      "bytes": 2381
+      "sha256": "df9be15e57f07bf412b129207b6b94a7b3292c6a9254ad01f5cdfe3369d39811",
+      "bytes": 2746
     },
     {
       "role": "pre_expert_source_exhaustion",
       "path": "research/pre-expert-source-exhaustion.json",
-      "sha256": "4e106c75b85cb58d62a1bd5fe33f5da844c6551d4ba21d0e6f5263f122081c35",
-      "bytes": 1554
+      "sha256": "6ea3593b6b2c3f2689d7cb3aeef1f59db7ce8ae4402bf3f2c3f060bd4d258d64",
+      "bytes": 1612
     }
   ]
 }
