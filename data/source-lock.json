@@ -27,15 +27,19 @@
     },
     {
       "path": "research/coverage-register.json",
-      "sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754"
+      "sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af"
     },
     {
       "path": "project.json",
-      "sha256": "2d5b5b9207f6e88f83e73306fd568684c86978f6011caaec05aeb05dbbc0c3db"
+      "sha256": "24e9fca54606bc7d546550cb5f6905412db623fc58ba0129021193135e620bc8"
     },
     {
       "path": "research/source-inspection-2026-10-02.json",
       "sha256": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5"
+    },
+    {
+      "path": "research/dreros-context-evidence.json",
+      "sha256": "f7ad9b8b4549a42a62b1804b724a900be5abe3745c27038f390f9af749c491f1"
     }
   ]
 }

@@ -305,6 +305,8 @@ def audit(root, records=None):
                                     'known_incomplete': True}
         out['distinct_objects_with_readings'] = len({r['object_id'] for r in records})
         out['source_inspection'] = {'register':'research/source-inspection-2026-10-02.json', 'Dreros_2_primary_locus':'candidate no. 5, BCH 70 (1946), pp. 602–603', 'independent_review':False, 'reading_admissions':0}
+        context = read_json(root / 'research/dreros-context-evidence.json')
+        out['physical_context_checkpoint'] = {'register':'research/dreros-context-evidence.json','assertions':len(context['assertions']),'pages_inspected':context['source']['pages_directly_inspected'],'figure_inspected':context['source']['figure_directly_inspected'],'original_1946_facsimile_inspected':False,'reading_admissions':0}
     return out
 
 
@@ -326,7 +328,7 @@ def verify_lock(root):
     inputs = ('data/source-index.json', 'data/acquisition.json') if read_json(root / 'project.json')['adapter'] == 'ediana' else ('data/readings.json', 'research/coverage-register.json')
     expected.update((*inputs, 'project.json'))
     if read_json(root / 'project.json')['adapter'] == 'eteocretan':
-        expected.add('research/source-inspection-2026-10-02.json')
+        expected.update(('research/source-inspection-2026-10-02.json','research/dreros-context-evidence.json'))
     if expected != {x['path'] for x in lock['files']}:
         errors.append('Source lock membership mismatch')
     for x in lock['files']:

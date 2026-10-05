@@ -1,8 +1,9 @@
 {
   "format": "eteocretan-source-critical-dossier-v1",
   "input_hashes": {
+    "research/dreros-context-evidence.json": "f7ad9b8b4549a42a62b1804b724a900be5abe3745c27038f390f9af749c491f1",
     "data/readings.json": "038cc319aa683149491a1423c2b29b83681178df881605c589b366480d3dca2e",
-    "research/coverage-register.json": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+    "research/coverage-register.json": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
     "research/azoria-item-candidates.json": "dba8cc269b21e893257cfa184eb8374154548311ac27f375e6d48d493a36b177",
     "research/source-inspection-2026-10-02.json": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5",
     "research/dreros1-lejeune-critical-witness.json": "b2f460b6f20d5292271e9eafc14b133dc795191e56a0e75adeae28ec4f624bb0",
@@ -70,7 +71,9 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Bibliographic lead, not redistributed",
+          "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+          "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
         },
         {
           "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
@@ -166,7 +169,9 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Bibliographic lead, not redistributed",
+          "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+          "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
         },
         {
           "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
@@ -259,7 +264,9 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Bibliographic lead, not redistributed",
+          "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+          "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
         },
         {
           "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
@@ -311,7 +318,9 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Bibliographic lead, not redistributed",
+          "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+          "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
         }
       ],
       "analysis_eligible": false,
@@ -366,7 +375,9 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Bibliographic lead, not redistributed",
+          "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+          "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
         }
       ],
       "analysis_eligible": false,
@@ -421,7 +432,9 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Bibliographic lead, not redistributed",
+          "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+          "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
         }
       ],
       "analysis_eligible": false,
@@ -463,7 +476,15 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Inherited generic volume citation, not a verified Dreros locus. Removed from supported Guarducci route count; original Dreros 1946 publications remain separate targets.",
+          "routing_status": "UNVERIFIED_FOR_THIS_OBJECT"
+        },
+        {
+          "citation": "Henri Van Effenterre, Pierres inscrites de Dréros, BCH 85 (1961), 544–568",
+          "url": "https://www.persee.fr/doc/bch_0007-4217_1961_num_85_1_1597",
+          "locator": "p. 545 Figure 1 and n. 2",
+          "consultation": "Page and figure pixels inspected; publication identity and physical context only. Not the original 1946 facsimile or expert collation.",
+          "inspection_register": "research/dreros-context-evidence.json"
         }
       ],
       "analysis_eligible": false,
@@ -500,6 +521,136 @@
         "project_rule": "Use as attributed critical witness to primary editor's reported state; do not promote Lejeune's linguistic interpretation or silently replace the unavailable original facsimile.",
         "rights": "Record bibliographic metadata, structural observations, and short uncertainty summaries; do not redistribute full protected article/facsimile absent applicable permission.",
         "status": "DREROS1_NEAR_PRIMARY_SOURCE_ROUTE_OPEN"
+      },
+      "later_photograph_context": {
+        "source": {
+          "id": "van-effenterre-1961",
+          "citation": "Henri Van Effenterre, Pierres inscrites de Dréros, BCH 85 (1961), 544–568",
+          "doi": "10.3406/bch.1961.1597",
+          "url": "https://www.persee.fr/doc/bch_0007-4217_1961_num_85_1_1597",
+          "role": "PRIMARY_AUTHOR_LATER_PHOTOGRAPH_AND_PHYSICAL_REPORT",
+          "pages_directly_inspected": [
+            544,
+            545
+          ],
+          "figure_directly_inspected": "Figure 1, p. 545",
+          "original_1946_facsimile_inspected": false
+        },
+        "assets": [
+          {
+            "id": "VE1961-P544-page_rendering",
+            "source_id": "van-effenterre-1961",
+            "url": "https://www.persee.fr/renderPage/bch_0007-4217_1961_num_85_1_1597/bch_0007-4217_1961_num_85_1_T1_0544_0000_710.jpg",
+            "printed_locator": "p. 544",
+            "kind": "page_rendering",
+            "sha256": "178e4cc9d58546f1ff9c2993cececd0bac85982d4e1416635dbd119bfa6580e2",
+            "bytes": 123444,
+            "directly_inspected": true,
+            "redistributed": false
+          },
+          {
+            "id": "VE1961-P544-page_text",
+            "source_id": "van-effenterre-1961",
+            "url": "https://www.persee.fr/doc/page/bch_0007-4217_1961_num_85_1_1597/bch_0007-4217_1961_num_85_1_T1_0544_0000",
+            "printed_locator": "p. 544",
+            "kind": "page_text",
+            "sha256": "7bdc2d9122edf1d387b126e97feda6ff5cd249d6c8415d864d6857a6b7a25990",
+            "bytes": 3039,
+            "directly_inspected": true,
+            "redistributed": false
+          },
+          {
+            "id": "VE1961-P545-page_rendering",
+            "source_id": "van-effenterre-1961",
+            "url": "https://www.persee.fr/renderPage/bch_0007-4217_1961_num_85_1_1597/bch_0007-4217_1961_num_85_1_T1_0545_0000_710.jpg",
+            "printed_locator": "p. 545",
+            "kind": "page_rendering",
+            "sha256": "805470a0871accb1f683fd76c6ab0859e07523bbb64c8a0e0e1a8c1fc5f715e5",
+            "bytes": 141593,
+            "directly_inspected": true,
+            "redistributed": false
+          },
+          {
+            "id": "VE1961-P545-page_text",
+            "source_id": "van-effenterre-1961",
+            "url": "https://www.persee.fr/doc/page/bch_0007-4217_1961_num_85_1_1597/bch_0007-4217_1961_num_85_1_T1_0545_0000",
+            "printed_locator": "p. 545",
+            "kind": "page_text",
+            "sha256": "494edb6dfbe5fd95bef81868a2adacb36ded7d3d35cd303365dc4f20158862e6",
+            "bytes": 4642,
+            "directly_inspected": true,
+            "redistributed": false
+          },
+          {
+            "id": "VE1961-FIG1",
+            "source_id": "van-effenterre-1961",
+            "url": "https://www.persee.fr/renderIllustration/bch_0007-4217_1961_num_85_1_T1_0545_0000_1.png",
+            "printed_locator": "p. 545, Figure 1",
+            "kind": "figure_rendering",
+            "sha256": "4a737f57e570d4fe7d3a5dcddcdc6a16427de938c704c9a16aa1445a1c7a0614",
+            "bytes": 267903,
+            "directly_inspected": true,
+            "redistributed": false
+          }
+        ],
+        "assertions": [
+          {
+            "id": "ECR-CONTEXT-001",
+            "object_id": "ECR-DREROS-1",
+            "scope": "NAMED_INSCRIPTION",
+            "kind": "PHOTOGRAPH_IDENTITY_LINK",
+            "locator": "p. 545, Figure 1 and n. 2",
+            "evidence_assets": [
+              "VE1961-P545-page_rendering",
+              "VE1961-FIG1"
+            ],
+            "summary": "Author links Figure 1 to his 1946 RPhil publication, pp. 131 onward.",
+            "status": "AUTHOR_EXPLICIT_PUBLICATION_LINK",
+            "source_id": "van-effenterre-1961",
+            "reading_admission": false,
+            "independent_review": false
+          },
+          {
+            "id": "ECR-CONTEXT-002",
+            "object_id": "ECR-DREROS-1",
+            "scope": "NAMED_INSCRIPTION",
+            "kind": "INCISION_TECHNIQUE",
+            "locator": "p. 545 n. 2",
+            "evidence_assets": [
+              "VE1961-P545-page_rendering"
+            ],
+            "summary": "Greek text described as lightly traced with a point; the other text is grouped with chisel-cut inscriptions.",
+            "status": "AUTHOR_REPORTED_PHYSICAL_DESCRIPTION",
+            "source_id": "van-effenterre-1961",
+            "reading_admission": false,
+            "independent_review": false
+          },
+          {
+            "id": "ECR-CONTEXT-003",
+            "object_id": "ECR-DREROS-1",
+            "scope": "NAMED_INSCRIPTION",
+            "kind": "LANGUAGE_ATTRIBUTION",
+            "locator": "p. 545, Figure 1 caption and n. 2",
+            "evidence_assets": [
+              "VE1961-P545-page_rendering",
+              "VE1961-FIG1"
+            ],
+            "summary": "Caption labels the stone Eteocretan and Greek; semantic equivalence is unestablished.",
+            "status": "AUTHOR_ATTRIBUTION_NOT_PROJECT_ADJUDICATION",
+            "source_id": "van-effenterre-1961",
+            "reading_admission": false,
+            "independent_review": false
+          }
+        ],
+        "limits": {
+          "named_object_loss_certified": false,
+          "present_museum_accession": null,
+          "physical_object_count": null,
+          "new_reading_versions": 0,
+          "analytical_admissions": 0,
+          "semantic_alignment_established": false,
+          "photograph_capture_date": null
+        }
       }
     },
     {
@@ -537,7 +688,8 @@
         },
         {
           "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-          "consultation": "Bibliographic lead, not redistributed"
+          "consultation": "Inherited generic volume citation, not a verified Dreros locus. Removed from supported Guarducci route count; original Dreros 1946 publications remain separate targets.",
+          "routing_status": "UNVERIFIED_FOR_THIS_OBJECT"
         },
         {
           "citation": "H. Van Effenterre, Inscriptions archaïques crétoises, BCH 70 (1946), pp. 588–606",

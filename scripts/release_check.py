@@ -24,7 +24,7 @@ if contract.get('principles') != required or not contract.get('profile'):
     raise SystemExit('Interoperability contract safeguards/profile invalid')
 
 
-for args in [['-m','corpuskit','validate'], ['-m','unittest','discover','-s','tests','-v'], ['-m','corpuskit','verify-export','exports']]:
+for args in [['scripts/audit_dreros_context.py','--check'],['scripts/audit_guarducci_route.py','--check'],['-m','corpuskit','validate'], ['-m','unittest','discover','-s','tests','-v'], ['-m','corpuskit','verify-export','exports']]:
     result = subprocess.run([sys.executable,*args],cwd=ROOT)
     if result.returncode:
         raise SystemExit(result.returncode)

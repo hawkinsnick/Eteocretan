@@ -16,7 +16,7 @@
    same object; do not overwrite the source or create a new witness.
 6. Cite the release and original edition. Publish transformations and derived
    datasets under CC BY-SA 4.0 with source attribution and a description of
-   changes. Public-domain originals retain their original status; code is MIT.
+   changes. Public-domain originals retain their original status. Project-original metadata and documentation use CC BY-NC 4.0; project-original code uses PolyForm Noncommercial 1.0.0. See LICENSING.md for component terms.
 
 For an assistant-assisted analysis, supply the selected records together with
 `audit.json` and `ATTRIBUTION.md`. A useful prompt is:

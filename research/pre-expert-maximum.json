@@ -29,16 +29,26 @@
         "research/dreros1-lejeune-critical-witness.json"
       ],
       "independent_review": false
+    },
+    {
+      "gate": "dreros_photograph_and_route_correction",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/dreros-context-evidence.json",
+        "analysis/dreros-context-audit.json",
+        "analysis/guarducci-route-audit.json"
+      ],
+      "independent_review": false
     }
   ],
   "remaining_nonexpert_work": [
     {
       "id": "ECR-PRE-001",
       "scope": "Dreros 1-2",
-      "action": "Dreros 2 primary BCH is inspected; Dreros 1 now has Lejeune 1947 near-primary critical witness reproducing Van Effenterre layout/uncertainties. Continue acquisition of original Rev. Phil. 1946 facsimile.",
+      "action": "Later author-published Dreros 1 photograph inspected, with technique and group conservation reports. Acquire the original Rev. Phil. 1946 facsimile and reconcile current object accessions; do not treat later photo as completed critical collation.",
       "blocked_by": "original_dreros1_facsimile_access_only",
-      "status": "PARTIAL_SOURCE_ROUTE_COMPLETE",
-      "evidence": "research/dreros1-lejeune-critical-witness.json"
+      "status": "LATER_PHOTOGRAPH_INSPECTED_ORIGINAL_COLLATION_OPEN",
+      "evidence": "research/dreros-context-evidence.json"
     },
     {
       "id": "ECR-PRE-002",

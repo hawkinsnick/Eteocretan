@@ -15,6 +15,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Build matching AI bundle for release archive
+        env:
+          SOURCE_COMMIT: ${{ github.sha }}
+        run: |
+          python ai-skill/scripts/build_bundle.py
+          python ai-skill/scripts/validate_bundle.py
       - run: python scripts/release_check.py
       - run: python scripts/package_release.py
       - name: Publish immutable tagged release

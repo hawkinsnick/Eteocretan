@@ -17,7 +17,9 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Bibliographic lead, not redistributed",
+        "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+        "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
       },
       {
         "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
@@ -53,7 +55,9 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Bibliographic lead, not redistributed",
+        "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+        "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
       },
       {
         "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
@@ -88,7 +92,9 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Bibliographic lead, not redistributed",
+        "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+        "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
       },
       {
         "citation": "British School at Athens Digital Collections, Praesos excavation image archive",
@@ -122,7 +128,9 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Bibliographic lead, not redistributed",
+        "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+        "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
       }
     ],
     "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
@@ -151,7 +159,9 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Bibliographic lead, not redistributed",
+        "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+        "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
       }
     ],
     "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
@@ -180,7 +190,9 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Bibliographic lead, not redistributed",
+        "routing_status": "REPORTED_PRAISOS_CONCORDANCE",
+        "locator": "III, section III, pp. 137–142, nos. 1–6; via Lejeune 1947 p. 276 n. 4; volume not inspected"
       }
     ],
     "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded."
@@ -202,7 +214,15 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Inherited generic volume citation, not a verified Dreros locus. Removed from supported Guarducci route count; original Dreros 1946 publications remain separate targets.",
+        "routing_status": "UNVERIFIED_FOR_THIS_OBJECT"
+      },
+      {
+        "citation": "Henri Van Effenterre, Pierres inscrites de Dréros, BCH 85 (1961), 544–568",
+        "url": "https://www.persee.fr/doc/bch_0007-4217_1961_num_85_1_1597",
+        "locator": "p. 545 Figure 1 and n. 2",
+        "consultation": "Page and figure pixels inspected; publication identity and physical context only. Not the original 1946 facsimile or expert collation.",
+        "inspection_register": "research/dreros-context-evidence.json"
       }
     ],
     "note": "No whole-object analytical admission. Historical and secondary readings are retained as distinct versions; disputed fragments remain excluded.",
@@ -231,7 +251,8 @@
       },
       {
         "citation": "M. Guarducci, Inscriptiones Creticae III, Rome 1942, pp. 134–142",
-        "consultation": "Bibliographic lead, not redistributed"
+        "consultation": "Inherited generic volume citation, not a verified Dreros locus. Removed from supported Guarducci route count; original Dreros 1946 publications remain separate targets.",
+        "routing_status": "UNVERIFIED_FOR_THIS_OBJECT"
       },
       {
         "citation": "H. Van Effenterre, Inscriptions archaïques crétoises, BCH 70 (1946), pp. 588–606",

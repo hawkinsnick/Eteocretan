@@ -45,3 +45,5 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - Lejeune 1947 p. 276 n. 4 reports Guarducci nos. 1–6: three historically named inscriptions and three short fragments only perhaps Eteocretan. Script classifications are attributed source claims; number-label correspondence for nos. 4–6 is not language or physical-identity certification.
 
 - Azoria Figure 42 / 06-0334 (D346.1) corresponds to the upper bin-lining handle at the level of primary article textual description. No figure image or museum accession was verified. The same-pithos relationship is qualified, and 3 room sherds / 17 site sherds are not Eteocretan text denominators.
+
+At version 1.1.0, route physical-context questions through `research/dreros-context-evidence.json` and its audit. Preserve object-specific attribution versus group history, author hypotheses versus object dates, and photographic publication identity versus readings. A bilingual caption does not certify translation equivalence. Guarducci’s six reported Praisos correspondences do not establish Dreros coverage; its two inherited Dreros citations remain explicitly unverified.

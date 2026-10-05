@@ -9,6 +9,7 @@ def build(root=ROOT):
  coverage=read('research/coverage-register.json');readings=read('data/readings.json')
  archive=read('research/institutional-archive-leads.json');images=read('research/open-image-register.json')
  azoria=read('research/azoria-item-candidates.json');dreros=read('research/source-inspection-2026-10-02.json');lejeune=read('research/dreros1-lejeune-critical-witness.json')
+ context=read('research/dreros-context-evidence.json')
  known={c['object_id']:c for c in coverage}
  if len(known)!=len(coverage):raise ValueError('duplicate coverage object')
  if len({r['record_id'] for r in readings})!=len(readings):raise ValueError('duplicate reading version')
@@ -49,6 +50,7 @@ def build(root=ROOT):
    item['review_findings'].append({'kind':'ATTRIBUTION_LEVELS_DIFFER','project_status':obj['status'],'reported_secondary_baseline':baseline,'decision':None,'note':'Secondary classification is attributed, not project-established language identity.'})
   if obj['object_id']=='ECR-DREROS-1':
    item['near_primary_witness']=lejeune
+   item['later_photograph_context']={'source':context['source'],'assets':context['assets'],'assertions':[c for c in context['assertions'] if c['object_id']==obj['object_id']],'limits':context['limits']}
    item['review_findings'].append({'kind':'ORIGINAL_EDITION_ACQUISITION_OPEN','citation':lejeune['primary_locator'],'decision':None})
   if obj['object_id']=='ECR-DREROS-2':
    item['primary_metadata_candidates']=[a for a in dreros['assertions'] if a.get('project_object_id')==obj['object_id']]
@@ -63,7 +65,7 @@ def build(root=ROOT):
    item['publication_language_assessment']=azoria['publication_language_assessment']
   if len(versions)>1:item['review_findings'].append({'kind':'MULTIPLE_READING_VERSIONS','physical_line_alignment_established':False,'decision':None})
   dossiers.append(item)
- paths=['data/readings.json','research/coverage-register.json','research/azoria-item-candidates.json','research/source-inspection-2026-10-02.json','research/dreros1-lejeune-critical-witness.json','research/institutional-archive-leads.json','research/open-image-register.json']
+ paths=['research/dreros-context-evidence.json','data/readings.json','research/coverage-register.json','research/azoria-item-candidates.json','research/source-inspection-2026-10-02.json','research/dreros1-lejeune-critical-witness.json','research/institutional-archive-leads.json','research/open-image-register.json']
  return {'format':'eteocretan-source-critical-dossier-v1','input_hashes':{p:hashlib.sha256((root/p).read_bytes()).hexdigest() for p in paths},
   'coverage_entries':len(coverage),'reading_versions':len(readings),'azoria_item_candidates':len(ids),
   'canonical_admissions_added':0,'dossiers':dossiers,

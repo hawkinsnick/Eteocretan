@@ -2,7 +2,7 @@
   "format": "eteocretan-praisos-guarducci-number-audit-v1",
   "input_hashes": {
     "research/praisos-guarducci-number-concordance.json": "4d99b3f7abf2c1aa1d57e8a28b7c5e2478fc1636b4daa7fe1f69fa1b01d9f822",
-    "research/coverage-register.json": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754"
+    "research/coverage-register.json": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af"
   },
   "reported_number_count": 6,
   "historically_named_crosswalk_count": 3,
@@ -11,12 +11,48 @@
   "primary_guarducci_pages_collated": 0,
   "physical_identities_certified": 0,
   "records": [
-    {"guarducci_number": 1, "project_id": "ECR-PRAISOS-1", "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK", "script_class_reported": "archaic", "language_status_reported": "named Praisos inscription"},
-    {"guarducci_number": 2, "project_id": "ECR-PRAISOS-2", "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK", "script_class_reported": "Ionic", "language_status_reported": "named Praisos inscription"},
-    {"guarducci_number": 3, "project_id": "ECR-PRAISOS-3", "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK", "script_class_reported": "Ionic", "language_status_reported": "named Praisos inscription"},
-    {"guarducci_number": 4, "project_id": "ECR-PRAISOS-4", "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY", "script_class_reported": "archaic", "language_status_reported": "short fragment, perhaps Eteocretan"},
-    {"guarducci_number": 5, "project_id": "ECR-PRAISOS-5", "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY", "script_class_reported": "Ionic", "language_status_reported": "short fragment, perhaps Eteocretan"},
-    {"guarducci_number": 6, "project_id": "ECR-PRAISOS-6", "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY", "script_class_reported": "archaic", "language_status_reported": "short fragment, perhaps Eteocretan"}
+    {
+      "guarducci_number": 1,
+      "project_id": "ECR-PRAISOS-1",
+      "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK",
+      "script_class_reported": "archaic",
+      "language_status_reported": "named Praisos inscription"
+    },
+    {
+      "guarducci_number": 2,
+      "project_id": "ECR-PRAISOS-2",
+      "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK",
+      "script_class_reported": "Ionic",
+      "language_status_reported": "named Praisos inscription"
+    },
+    {
+      "guarducci_number": 3,
+      "project_id": "ECR-PRAISOS-3",
+      "join_status": "HISTORICAL_NAME_AND_NUMBER_CROSSWALK",
+      "script_class_reported": "Ionic",
+      "language_status_reported": "named Praisos inscription"
+    },
+    {
+      "guarducci_number": 4,
+      "project_id": "ECR-PRAISOS-4",
+      "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY",
+      "script_class_reported": "archaic",
+      "language_status_reported": "short fragment, perhaps Eteocretan"
+    },
+    {
+      "guarducci_number": 5,
+      "project_id": "ECR-PRAISOS-5",
+      "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY",
+      "script_class_reported": "Ionic",
+      "language_status_reported": "short fragment, perhaps Eteocretan"
+    },
+    {
+      "guarducci_number": 6,
+      "project_id": "ECR-PRAISOS-6",
+      "join_status": "PROJECT_NUMBER_LABEL_CORRESPONDENCE_ONLY",
+      "script_class_reported": "archaic",
+      "language_status_reported": "short fragment, perhaps Eteocretan"
+    }
   ],
   "boundary": "Lejeune's footnote supplies a reported publication-number concordance and attributed script/language classifications, not inspection of Guarducci's pages or the stones. Nos. 4–6 remain perhaps Eteocretan; matching their numbers to project labels does not certify physical identity, museum accession, reading, date or language."
 }

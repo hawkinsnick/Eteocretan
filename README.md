@@ -9,7 +9,7 @@ Researchers can give a capable AI this repository or its AI-ready bundle togethe
 
 For questions spanning corpus projects, use the **Combined Corpus Research AI** in [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates registered individual skills without merging their evidence. Membership does not imply linguistic relationship, sign equivalence, chronology, decipherment or independent replication.
 
-**1.0.0 — an attributed reference archive with explicit coverage limits.**
+**1.1.0 — an attributed reference archive with explicit coverage limits.**
 
 This project preserves Eteocretan source readings and disagreements for
 inspection, comparison and future collation. It does not offer a decipherment,
@@ -38,7 +38,7 @@ leads. The [coverage register](research/coverage-register.json) also retains
 Psychro's disputed authenticity, Arkalochori's disputed script assignment,
 and the Azoria collection lead. Arkalochori is not assigned to Eteocretan.
 
-Download [the 1.0.0 ZIP](https://github.com/hawkinsnick/Eteocretan/releases/tag/v1.0.0)
+Download [the 1.1.0 ZIP](https://github.com/hawkinsnick/Eteocretan/releases/tag/v1.1.0)
 and unzip it. Python 3.10+ runs the tools without extra packages or a network
 connection. Open a terminal in the extracted folder:
 
@@ -70,3 +70,7 @@ inflate the number of admitted readings.
 ## Source reconciliation checkpoint
 
 See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for new source-located evidence, reproducible checks, unresolved anomalies and the remaining primary-source work.
+
+## 1.1.0 physical-context milestone
+
+The Dreros 1 dossier now includes a source-linked 1961 photograph and six attributed physical/context assertions: three about the named inscription and three retained at group scope. The edition-route audit corrects an unsupported eight-entry Guarducci coverage claim to six reported Praisos correspondences, with two Dreros citations explicitly unverified. Twelve reading versions and zero analytically admitted rows remain. See [release details](docs/RELEASE_1_1_0.md).

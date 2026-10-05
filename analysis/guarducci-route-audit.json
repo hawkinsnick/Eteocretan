@@ -1,21 +1,24 @@
 {
   "format": "eteocretan-guarducci-route-audit-v1",
-  "route_sha256": "416c3c549f7c83e3f60c80a4f52b44925a2f4ff2acb3e4ddbcffb2feceb0b2d2",
-  "coverage_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
-  "coverage_object_count": 8,
+  "route_sha256": "108e370558eb2ab823b09bfa6ca86ecd22a5b16835437d37cdb6b8a4be1c62bc",
+  "coverage_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+  "coverage_object_count": 6,
   "coverage_object_ids": [
     "ECR-PRAISOS-1",
     "ECR-PRAISOS-2",
     "ECR-PRAISOS-3",
     "ECR-PRAISOS-4",
     "ECR-PRAISOS-5",
-    "ECR-PRAISOS-6",
+    "ECR-PRAISOS-6"
+  ],
+  "unsupported_inherited_object_ids": [
     "ECR-DREROS-1",
     "ECR-DREROS-2"
   ],
+  "concordance_sha256": "4d99b3f7abf2c1aa1d57e8a28b7c5e2478fc1636b4daa7fe1f69fa1b01d9f822",
   "institutional_resource_identifier": "000070579",
   "volume_filename": "000070579_3.pdf",
-  "project_print_locator": "printed pp. 134–142",
+  "project_print_locator": "III, section III, pp. 137–142, nos. 1–6 (Praisos; reported by Lejeune 1947)",
   "primary_pages_collated": 0,
   "reading_versions_added": 0,
   "analytical_admissions_added": 0,

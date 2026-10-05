@@ -121,6 +121,16 @@
       "role": "praisos_guarducci_number_audit",
       "path": "analysis/praisos-guarducci-number-audit.json",
       "required": true
+    },
+    {
+      "role": "dreros_physical_context",
+      "path": "research/dreros-context-evidence.json",
+      "required": true
+    },
+    {
+      "role": "dreros_context_audit",
+      "path": "analysis/dreros-context-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -135,6 +145,9 @@
     "Two Azoria D300 handles are source-caption candidates with uncertain language and unreconciled inventory numbers; never admit them or infer two unique vessels.",
     "Praisos source lines, printed groups, project rows, alternatives and physical identities are distinct counting units.",
     "The Anemi Guarducci volume route is exact institutional discovery metadata, not proof of page inspection, scan rights, reading collation, source independence, or physical-object identity.",
-    "Lejeune's reported Guarducci number concordance keeps nos. 4–6 as perhaps Eteocretan fragments; project-number correspondence never certifies language or physical identity."
+    "Lejeune's reported Guarducci number concordance keeps nos. 4–6 as perhaps Eteocretan fragments; project-number correspondence never certifies language or physical identity.",
+    "Dreros 1 later photograph is not the original 1946 facsimile, a new ancient witness, certified bilingual semantic alignment or an independently collated reading.",
+    "Dreros group conservation reports do not certify the loss or present location of a named object.",
+    "Guarducci route supports six reported Praisos number correspondences; repeated generic citations for Dreros 1–2 are unverified and excluded from supported edition coverage."
   ]
 }

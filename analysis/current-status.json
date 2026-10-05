@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scope": "Historical Praisos editions plus a separately excluded secondary reference layer and an explicitly incomplete coverage register.",
   "records": 12,
   "record_unit": "attributed_reading_version",
@@ -43,6 +43,17 @@
     "register": "research/source-inspection-2026-10-02.json",
     "Dreros_2_primary_locus": "candidate no. 5, BCH 70 (1946), pp. 602–603",
     "independent_review": false,
+    "reading_admissions": 0
+  },
+  "physical_context_checkpoint": {
+    "register": "research/dreros-context-evidence.json",
+    "assertions": 6,
+    "pages_inspected": [
+      544,
+      545
+    ],
+    "figure_inspected": "Figure 1, p. 545",
+    "original_1946_facsimile_inspected": false,
     "reading_admissions": 0
   }
 }

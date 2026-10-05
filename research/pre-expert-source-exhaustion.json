@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
   "corpus": "Eteocretan",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "target": "PRE_EXPERT_SOURCE_EXHAUSTION",
   "dispositions": [
     {
       "id": "ECR-PRE-001",
       "scope": "Dreros 1-2",
-      "status": "PRIMARY_PUBLICATION_CANDIDATE_INSPECTED",
-      "evidence": "BCH 70 (1946), no. 5 pp. 602–603 inspected as Dreros 2 candidate; no. 6 is excluded. Dreros 1 original publication and later critical collation remain outstanding."
+      "status": "DREROS_PRIMARY_AUTHOR_PHOTOGRAPH_AND_CANDIDATE_METADATA_INSPECTED",
+      "evidence": "BCH 1961 p. 545 Fig. 1 and n. 2 links the Dreros 1 photograph to RPhil 1946; BCH 1946 no. 5 remains Dreros 2 candidate. No reading admitted; original facsimile and independent collation open."
     },
     {
       "id": "ECR-PRE-002",
@@ -29,6 +29,6 @@
       "evidence": "Psychro authenticity dispute and Arkalochori script dispute remain attributed and analytically excluded."
     }
   ],
-  "completion_assessment": "ADDITIONAL_PRIMARY_SOURCE_LOCUS_INSPECTED_COLLATION_PENDING",
+  "completion_assessment": "PHYSICAL_CONTEXT_AND_ROUTING_CHECKPOINT_COMPLETE_SOURCE_WORK_OPEN",
   "qualification": "Open-world discovery remains active; newly available authoritative lawful evidence reopens acquisition. Expert-only decisions remain unasserted."
 }

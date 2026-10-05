@@ -1,0 +1,121 @@
+{
+  "format": "eteocretan-dreros-context-audit-v1",
+  "input_hashes": {
+    "research/dreros-context-evidence.json": "f7ad9b8b4549a42a62b1804b724a900be5abe3745c27038f390f9af749c491f1",
+    "research/coverage-register.json": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af"
+  },
+  "source_assets_inspected": 5,
+  "source_page_renderings_inspected": 2,
+  "source_figures_inspected": 1,
+  "context_assertions": 6,
+  "named_inscription_assertions": 3,
+  "group_history_assertions": 3,
+  "reading_versions_added": 0,
+  "analytical_admissions_added": 0,
+  "source_images_redistributed": 0,
+  "named_object_loss_certified": false,
+  "assertions": [
+    {
+      "id": "ECR-CONTEXT-001",
+      "object_id": "ECR-DREROS-1",
+      "scope": "NAMED_INSCRIPTION",
+      "kind": "PHOTOGRAPH_IDENTITY_LINK",
+      "locator": "p. 545, Figure 1 and n. 2",
+      "evidence_assets": [
+        "VE1961-P545-page_rendering",
+        "VE1961-FIG1"
+      ],
+      "summary": "Author links Figure 1 to his 1946 RPhil publication, pp. 131 onward.",
+      "status": "AUTHOR_EXPLICIT_PUBLICATION_LINK",
+      "source_id": "van-effenterre-1961",
+      "reading_admission": false,
+      "independent_review": false
+    },
+    {
+      "id": "ECR-CONTEXT-002",
+      "object_id": "ECR-DREROS-1",
+      "scope": "NAMED_INSCRIPTION",
+      "kind": "INCISION_TECHNIQUE",
+      "locator": "p. 545 n. 2",
+      "evidence_assets": [
+        "VE1961-P545-page_rendering"
+      ],
+      "summary": "Greek text described as lightly traced with a point; the other text is grouped with chisel-cut inscriptions.",
+      "status": "AUTHOR_REPORTED_PHYSICAL_DESCRIPTION",
+      "source_id": "van-effenterre-1961",
+      "reading_admission": false,
+      "independent_review": false
+    },
+    {
+      "id": "ECR-CONTEXT-003",
+      "object_id": "ECR-DREROS-1",
+      "scope": "NAMED_INSCRIPTION",
+      "kind": "LANGUAGE_ATTRIBUTION",
+      "locator": "p. 545, Figure 1 caption and n. 2",
+      "evidence_assets": [
+        "VE1961-P545-page_rendering",
+        "VE1961-FIG1"
+      ],
+      "summary": "Caption labels the stone Eteocretan and Greek; semantic equivalence is unestablished.",
+      "status": "AUTHOR_ATTRIBUTION_NOT_PROJECT_ADJUDICATION",
+      "source_id": "van-effenterre-1961",
+      "reading_admission": false,
+      "independent_review": false
+    },
+    {
+      "id": "ECR-CONTEXT-004",
+      "object_id": null,
+      "scope": "DREROS_INSCRIPTION_GROUP",
+      "kind": "DISPLAY_HISTORY_HYPOTHESIS",
+      "locator": "p. 545 main text",
+      "evidence_assets": [
+        "VE1961-P545-page_rendering"
+      ],
+      "summary": "Author proposes east Delphinion wall display from the seventh century to Hellenistic times.",
+      "status": "AUTHOR_HYPOTHESIS_NOT_OBJECT_DATING",
+      "source_id": "van-effenterre-1961",
+      "reading_admission": false,
+      "independent_review": false
+    },
+    {
+      "id": "ECR-CONTEXT-005",
+      "object_id": null,
+      "scope": "DREROS_INSCRIPTION_GROUP",
+      "kind": "CONSERVATION_HISTORY",
+      "locator": "p. 544 n. 3",
+      "evidence_assets": [
+        "VE1961-P544-page_rendering"
+      ],
+      "summary": "Several inscribed blocks reportedly remained beneath fallen shelter debris in summer 1960.",
+      "status": "GROUP_REPORT_NOT_NAMED_OBJECT_LOCATION",
+      "source_id": "van-effenterre-1961",
+      "reading_admission": false,
+      "independent_review": false
+    },
+    {
+      "id": "ECR-CONTEXT-006",
+      "object_id": null,
+      "scope": "NEAPOLIS_TRANSFERRED_INSCRIPTION_GROUP",
+      "kind": "CONSERVATION_HISTORY",
+      "locator": "p. 544 n. 3",
+      "evidence_assets": [
+        "VE1961-P544-page_rendering"
+      ],
+      "summary": "Author reports apparent wartime disappearance of many inscriptions transferred to Neapolis.",
+      "status": "GROUP_REPORT_NOT_NAMED_OBJECT_LOSS",
+      "source_id": "van-effenterre-1961",
+      "reading_admission": false,
+      "independent_review": false
+    }
+  ],
+  "limits": {
+    "named_object_loss_certified": false,
+    "present_museum_accession": null,
+    "physical_object_count": null,
+    "new_reading_versions": 0,
+    "analytical_admissions": 0,
+    "semantic_alignment_established": false,
+    "photograph_capture_date": null
+  },
+  "boundary": "Offline audit validates metadata linkage and non-promotion, not source-pixel interpretation or independent epigraphic review."
+}

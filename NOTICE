@@ -51,5 +51,13 @@ object is linked from its shared disputed-object register, not admitted as
 Eteocretan. Pinned corpus-family reports retain their original attribution
 and native acceptance gates.
 
-New project metadata, documentation and derived reading records: CC BY-SA 4.0.
-Toolkit code: MIT, copyright 2026 hawkinsnick corpus project contributors.
+Source-derived reading exports retain their source-specific CC BY-SA/public-domain terms.
+New project-original metadata and documentation: CC BY-NC 4.0.
+Project-original toolkit code: PolyForm Noncommercial 1.0.0.
+Copyright 2026 hawkinsnick corpus project contributors.
+Earlier copies retain permissions granted by their applicable licenses.
+
+Physical-context checkpoint: Henri Van Effenterre, Pierres inscrites de Dréros,
+BCH 85 (1961), 544–568, DOI 10.3406/bch.1961.1597, delivered by Persée.
+Only original short metadata summaries, links and hashes are redistributed.
+The article, photographs and full transcriptions are not included or relicensed.

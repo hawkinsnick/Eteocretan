@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "CC-BY-SA-4.0",
   "files": [
     {
       "path": "ATTRIBUTION.md",
-      "sha256": "3463c089dec912a1fec98cebff9d73572864a59c53d23d782c30f42c39f86b28"
+      "sha256": "f2477f7571ac5a27da4b1203a530571570d3b5dab30eea14efbe0572dcc14ba4"
     },
     {
       "path": "audit.json",
-      "sha256": "87634380f256b32c9333d0bd7e2137ee2e716e9ddf065a9ffb2869fba0567371"
+      "sha256": "8f0b2b14c9a5ff79139650ff77ec5973b19cdfb561cc7dea3efd4f7cfd5a2e85"
     },
     {
       "path": "corpus.json",

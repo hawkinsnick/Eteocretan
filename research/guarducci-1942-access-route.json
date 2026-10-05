@@ -3,7 +3,7 @@
   "checked": "2026-10-04",
   "edition": {
     "citation": "M. Guarducci, Inscriptiones Creticae III: Tituli Cretae Orientalis, Rome 1942",
-    "project_locator": "printed pp. 134–142",
+    "project_locator": "III, section III, pp. 137–142, nos. 1–6 (Praisos; reported by Lejeune 1947)",
     "institution": "University of Crete Library, Anemi Digital Library",
     "permanent_record_url": "https://anemi.lib.uoc.gr/metadata/2/2/0/metadata-203-0000001.tkl",
     "resource_identifier": "000070579",
@@ -19,7 +19,7 @@
     "volume_content_directly_inspected": false
   },
   "access_attempt": {
-    "result": "Institutional metadata and download identity located. Metadata page intermittently returned 502/timeouts through the available retrieval route; direct PDF content was not obtained or inspected in this checkpoint.",
+    "result": "2026-10-05 retry of Anemi institutional metadata returned 502; no volume pages obtained. Other source work continued.",
     "next_exact_action": "Retrieve University of Crete Anemi resource 000070579, volume file 000070579_3.pdf, then inspect printed pp. 134–142 and record scan-page locators and hashes before comparing readings.",
     "no_bypass_attempted": true
   },
@@ -27,5 +27,27 @@
     "status": "not_assessed_for_redistribution",
     "scope": "Catalogue facts and access locators only. No page image, transcription or edition text is redistributed."
   },
-  "boundary": "An institutional delivery route is not the same as completed primary-edition collation or an open-licence determination. The two byte counts are separately reported delivery/preservation metadata and are not treated as conflicting content hashes. No reading, object identity, language classification or expert judgment is imported."
+  "boundary": "An institutional delivery route is not the same as completed primary-edition collation or an open-licence determination. The two byte counts are separately reported delivery/preservation metadata and are not treated as conflicting content hashes. No reading, object identity, language classification or expert judgment is imported.",
+  "routing_correction": {
+    "supported_reported_project_ids": [
+      "ECR-PRAISOS-1",
+      "ECR-PRAISOS-2",
+      "ECR-PRAISOS-3",
+      "ECR-PRAISOS-4",
+      "ECR-PRAISOS-5",
+      "ECR-PRAISOS-6"
+    ],
+    "unsupported_inherited_project_ids": [
+      "ECR-DREROS-1",
+      "ECR-DREROS-2"
+    ],
+    "basis": "research/praisos-guarducci-number-concordance.json",
+    "direct_volume_collation": false,
+    "reason": "Repeated generic bibliography entries are not evidence that an edition covers a named inscription."
+  },
+  "alternative_route_assessment": {
+    "url": "https://data.apdkritis.gov.gr/resource/inscriptiones-creticae-opera-et-consilio-friderici-halbherr-collectae-iii-tituli-cretae",
+    "status": "REVIEW_DESCRIPTION_NOT_VERIFIED_FULL_VOLUME",
+    "basis": "Institutional description discusses evaluation/corrections; 1.68 MB item is not admitted as the 101-page edition. PDF not inspected."
+  }
 }
