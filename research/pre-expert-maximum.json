@@ -48,6 +48,39 @@
         "research/rights-source-matrix.json"
       ],
       "result": "Guarducci III public access route confirmed; government catalogue PDF identified as review rather than edition; public museum/Azoria routes re-tested without unsupported object promotion."
+    },
+    {
+      "gate": "duhoux_coverage_target_denominator",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/duhoux-concordance-targets.json"
+      ],
+      "result": "13-text Duhoux universe and 6 secure/7 uncertain grouping encoded as an attributed reconciliation target without copying critical text/apparatus."
+    },
+    {
+      "gate": "dreros_witness_genealogy",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/dreros-source-genealogy.json",
+        "research/dreros-public-source-closure-2026-10-06.md"
+      ],
+      "result": "Primary, derivative critical, and later photographic witnesses separated; source dependence no longer risks being counted as independent ancient evidence."
+    },
+    {
+      "gate": "azoria_discovery_denominator",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/azoria-item-candidates.json"
+      ],
+      "result": "17 site-wide inscribed sherds controlled as discovery denominator; two handle candidates represented individually; remaining 15 unresolved rather than synthesized."
+    },
+    {
+      "gate": "praisos_ic_crosswalk",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/praisos-ic-crosswalk.json"
+      ],
+      "result": "Conservative publication-identity crosswalk added with explicit non-promotion rules for uncertain Praisos records."
     }
   ],
   "remaining_nonexpert_work": [
@@ -70,10 +103,10 @@
     {
       "id": "ECR-PRE-003",
       "scope": "Azoria",
-      "action": "Public excavation, publication and SCS discovery routes re-tested. Two pithos-handle candidates remain distinct; authoritative individual inventory/accession IDs and reuse rights remain unresolved. Preserve uncertain attribution.",
-      "blocked_by": "authoritative_item_identity_or_institutional_access_and_reuse_rights",
-      "status": "PUBLIC_DISCOVERY_EXHAUSTED_NO_SAFE_ACCESSION_JOIN",
-      "evidence": "research/rights-wall-audit-2026-10-06.md"
+      "action": "Two handle candidates are individually represented and the remaining 15 members of the published 17-sherd denominator are explicitly unresolved. Further itemization requires authoritative excavation/institutional identifiers or additional lawful item-level publication evidence.",
+      "blocked_by": "institutional_item_identity_or_additional_item_level_source_access",
+      "status": "PUBLIC_ITEMIZATION_CEILING_REACHED",
+      "evidence": "research/azoria-item-candidates.json"
     }
   ],
   "human_only_boundary": [
