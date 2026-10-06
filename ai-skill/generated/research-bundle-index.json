@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "801efde9252bae36ef932b561518658772ea3c68",
+  "source_commit": "5106c4d933e8491e51cd8d118195de49c9b52898",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-06T13:11:04+00:00",
+  "generated_at_utc": "2026-10-06T13:13:05+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -172,8 +172,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "df9be15e57f07bf412b129207b6b94a7b3292c6a9254ad01f5cdfe3369d39811",
-      "bytes": 2746
+      "sha256": "eda9e4d0dcd8be25cb881ae5e08e81cab52dc1cd764a3c6cebc19b505150d79d",
+      "bytes": 3244
     },
     {
       "role": "pre_expert_source_exhaustion",
