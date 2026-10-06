@@ -3,7 +3,7 @@
   "corpus": "Eteocretan",
   "target": "LINEAR_A_LEVEL_PRE_EXPERT_MACHINE_RESOLVABLE_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "RIGHTS_DOMINANT_WITH_GUARDUCCI_PUBLIC_ACCESS_ROUTE_CONFIRMED",
+  "assessment": "RIGHTS_AND_INSTITUTIONAL_ACCESS_DOMINANT_AFTER_PUBLIC_SOURCE_EXHAUSTION",
   "blockers": [
     {
       "id": "ECR-BLK-001",
@@ -52,12 +52,23 @@
   "validation": {
     "ci_wired": true,
     "workflow": ".github/workflows/validate.yml",
-    "latest_status": "PASS_AT_CHECKPOINT",
+    "latest_status": "AWAITING_CI_FOR_CURRENT_HEAD",
     "validated_commit": "f303bc2e0c5632a28919bb7d81224055d56e4a05",
     "validate_run_id": 37484604389,
     "validate_conclusion": "success",
     "ai_skill_sync_run_id": 37484604403,
     "ai_skill_sync_conclusion": "success",
-    "note": "These completed runs validate the checkpoint commit. Subsequent commits require their own CI result."
+    "note": "Earlier checkpoint passed; current four-front source-closure commits require fresh CI before a pass is claimed."
+  },
+  "public_source_exhaustion": {
+    "checked": "2026-10-06",
+    "closed": [
+      "Duhoux 13-text / 6-secure + 7-uncertain target denominator established from public review evidence without copying edition",
+      "Dreros public derivative witness genealogy bounded",
+      "Azoria 17-sherd denominator itemized to two known handle candidates plus fifteen unresolved items",
+      "Conservative Praisos/IC publication crosswalk encoded"
+    ],
+    "remaining_actionable_without_new_access": [],
+    "note": "No presently identified corpus-growth task can safely create additional canonical readings, object identities, or item-level Azoria records from the currently admitted public evidence."
   }
 }
