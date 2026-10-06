@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "sources": [
+    {
+      "id": "CONWAY-BSA",
+      "use": "historical Praisos readings and retained evidence images",
+      "status": "PUBLIC_DOMAIN_OR_HISTORICAL_SOURCE_REUSE_ALREADY_PROJECT_REGISTERED",
+      "action": "retain exact provenance and component rights"
+    },
+    {
+      "id": "WIKIPEDIA-ES",
+      "use": "secondary transcription reference",
+      "status": "CC_BY_SA_4_0",
+      "action": "retain attribution/share-alike obligations; never present as critical edition"
+    },
+    {
+      "id": "DUHOUX-1982",
+      "use": "critical corpus/classification/readings/apparatus",
+      "status": "RIGHTS_AND_LAWFUL_ACCESS_REVIEW_REQUIRED",
+      "action": "obtain permission or terms sufficient for systematic structured derivative/public redistribution before ingestion"
+    },
+    {
+      "id": "GUARDUCCI-1942",
+      "use": "critical Praisos edition/readings/apparatus",
+      "status": "RIGHTS_AND_LAWFUL_ACCESS_REVIEW_REQUIRED",
+      "action": "inspect lawful access terms and obtain permission if systematic structured derivative/public redistribution is not clearly allowed"
+    },
+    {
+      "id": "VAN-EFFENTERRE-1946-1961",
+      "use": "Dreros editions/facsimile/photographic evidence",
+      "status": "PARTIAL_PUBLIC_INSPECTION_RIGHTS_FOR_STRUCTURED_REDISTRIBUTION_NOT_ESTABLISHED",
+      "action": "keep current attributed metadata; assess permission before systematic transcription/image redistribution"
+    },
+    {
+      "id": "AZORIA",
+      "use": "item-level inscriptions/images/transcriptions",
+      "status": "METADATA_LEADS_ONLY_UNTIL_RIGHTS_CLEAR",
+      "action": "seek item identifiers and permission/clear reuse terms before structured object-level ingestion"
+    }
+  ],
+  "rule": "Access does not equal redistribution permission. Bibliographic facts and attributed summaries do not authorize systematic reproduction of protected editions, images or apparatus."
+}
