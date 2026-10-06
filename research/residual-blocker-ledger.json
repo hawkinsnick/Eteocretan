@@ -46,5 +46,11 @@
       "needed": "expert/object review after admissible evidence exists"
     }
   ],
-  "completion_rule": "Rights-only readiness requires every remaining actionable evidence-growth gate to be a concrete rights/access dependency. Expert adjudication remains an ultimate scientific dependency, not unfinished engineering."
+  "completion_rule": "Rights-only readiness requires every remaining actionable evidence-growth gate to be a concrete rights/access dependency. Expert adjudication remains an ultimate scientific dependency, not unfinished engineering.",
+  "validation": {
+    "ci_wired": true,
+    "workflow": ".github/workflows/validate.yml",
+    "latest_status": "PENDING_OR_NOT_YET_REPORTED",
+    "note": "Do not claim CI pass until GitHub reports a completed successful run."
+  }
 }
