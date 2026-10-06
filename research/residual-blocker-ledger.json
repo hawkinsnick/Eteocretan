@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "target": "LINEAR_A_LEVEL_PRE_EXPERT_MACHINE_RESOLVABLE_MAXIMUM",
+  "checked": "2026-10-06",
+  "assessment": "NOT_YET_RIGHTS_ONLY",
+  "blockers": [
+    {
+      "id": "ECR-BLK-001",
+      "class": "RIGHTS_ACCESS",
+      "source": "Duhoux 1982",
+      "status": "BLOCKED",
+      "needed": "lawful direct access and rights sufficient for systematic structured derivative/public redistribution"
+    },
+    {
+      "id": "ECR-BLK-002",
+      "class": "RIGHTS_ACCESS",
+      "source": "Guarducci 1942",
+      "status": "BLOCKED",
+      "needed": "lawful direct access and rights determination for structured derivative/public redistribution"
+    },
+    {
+      "id": "ECR-BLK-003",
+      "class": "RIGHTS_ACCESS",
+      "source": "Dreros editions and object imagery",
+      "status": "PARTIAL",
+      "needed": "rights-compatible evidence for complete structured collation"
+    },
+    {
+      "id": "ECR-BLK-004",
+      "class": "DISCOVERY_IDENTITY",
+      "source": "Azoria",
+      "status": "PUBLIC_ROUTE_EXHAUSTED_TO_PUBLICATION_LEVEL",
+      "needed": "individual inventory/object identifiers beyond published descriptions; no inference from collection count"
+    },
+    {
+      "id": "ECR-BLK-005",
+      "class": "ENGINEERING",
+      "status": "IN_PROGRESS",
+      "needed": "parity validation, researcher API/export and review packaging"
+    },
+    {
+      "id": "ECR-BLK-006",
+      "class": "SCIENTIFIC_REVIEW",
+      "status": "DOWNSTREAM_NOT_ENGINEERING",
+      "needed": "expert/object review after admissible evidence exists"
+    }
+  ],
+  "completion_rule": "Rights-only readiness requires every remaining actionable evidence-growth gate to be a concrete rights/access dependency. Expert adjudication remains an ultimate scientific dependency, not unfinished engineering."
+}
