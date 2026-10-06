@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "purpose": "Track editorial/source dependence so repeated transcriptions are not counted as independent witnesses.",
+  "lineages": [
+    {
+      "id": "ECR-LIN-CONWAY",
+      "class": "historical_primary_publication",
+      "members": [
+        "ECR-PRAISOS-1-CONWAY-135",
+        "ECR-PRAISOS-2-CONWAY-127",
+        "ECR-PRAISOS-2-CONWAY-127-II",
+        "ECR-PRAISOS-3-CONWAY-117"
+      ],
+      "independence_rule": "Alternative presentations/readings in one publication are not independent ancient witnesses."
+    },
+    {
+      "id": "ECR-LIN-WIKIPEDIA",
+      "class": "secondary_compilation",
+      "members": "all records with authority Wikipedia contributors",
+      "independence_rule": "Secondary compilation is not independent epigraphic confirmation."
+    },
+    {
+      "id": "ECR-LIN-DUHOUX-BASELINE",
+      "class": "modern_critical_scholarly_baseline",
+      "members": [
+        "PRA1",
+        "PRA2",
+        "PRA3",
+        "PRA4",
+        "PRA5",
+        "DRE1"
+      ],
+      "status": "bibliographic_or_secondary_reporting_until_lawful_direct_collation",
+      "independence_rule": "Classification can be retained as attributed scholarship but not converted into project observation without direct lawful source inspection."
+    },
+    {
+      "id": "ECR-LIN-GUARDUCCI",
+      "class": "critical_edition_route",
+      "members": [
+        "PRA1",
+        "PRA2",
+        "PRA3",
+        "PRA4",
+        "PRA5",
+        "PRA6"
+      ],
+      "status": "route_identified_content_not_collated",
+      "independence_rule": "Publication-number concordance is not reading independence."
+    }
+  ],
+  "rules": [
+    "Never infer independent_witness_count from number of records.",
+    "Keep source assertion, project classification and expert adjudication separate.",
+    "Physical-object observation outranks derivative repetition only when lawfully inspected and explicitly recorded."
+  ]
+}
