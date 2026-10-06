@@ -55,3 +55,10 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Linear A method-parity gate
 The repository has reached the machine-resolvable pre-expert method-parity baseline: source lineage, disagreements, rights/source controls, rights-allowlisted browser, read-only API, loss-aware exports, parity validation and expert-review packaging are present. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json` before claiming completeness. Further systematic evidence growth is currently constrained by lawful access/rights to critical editions and object-level evidence. Expert adjudication remains a downstream scientific gate, not unfinished software. Do not turn Azoria collection counts into Eteocretan text counts or resolve Praisos classification conflicts by majority vote.
+
+
+## Rights-wall re-audit (2026-10-06)
+
+Before describing Guarducci 1942 as inaccessible, read `research/rights-wall-audit-2026-10-06.md`. University of Crete Anemi resource 000070579 publicly exposes volume III as `000070579_3.pdf`; access and redistribution rights are separate questions. A Greek-government catalogue PDF encountered during the audit is a later review of Guarducci III, not the edition, and must not substitute for it.
+
+Public museum and Azoria discovery searches do not establish safe accession joins for the Eteocretan objects. The SCS description of two probably Eteocretan pithos handles strengthens an attributed discovery/classification lead only. Never promote those handles, museum objects, or Dreros location claims to canonical identity without authoritative evidence.
