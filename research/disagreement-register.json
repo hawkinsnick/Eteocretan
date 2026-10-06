@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Eteocretan",
+  "items": [
+    {
+      "id": "ECR-DIS-001",
+      "scope": [
+        "ECR-PRAISOS-4",
+        "ECR-PRAISOS-5"
+      ],
+      "kind": "language_classification",
+      "project_assertion": "uncertain_language",
+      "scholarly_assertion": "Duhoux-derived baseline reports undoubtedly Eteocretan",
+      "status": "UNRESOLVED_PENDING_DIRECT_CRITICAL_SOURCE_OR_EXPERT_REVIEW"
+    },
+    {
+      "id": "ECR-DIS-002",
+      "scope": [
+        "ECR-PRAISOS-1",
+        "ECR-PRAISOS-2",
+        "ECR-PRAISOS-3"
+      ],
+      "kind": "reading_lineage",
+      "assertions": [
+        "Conway historical readings",
+        "later critical editions not yet directly collated"
+      ],
+      "status": "UNRESOLVED_PENDING_LAWFUL_CRITICAL_EDITION_ACCESS"
+    },
+    {
+      "id": "ECR-DIS-003",
+      "scope": [
+        "ECR-DREROS-1",
+        "ECR-DREROS-2"
+      ],
+      "kind": "critical_reading",
+      "assertions": [
+        "secondary retained readings",
+        "primary/near-primary publication evidence"
+      ],
+      "status": "UNRESOLVED_PENDING_COMPLETE_PRIMARY_COLLATION"
+    },
+    {
+      "id": "ECR-DIS-004",
+      "scope": [
+        "ECR-PSYCHRO-DISPUTED"
+      ],
+      "kind": "authenticity",
+      "status": "QUARANTINED_COMPETING_SCHOLARLY_CLAIMS"
+    },
+    {
+      "id": "ECR-DIS-005",
+      "scope": [
+        "CRET-DISPUTED-HM-X2416"
+      ],
+      "kind": "script_assignment",
+      "status": "QUARANTINED_NOT_ETEOCRETAN"
+    }
+  ],
+  "rule": "Disagreement presence is evidence metadata, not a request for the software to choose a winner."
+}
