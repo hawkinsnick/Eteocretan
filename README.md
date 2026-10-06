@@ -74,3 +74,7 @@ See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for 
 ## 1.1.0 physical-context milestone
 
 The Dreros 1 dossier now includes a source-linked 1961 photograph and six attributed physical/context assertions: three about the named inscription and three retained at group scope. The edition-route audit corrects an unsupported eight-entry Guarducci coverage claim to six reported Praisos correspondences, with two Dreros citations explicitly unverified. Twelve reading versions and zero analytically admitted rows remain. See [release details](docs/RELEASE_1_1_0.md).
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
