@@ -29,3 +29,12 @@ For an assistant-assisted analysis, supply the selected records together with
 
 Verify any generated analysis against the saved source and deterministic
 exports. Model-generated readings are not additional epigraphic evidence.
+
+
+## Research interfaces
+- Offline browser: `python scripts/build_corpus_browser.py` then open `workbench/corpus-browser.html`.
+- Read-only query API: `python scripts/research_api.py records --text Praisos`.
+- Loss-aware export: `python scripts/export_research_layer.py json /tmp/eteocretan.json` (also `jsonl` and `csv`; inspect the generated manifest).
+- Parity gate: `python scripts/test_preexpert_parity.py`.
+
+These interfaces expose attributed evidence; they do not upgrade a reading, establish source independence, settle language attribution or constitute expert epigraphic validation.
