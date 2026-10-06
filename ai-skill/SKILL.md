@@ -47,3 +47,7 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - Azoria Figure 42 / 06-0334 (D346.1) corresponds to the upper bin-lining handle at the level of primary article textual description. No figure image or museum accession was verified. The same-pithos relationship is qualified, and 3 room sherds / 17 site sherds are not Eteocretan text denominators.
 
 At version 1.1.0, route physical-context questions through `research/dreros-context-evidence.json` and its audit. Preserve object-specific attribution versus group history, author hypotheses versus object dates, and photographic publication identity versus readings. A bilingual caption does not certify translation equivalence. Guarducci’s six reported Praisos correspondences do not establish Dreros coverage; its two inherited Dreros citations remain explicitly unverified.
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
