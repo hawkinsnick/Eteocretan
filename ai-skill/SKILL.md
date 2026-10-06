@@ -62,3 +62,15 @@ The repository has reached the machine-resolvable pre-expert method-parity basel
 Before describing Guarducci 1942 as inaccessible, read `research/rights-wall-audit-2026-10-06.md`. University of Crete Anemi resource 000070579 publicly exposes volume III as `000070579_3.pdf`; access and redistribution rights are separate questions. A Greek-government catalogue PDF encountered during the audit is a later review of Guarducci III, not the edition, and must not substitute for it.
 
 Public museum and Azoria discovery searches do not establish safe accession joins for the Eteocretan objects. The SCS description of two probably Eteocretan pithos handles strengthens an attributed discovery/classification lead only. Never promote those handles, museum objects, or Dreros location claims to canonical identity without authoritative evidence.
+
+
+## Four-front public-source exhaustion (2026-10-06)
+
+Read `research/duhoux-concordance-targets.json`, `research/praisos-ic-crosswalk.json`, `research/azoria-item-candidates.json`, and `research/dreros-source-genealogy.json` before proposing corpus expansion.
+
+- Duhoux's 13-text universe (six secure / seven uncertain in the public review) is a reconciliation target, not permission to reconstruct or copy his critical edition.
+- Publication identifiers such as IC numbers do not establish museum accessions or preferred readings.
+- Azoria's 17 inscribed sherds are a site-wide discovery denominator. Only two handle candidates are currently represented individually; never synthesize fifteen missing Eteocretan records.
+- Dreros editions and later discussions belong to a witness genealogy. Dependent editions, photographs and secondary transcriptions do not multiply independent ancient witnesses.
+
+Under the currently admitted public evidence, additional canonical readings/object identities require new lawful source or institutional evidence; downstream epigraphic adjudication remains human-only.
