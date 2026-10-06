@@ -27,3 +27,11 @@ jobs:
       - run: python scripts/audit_guarducci_route.py --check
       - run: python scripts/audit_praisos_guarducci_numbers.py --check
       - run: python scripts/audit_dreros_context.py --check
+      - name: Validate Linear A method-parity controls
+        run: |
+          python scripts/test_preexpert_parity.py
+          python scripts/build_corpus_browser.py
+          test -s workbench/corpus-browser.html
+          python scripts/research_api.py records --text Praisos --limit 2 > /tmp/ecr-api.json
+          python scripts/export_research_layer.py json /tmp/ecr.json
+          test -s /tmp/ecr.json.manifest.json
