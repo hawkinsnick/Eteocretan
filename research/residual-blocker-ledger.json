@@ -3,7 +3,7 @@
   "corpus": "Eteocretan",
   "target": "LINEAR_A_LEVEL_PRE_EXPERT_MACHINE_RESOLVABLE_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "NOT_YET_RIGHTS_ONLY",
+  "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
   "blockers": [
     {
       "id": "ECR-BLK-001",
@@ -28,16 +28,16 @@
     },
     {
       "id": "ECR-BLK-004",
-      "class": "DISCOVERY_IDENTITY",
+      "class": "RIGHTS_ACCESS",
       "source": "Azoria",
-      "status": "PUBLIC_ROUTE_EXHAUSTED_TO_PUBLICATION_LEVEL",
+      "status": "PUBLIC_ROUTE_EXHAUSTED_TO_PUBLICATION_LEVEL_RIGHTS_OR_INSTITUTIONAL_ITEM_ACCESS_REQUIRED",
       "needed": "individual inventory/object identifiers beyond published descriptions; no inference from collection count"
     },
     {
       "id": "ECR-BLK-005",
       "class": "ENGINEERING",
-      "status": "IN_PROGRESS",
-      "needed": "parity validation, researcher API/export and review packaging"
+      "status": "COMPLETE",
+      "needed": "Implemented lineage/disagreement/rights controls, browser, API, loss-aware export, parity validator and review packaging."
     },
     {
       "id": "ECR-BLK-006",
