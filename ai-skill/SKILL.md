@@ -51,3 +51,7 @@ At version 1.1.0, route physical-context questions through `research/dreros-cont
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
+
+
+## Linear A method-parity gate
+The repository has reached the machine-resolvable pre-expert method-parity baseline: source lineage, disagreements, rights/source controls, rights-allowlisted browser, read-only API, loss-aware exports, parity validation and expert-review packaging are present. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json` before claiming completeness. Further systematic evidence growth is currently constrained by lawful access/rights to critical editions and object-level evidence. Expert adjudication remains a downstream scientific gate, not unfinished software. Do not turn Azoria collection counts into Eteocretan text counts or resolve Praisos classification conflicts by majority vote.
