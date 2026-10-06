@@ -52,7 +52,12 @@
   "validation": {
     "ci_wired": true,
     "workflow": ".github/workflows/validate.yml",
-    "latest_status": "PENDING_OR_NOT_YET_REPORTED",
-    "note": "Rights-wall audit refined access versus redistribution rights. Do not claim scientific admission or CI pass from this ledger."
+    "latest_status": "PASS_AT_CHECKPOINT",
+    "validated_commit": "f303bc2e0c5632a28919bb7d81224055d56e4a05",
+    "validate_run_id": 37484604389,
+    "validate_conclusion": "success",
+    "ai_skill_sync_run_id": 37484604403,
+    "ai_skill_sync_conclusion": "success",
+    "note": "These completed runs validate the checkpoint commit. Subsequent commits require their own CI result."
   }
 }
