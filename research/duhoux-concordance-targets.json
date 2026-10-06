@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-06",
+  "purpose": "Reconstruct the coverage/checklist layer around Duhoux 1982 from independently accessible evidence without copying the protected critical edition.",
+  "source_control": [
+    {
+      "source": "Duhoux 1982 review in L'Antiquité Classique 53 (1984)",
+      "fact": "13 inscriptions treated; six classed as indisputably Eteocretan and seven as uncertain; entry template includes description, dating, findspot/conservation, archaeological context, bibliography, critical edition/apparatus.",
+      "use": "coverage architecture only; no protected text/apparatus copied"
+    },
+    {
+      "source": "Google Books bibliographic/snippet record",
+      "fact": "335 pages; section 'Textes indiscutablement étéocrétois' begins p.27.",
+      "use": "bibliographic/navigation metadata only"
+    }
+  ],
+  "target_denominator": {
+    "known_to_duhoux": 13,
+    "secure_group": 6,
+    "uncertain_group": 7
+  },
+  "project_mapping_status": "OPEN_RECORD_BY_RECORD",
+  "rules": [
+    "Do not infer which project IDs occupy all 13 Duhoux slots from the 6/7 totals alone.",
+    "Do not copy Duhoux readings, apparatus, photographs or protected expression from snippets/reviews.",
+    "Populate target identities only when independently corroborated by lawful primary/institutional evidence.",
+    "Keep Duhoux classification as an attributed scholarly decision, not project independent review."
+  ],
+  "next_closure": "Resolve the 13-slot concordance against public primary/institutional witnesses and Guarducci/Lejeune source lineage; unresolved slots remain targets."
+}
