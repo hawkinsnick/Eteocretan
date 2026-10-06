@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "corpus": "Eteocretan",
-  "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-04",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
   "established": [
     {
       "gate": "attributed_reading_archive",
@@ -79,5 +79,15 @@
       "decision": "adjudicate disputed script or authenticity"
     }
   ],
-  "completion_rule": "Exhaust source routes before expert review; zero analytical admission remains until scholarly gates are satisfied."
+  "completion_rule": "Machine-resolvable corpus engineering is complete when parity controls validate. Further systematic evidence growth is held at concrete lawful-access/rights gates; expert adjudication remains a downstream scientific gate.",
+  "residual_blocker_ledger": "research/residual-blocker-ledger.json",
+  "controls": [
+    "research/source-lineage-register.json",
+    "research/disagreement-register.json",
+    "research/rights-source-matrix.json",
+    "scripts/research_api.py",
+    "scripts/export_research_layer.py",
+    "scripts/test_preexpert_parity.py",
+    "docs/RIGHTS-ONLY-READINESS.md"
+  ]
 }
