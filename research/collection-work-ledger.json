@@ -2,13 +2,13 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "0343d628fd81279ef5469a25bdd72685e6f8ea90c96e9562e8569207993b4b86",
-  "evidence_fingerprint": "ff9a351f8e3312fc8abeac9bcbac0c29cd9a8234b9706dd216ea76f202ccf517",
+  "evidence_fingerprint": "b735fc9d87af04a50a626362f50aa458b2287500ffe3be7da9825c02e17ac352",
   "input_sha256": {
-    "analysis/current-status.json": "87634380f256b32c9333d0bd7e2137ee2e716e9ddf065a9ffb2869fba0567371",
+    "analysis/current-status.json": "8f0b2b14c9a5ff79139650ff77ec5973b19cdfb561cc7dea3efd4f7cfd5a2e85",
     "data/records.json": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
-    "research/coverage-register.json": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
-    "research/pre-expert-maximum.json": "aea0dc38565fdc40246199b84e4ca841ee2395581df14b9af3833522cb4e14e9",
-    "research/pre-expert-source-exhaustion.json": "4e106c75b85cb58d62a1bd5fe33f5da844c6551d4ba21d0e6f5263f122081c35",
+    "research/coverage-register.json": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+    "research/pre-expert-maximum.json": "eda9e4d0dcd8be25cb881ae5e08e81cab52dc1cd764a3c6cebc19b505150d79d",
+    "research/pre-expert-source-exhaustion.json": "6ea3593b6b2c3f2689d7cb3aeef1f59db7ce8ae4402bf3f2c3f060bd4d258d64",
     "research/source-inspection-2026-10-02.json": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5"
   },
   "native_review_links": [
@@ -327,7 +327,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-PRAISOS-1",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/0/source_leads",
         "/0/source_leads/0/citation",
@@ -337,7 +337,7 @@
         "/0/scholarly_baseline/source"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "e957ffb0b56927b1a88c415b9115eb7bc753a19704f69d875e7ac6f5ea841870",
+      "source_record_sha256": "bb7d77936308ced3930ef34e9501524d85093071d8dc2638b231a346bc226f46",
       "unit": "coverage_candidate"
     },
     {
@@ -353,7 +353,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-PRAISOS-2",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/1/source_leads",
         "/1/source_leads/0/citation",
@@ -363,7 +363,7 @@
         "/1/scholarly_baseline/source"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "e84243da0db6c4c894b437bd19c1ddc7e78445fb85c277b6d153072305ae4a8b",
+      "source_record_sha256": "d4217383e57af27b3f909ed2e9a0a21b6424cbfab1b9cadea89fc37bc20d93ee",
       "unit": "coverage_candidate"
     },
     {
@@ -379,7 +379,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-PRAISOS-3",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/2/source_leads",
         "/2/source_leads/0/citation",
@@ -389,7 +389,7 @@
         "/2/scholarly_baseline/source"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "741e810d6c357028667e8b340a265a7a0d3db698e218eeebb5e71153d6fe90f6",
+      "source_record_sha256": "3dd84ba671f86891eda1462c909dc72a55743c371fa209a47eb6a6e06f57640b",
       "unit": "coverage_candidate"
     },
     {
@@ -405,7 +405,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-PRAISOS-4",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/3/source_leads",
         "/3/source_leads/0/citation",
@@ -413,7 +413,7 @@
         "/3/scholarly_baseline/source"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "d5ec42570b4a2a09b76988ce3e8bc04c5bcb3d1b1754808c2533fb2f23d3f48b",
+      "source_record_sha256": "bfd94a2d052813622262deec98498e920ca01b382aa5450a4908e97b0a91d689",
       "unit": "coverage_candidate"
     },
     {
@@ -429,7 +429,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-PRAISOS-5",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/4/source_leads",
         "/4/source_leads/0/citation",
@@ -437,7 +437,7 @@
         "/4/scholarly_baseline/source"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "6539b020b91a3692f723a30832669f57c85729998dbc910b53247b6a27cd358c",
+      "source_record_sha256": "85f7054d051b59f5e9e7ee1125c1d874b6af81806b040a92fe1d0a5eeaaadebd",
       "unit": "coverage_candidate"
     },
     {
@@ -453,14 +453,14 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-PRAISOS-6",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/5/source_leads",
         "/5/source_leads/0/citation",
         "/5/source_leads/1/citation"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "4d03f39f084e2d1ca9207ace4cace8a18584205a5f89828ea3d4d75c46452b6a",
+      "source_record_sha256": "9a19f6917b795d5db74f66cd9790cb186ebd3c8c57eb84a85b29277e1ae31ede",
       "unit": "coverage_candidate"
     },
     {
@@ -476,15 +476,17 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-DREROS-1",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/6/source_leads",
         "/6/source_leads/0/citation",
         "/6/source_leads/1/citation",
+        "/6/source_leads/2/citation",
+        "/6/source_leads/2/url",
         "/6/scholarly_baseline/source"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "c92f7f79a9ec20d27dd2902d99836f8f441fe1d775b6f1c1c6b4ec49c908991e",
+      "source_record_sha256": "91489d446838d6c092766711ac95d36f9fe44fa332f406701ffe111fcd844add",
       "unit": "coverage_candidate"
     },
     {
@@ -500,7 +502,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-DREROS-2",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/7/source_leads",
         "/7/source_leads/0/citation",
@@ -510,7 +512,7 @@
         "/7/source_leads/2/url"
       ],
       "source_path": "research/coverage-register.json",
-      "source_record_sha256": "227303363571db742be47e0f7578d89c8691437c8febe0bde09ce75c82d31992",
+      "source_record_sha256": "1d2d90975924ac8e6c763d0e029af5e5b878505a09350cabc3c077df24a5e88c",
       "unit": "coverage_candidate"
     },
     {
@@ -526,7 +528,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-PSYCHRO-DISPUTED",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/8/source_leads",
         "/8/source_leads/0/citation",
@@ -550,7 +552,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:CRET-DISPUTED-HM-X2416",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/9/source_leads",
         "/9/source_leads/0/citation",
@@ -573,7 +575,7 @@
         "reuse_rights"
       ],
       "record_key": "coverage-objects:ECR-AZORIA-COLLECTION-LEAD",
-      "source_file_sha256": "66327940d8054235b50698bcc5a09c3ebaf924357e2173fe0899d480c3e31754",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
       "source_lead_pointers": [
         "/10/source_leads",
         "/10/source_leads/0/url",
@@ -1056,6 +1058,12 @@
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/2",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/6/source_leads/0/citation",
       "kind": "citation",
       "source_path": "research/coverage-register.json"
@@ -1064,6 +1072,18 @@
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
       "json_pointer": "/6/source_leads/1/citation",
       "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/2/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/2/url",
+      "kind": "url",
       "source_path": "research/coverage-register.json"
     },
     {
@@ -1222,10 +1242,10 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_nonexpert_work/0",
-      "native_status": "PARTIAL_SOURCE_ROUTE_COMPLETE",
+      "native_status": "LATER_PHOTOGRAPH_INSPECTED_ORIGINAL_COLLATION_OPEN",
       "native_task_id": "ECR-PRE-001",
       "source_path": "research/pre-expert-maximum.json",
-      "task": "Dreros 2 primary BCH is inspected; Dreros 1 now has Lejeune 1947 near-primary critical witness reproducing Van Effenterre layout/uncertainties. Continue acquisition of original Rev. Phil. 1946 facsimile."
+      "task": "Later author-published Dreros 1 photograph inspected, with technique and group conservation reports. Acquire the original Rev. Phil. 1946 facsimile and reconcile current object accessions; do not treat later photo as completed critical collation."
     },
     {
       "blocker_is_not_established_by_a_label": true,
@@ -1240,10 +1260,10 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_nonexpert_work/2",
-      "native_status": null,
+      "native_status": "TWO_CAPTION_CANDIDATES_SEPARATED_INVENTORY_JOIN_OPEN",
       "native_task_id": "ECR-PRE-003",
       "source_path": "research/pre-expert-maximum.json",
-      "task": "Resolve collection lead into item-level catalogue candidates."
+      "task": "Reconcile two D300 caption candidates to excavation/museum IDs and the 17-sherd collection; preserve uncertain attribution and vessel identity."
     },
     {
       "blocker_is_not_established_by_a_label": true,
