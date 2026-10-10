@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "f8d9f3c9f4516e190b9e39edd41ae841f926a917",
+  "source_commit": "ad351b76561d5512f0bf36ae0574f4611498a75e",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-10T16:53:01+00:00",
+  "generated_at_utc": "2026-10-10T18:27:17+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -88,14 +88,14 @@
     {
       "role": "source_critical_dossier",
       "path": "analysis/source-critical-dossier.json",
-      "sha256": "b391e014f129b97e9cd9196fae718ae00b6f623d69c38bf144ce853415cacae3",
+      "sha256": "4631040aa4c7f9f15ecba5e9c93cc582bafcb19cf276f027ef60d191a51460bc",
       "bytes": 42001
     },
     {
       "role": "azoria_item_candidates",
       "path": "research/azoria-item-candidates.json",
-      "sha256": "dba8cc269b21e893257cfa184eb8374154548311ac27f375e6d48d493a36b177",
-      "bytes": 5026
+      "sha256": "5f85b73e8248a18e5e9438b383ebb38fbeefe5aa78291c76f29da8b2abb64833",
+      "bytes": 6437
     },
     {
       "role": "dreros1_near_primary_witness",
@@ -172,8 +172,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "eda9e4d0dcd8be25cb881ae5e08e81cab52dc1cd764a3c6cebc19b505150d79d",
-      "bytes": 3244
+      "sha256": "8d6356a52d13d48135320bc05996f600f21f127d9acd83b14a43351e87843ad8",
+      "bytes": 5643
     },
     {
       "role": "pre_expert_source_exhaustion",
