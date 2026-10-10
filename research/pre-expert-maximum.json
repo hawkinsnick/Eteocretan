@@ -39,6 +39,48 @@
         "analysis/guarducci-route-audit.json"
       ],
       "independent_review": false
+    },
+    {
+      "gate": "rights_wall_reaudit",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/rights-wall-audit-2026-10-06.md",
+        "research/rights-source-matrix.json"
+      ],
+      "result": "Guarducci III public access route confirmed; government catalogue PDF identified as review rather than edition; public museum/Azoria routes re-tested without unsupported object promotion."
+    },
+    {
+      "gate": "duhoux_coverage_target_denominator",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/duhoux-concordance-targets.json"
+      ],
+      "result": "13-text Duhoux universe and 6 secure/7 uncertain grouping encoded as an attributed reconciliation target without copying critical text/apparatus."
+    },
+    {
+      "gate": "dreros_witness_genealogy",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/dreros-source-genealogy.json",
+        "research/dreros-public-source-closure-2026-10-06.md"
+      ],
+      "result": "Primary, derivative critical, and later photographic witnesses separated; source dependence no longer risks being counted as independent ancient evidence."
+    },
+    {
+      "gate": "azoria_discovery_denominator",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/azoria-item-candidates.json"
+      ],
+      "result": "17 site-wide inscribed sherds controlled as discovery denominator; two handle candidates represented individually; remaining 15 unresolved rather than synthesized."
+    },
+    {
+      "gate": "praisos_ic_crosswalk",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/praisos-ic-crosswalk.json"
+      ],
+      "result": "Conservative publication-identity crosswalk added with explicit non-promotion rules for uncertain Praisos records."
     }
   ],
   "remaining_nonexpert_work": [
@@ -53,15 +95,17 @@
     {
       "id": "ECR-PRE-002",
       "scope": "Praisos 1-3",
-      "action": "Acquire and lineage-map later critical editions against Conway.",
-      "blocked_by": "critical_edition_access"
+      "action": "Public digital access to Guarducci 1942 volume III is confirmed through Anemi; use for lawful inspection/factual reconciliation, while systematic structured derivative/public redistribution remains rights-gated. Duhoux 1982 remains a separate critical-edition access/rights target.",
+      "blocked_by": "duhoux_access_and_source_specific_reuse_rights; guarducci_systematic_derivative_rights",
+      "status": "GUARDUCCI_ACCESS_ROUTE_CONFIRMED_RIGHTS_BOUNDARY_OPEN",
+      "evidence": "research/rights-wall-audit-2026-10-06.md"
     },
     {
       "id": "ECR-PRE-003",
       "scope": "Azoria",
-      "action": "Reconcile two D300 caption candidates to excavation/museum IDs and the 17-sherd collection; preserve uncertain attribution and vessel identity.",
-      "blocked_by": "catalogue_discovery",
-      "status": "TWO_CAPTION_CANDIDATES_SEPARATED_INVENTORY_JOIN_OPEN",
+      "action": "Two handle candidates are individually represented and the remaining 15 members of the published 17-sherd denominator are explicitly unresolved. Further itemization requires authoritative excavation/institutional identifiers or additional lawful item-level publication evidence.",
+      "blocked_by": "institutional_item_identity_or_additional_item_level_source_access",
+      "status": "PUBLIC_ITEMIZATION_CEILING_REACHED",
       "evidence": "research/azoria-item-candidates.json"
     }
   ],

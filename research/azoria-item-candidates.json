@@ -101,5 +101,34 @@
     "status": "possible Eteocretan, explicitly not probative",
     "project_language_decision": null,
     "independent_review": false
+  },
+  "discovery_inventory": {
+    "status": "PARTIAL_ITEM_LEVEL",
+    "published_site_count": 17,
+    "items_resolved_to_individual_project_candidates": 2,
+    "items_not_individually_resolved": 15,
+    "denominator_rule": "17 is the publication's site-wide count of inscribed sherds (graffiti/dipinti), not an Eteocretan-inscription count.",
+    "classification_buckets": {
+      "ECR-AZORIA-D300-UPPER-HANDLE": "possible_Eteocretan_attributed_not_probative",
+      "ECR-AZORIA-D300-LOWER-HANDLE": "possible_Eteocretan_attributed_not_probative",
+      "remaining_15": "unresolved_item_identity_and_language"
+    },
+    "public_evidence": [
+      {
+        "source": "Haggis et al. 2011",
+        "locator": "p.58 / Figure 42",
+        "control": "06-0334 (D346.1) upper/bin-lining handle; 17 site-wide inscribed sherds; linguistic features described as not probative."
+      },
+      {
+        "source": "Society for Classical Studies abstract",
+        "control": "two inscribed pithos handles described as probably Eteocretan; discovery/classification lead only."
+      }
+    ],
+    "anti_inference": [
+      "Do not create fifteen placeholder Eteocretan texts.",
+      "Do not infer that all 17 sherds are linguistic texts.",
+      "Do not infer one or two vessels from the two handles beyond the source's qualified hypothesis.",
+      "Do not invent excavation or museum IDs for unresolved items."
+    ]
   }
 }
