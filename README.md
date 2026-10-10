@@ -82,3 +82,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Linear A method-parity gate
 The repository has reached the machine-resolvable pre-expert method-parity baseline: source lineage, disagreements, rights/source controls, rights-allowlisted browser, read-only API, loss-aware exports, parity validation and expert-review packaging are present. Read `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json` before claiming completeness. Further systematic evidence growth is currently constrained by lawful access/rights to critical editions and object-level evidence. Expert adjudication remains a downstream scientific gate, not unfinished software. Do not turn Azoria collection counts into Eteocretan text counts or resolve Praisos classification conflicts by majority vote.
+
+## Evidence denominator and admission policy
+
+The eight named inscriptions, twelve reading versions, 101 source-text rows and zero analytically admitted rows/tokens describe different units. Alternative versions are not independent stones or independent ancient witnesses. Neither searchability nor software validation admits excluded transcriptions to linguistic frequency analysis. Keep disputed classifications and source-access limitations explicit; independent collation and specialist adjudication remain open.
