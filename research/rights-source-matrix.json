@@ -23,8 +23,8 @@
     {
       "id": "GUARDUCCI-1942",
       "use": "critical Praisos edition/readings/apparatus",
-      "status": "RIGHTS_AND_LAWFUL_ACCESS_REVIEW_REQUIRED",
-      "action": "inspect lawful access terms and obtain permission if systematic structured derivative/public redistribution is not clearly allowed"
+      "status": "PUBLIC_DIGITAL_ACCESS_CONFIRMED_REUSE_RIGHTS_UNRESOLVED",
+      "action": "Anemi resource 000070579 exposes volume III as file 000070579_3.pdf. Lawful inspection route exists; do not redistribute scans/apparatus or ingest systematic structured derivatives until source-specific rights are established."
     },
     {
       "id": "VAN-EFFENTERRE-1946-1961",
@@ -35,9 +35,9 @@
     {
       "id": "AZORIA",
       "use": "item-level inscriptions/images/transcriptions",
-      "status": "METADATA_LEADS_ONLY_UNTIL_RIGHTS_CLEAR",
-      "action": "seek item identifiers and permission/clear reuse terms before structured object-level ingestion"
+      "status": "PUBLIC_METADATA_AND_CLASSIFICATION_LEADS_AVAILABLE_ITEM_IDENTITY_AND_REUSE_RIGHTS_OPEN",
+      "action": "Retain attributed public factual metadata, including the two pithos-handle lead; resolve authoritative item identifiers and reuse terms before object-level text/image ingestion."
     }
   ],
-  "rule": "Access does not equal redistribution permission. Bibliographic facts and attributed summaries do not authorize systematic reproduction of protected editions, images or apparatus."
+  "rule": "Access does not equal redistribution permission. A public download route may support inspection and attributed factual metadata without authorizing reproduction of protected text, images, apparatus, or systematic structured derivatives."
 }

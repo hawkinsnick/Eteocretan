@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-06",
+  "purpose": "Crosswalk project Praisos labels to independently attested publication identifiers without resolving disputed language classification by fiat.",
+  "entries": [
+    {"project_id":"ECR-PRAISOS-1","project_label":"Praisos 1","guarducci_reported":"IC III VI 1","confidence":"HIGH_SOURCE_LINEAGE","basis":"Lejeune 1947 explicitly cites the archaic Praisos inscription at IC III p.138 no. VI-1; existing project primary-page crosswalk independently links the barxe fragment to Praisos 1.","language_admission":"unchanged"},
+    {"project_id":"ECR-PRAISOS-2","project_label":"Praisos 2","guarducci_reported":"IC III VI 2","confidence":"PROJECT_LINEAGE_SUPPORTED","basis":"Existing project Guarducci-route/source-lineage controls plus BSA nomos-fragment archival crosswalk; direct Guarducci page collation remains rights/use bounded.","language_admission":"unchanged"},
+    {"project_id":"ECR-PRAISOS-3","project_label":"Praisos 3","guarducci_reported":"IC III VI 3","confidence":"PROJECT_LINEAGE_SUPPORTED","basis":"Existing project primary-page crosswalk and Guarducci route.","language_admission":"unchanged"},
+    {"project_id":"ECR-PRAISOS-4","project_label":"Praisos 4","guarducci_reported":"IC III VI 4 candidate","confidence":"DO_NOT_PROMOTE_WITHOUT_DIRECT_COLLATION","language_admission":"uncertain"},
+    {"project_id":"ECR-PRAISOS-5","project_label":"Praisos 5","guarducci_reported":"IC III VI 5 candidate","confidence":"DO_NOT_PROMOTE_WITHOUT_DIRECT_COLLATION","language_admission":"uncertain"},
+    {"project_id":"ECR-PRAISOS-6","project_label":"Praisos 6","guarducci_reported":"IC III VI 6 candidate","confidence":"DO_NOT_PROMOTE_WITHOUT_DIRECT_COLLATION","language_admission":"uncertain"}
+  ],
+  "rules": [
+    "A reported concordance is not a preferred reading.",
+    "IC numbering is publication identity, not museum accession identity.",
+    "Praisos 4-6 remain classification-sensitive until direct source collation and specialist review.",
+    "Do not use numerical adjacency alone to manufacture a concordance."
+  ],
+  "next_step": "Use the confirmed lawful Guarducci access route to inspect bibliographic/object facts where permissible; do not redistribute protected edition text/apparatus without a sufficient rights basis."
+}

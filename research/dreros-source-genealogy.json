@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-06",
+  "object_scope": [
+    "ECR-DREROS-1",
+    "ECR-DREROS-2"
+  ],
+  "witnesses": [
+    {
+      "id": "VAN-EFFENTERRE-RPHIL-1946",
+      "role": "original_publication_target",
+      "scope": "Dreros 1 / Isaluria",
+      "locator": "Revue de Philologie 20 (1946), 131-138",
+      "direct_project_inspection": false
+    },
+    {
+      "id": "LEJEUNE-1947",
+      "role": "dependent_critical_witness",
+      "scope": "Dreros 1 / Isaluria",
+      "locator": "REA 49 (1947), 274-285",
+      "direct_project_inspection": true,
+      "dependence": "Explicitly reports and critiques Van Effenterre 1946; not an independent observation of the stone.",
+      "controls": [
+        "five-line organization",
+        "lines 1-2 retrograde; lines 3-5 boustrophedon as reported",
+        "multiple uncertain readings preserved"
+      ]
+    },
+    {
+      "id": "VAN-EFFENTERRE-BCH-1946",
+      "role": "primary_publication_inspected",
+      "scope": "Dreros 2 candidate join",
+      "locator": "BCH 70 (1946), 602-603 no.5",
+      "direct_project_inspection": true,
+      "admission": "candidate identity/metadata only; no canonical reading"
+    },
+    {
+      "id": "VAN-EFFENTERRE-BCH-1961",
+      "role": "later_photographic_context_witness",
+      "scope": "Dreros group / Dreros 1 context",
+      "locator": "BCH 85 (1961), 545 fig.1",
+      "direct_project_inspection": true,
+      "dependence": "later witness; does not replace original facsimile"
+    }
+  ],
+  "independence_rule": "Publication lineage is not witness independence. A later edition or photograph derived from/depicting the same stone does not multiply ancient witnesses.",
+  "unresolved": [
+    "Direct inspection of Dreros 1 original 1946 facsimile",
+    "authoritative current object/accession identities",
+    "independent epigraphic adjudication"
+  ]
+}

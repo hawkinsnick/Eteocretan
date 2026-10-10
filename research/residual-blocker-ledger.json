@@ -3,7 +3,7 @@
   "corpus": "Eteocretan",
   "target": "LINEAR_A_LEVEL_PRE_EXPERT_MACHINE_RESOLVABLE_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "RIGHTS_ACCESS_DOMINANT_PRE_EXPERT_ENGINEERING_COMPLETE",
+  "assessment": "RIGHTS_AND_INSTITUTIONAL_ACCESS_DOMINANT_AFTER_PUBLIC_SOURCE_EXHAUSTION",
   "blockers": [
     {
       "id": "ECR-BLK-001",
@@ -16,8 +16,9 @@
       "id": "ECR-BLK-002",
       "class": "RIGHTS_ACCESS",
       "source": "Guarducci 1942",
-      "status": "BLOCKED",
-      "needed": "lawful direct access and rights determination for structured derivative/public redistribution"
+      "status": "PUBLIC_ACCESS_CONFIRMED_RIGHTS_FOR_SYSTEMATIC_DERIVATIVE_UNRESOLVED",
+      "needed": "Anemi resource 000070579 / file 000070579_3.pdf is publicly downloadable; inspect lawfully, but determine rights/permission before systematic structured derivative or redistribution.",
+      "evidence": "research/rights-wall-audit-2026-10-06.md"
     },
     {
       "id": "ECR-BLK-003",
@@ -30,8 +31,9 @@
       "id": "ECR-BLK-004",
       "class": "RIGHTS_ACCESS",
       "source": "Azoria",
-      "status": "PUBLIC_ROUTE_EXHAUSTED_TO_PUBLICATION_LEVEL_RIGHTS_OR_INSTITUTIONAL_ITEM_ACCESS_REQUIRED",
-      "needed": "individual inventory/object identifiers beyond published descriptions; no inference from collection count"
+      "status": "PUBLIC_DISCOVERY_EXHAUSTED_ITEM_IDENTITY_AND_REUSE_RIGHTS_OPEN",
+      "needed": "Public excavation/report/SCS evidence supports two pithos-handle candidates and a broader inscribed-sherd collection, but authoritative individual inventory/accession identities and reuse rights remain unresolved.",
+      "evidence": "research/rights-wall-audit-2026-10-06.md"
     },
     {
       "id": "ECR-BLK-005",
@@ -50,7 +52,23 @@
   "validation": {
     "ci_wired": true,
     "workflow": ".github/workflows/validate.yml",
-    "latest_status": "PENDING_OR_NOT_YET_REPORTED",
-    "note": "Do not claim CI pass until GitHub reports a completed successful run."
+    "latest_status": "AWAITING_CI_FOR_CURRENT_HEAD",
+    "validated_commit": "f303bc2e0c5632a28919bb7d81224055d56e4a05",
+    "validate_run_id": 37484604389,
+    "validate_conclusion": "success",
+    "ai_skill_sync_run_id": 37484604403,
+    "ai_skill_sync_conclusion": "success",
+    "note": "Earlier checkpoint passed; current four-front source-closure commits require fresh CI before a pass is claimed."
+  },
+  "public_source_exhaustion": {
+    "checked": "2026-10-06",
+    "closed": [
+      "Duhoux 13-text / 6-secure + 7-uncertain target denominator established from public review evidence without copying edition",
+      "Dreros public derivative witness genealogy bounded",
+      "Azoria 17-sherd denominator itemized to two known handle candidates plus fifteen unresolved items",
+      "Conservative Praisos/IC publication crosswalk encoded"
+    ],
+    "remaining_actionable_without_new_access": [],
+    "note": "No presently identified corpus-growth task can safely create additional canonical readings, object identities, or item-level Azoria records from the currently admitted public evidence."
   }
 }
