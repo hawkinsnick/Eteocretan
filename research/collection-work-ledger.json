@@ -2,12 +2,12 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "0343d628fd81279ef5469a25bdd72685e6f8ea90c96e9562e8569207993b4b86",
-  "evidence_fingerprint": "b735fc9d87af04a50a626362f50aa458b2287500ffe3be7da9825c02e17ac352",
+  "evidence_fingerprint": "4bc197bbe6bb41617fc55b746356373dfadc99264611dc1980c2dc3962b89891",
   "input_sha256": {
     "analysis/current-status.json": "8f0b2b14c9a5ff79139650ff77ec5973b19cdfb561cc7dea3efd4f7cfd5a2e85",
     "data/records.json": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
     "research/coverage-register.json": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
-    "research/pre-expert-maximum.json": "eda9e4d0dcd8be25cb881ae5e08e81cab52dc1cd764a3c6cebc19b505150d79d",
+    "research/pre-expert-maximum.json": "8d6356a52d13d48135320bc05996f600f21f127d9acd83b14a43351e87843ad8",
     "research/pre-expert-source-exhaustion.json": "6ea3593b6b2c3f2689d7cb3aeef1f59db7ce8ae4402bf3f2c3f060bd4d258d64",
     "research/source-inspection-2026-10-02.json": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5"
   },
@@ -1251,19 +1251,19 @@
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_nonexpert_work/1",
-      "native_status": null,
+      "native_status": "GUARDUCCI_ACCESS_ROUTE_CONFIRMED_RIGHTS_BOUNDARY_OPEN",
       "native_task_id": "ECR-PRE-002",
       "source_path": "research/pre-expert-maximum.json",
-      "task": "Acquire and lineage-map later critical editions against Conway."
+      "task": "Public digital access to Guarducci 1942 volume III is confirmed through Anemi; use for lawful inspection/factual reconciliation, while systematic structured derivative/public redistribution remains rights-gated. Duhoux 1982 remains a separate critical-edition access/rights target."
     },
     {
       "blocker_is_not_established_by_a_label": true,
       "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
       "json_pointer": "/remaining_nonexpert_work/2",
-      "native_status": "TWO_CAPTION_CANDIDATES_SEPARATED_INVENTORY_JOIN_OPEN",
+      "native_status": "PUBLIC_ITEMIZATION_CEILING_REACHED",
       "native_task_id": "ECR-PRE-003",
       "source_path": "research/pre-expert-maximum.json",
-      "task": "Reconcile two D300 caption candidates to excavation/museum IDs and the 17-sherd collection; preserve uncertain attribution and vessel identity."
+      "task": "Two handle candidates are individually represented and the remaining 15 members of the published 17-sherd denominator are explicitly unresolved. Further itemization requires authoritative excavation/institutional identifiers or additional lawful item-level publication evidence."
     },
     {
       "blocker_is_not_established_by_a_label": true,
