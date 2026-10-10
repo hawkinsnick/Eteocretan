@@ -74,3 +74,9 @@ Read `research/duhoux-concordance-targets.json`, `research/praisos-ic-crosswalk.
 - Dreros editions and later discussions belong to a witness genealogy. Dependent editions, photographs and secondary transcriptions do not multiply independent ancient witnesses.
 
 Under the currently admitted public evidence, additional canonical readings/object identities require new lawful source or institutional evidence; downstream epigraphic adjudication remains human-only.
+
+## Validation and AI-use guide
+Consult `docs/VALIDATION-AND-AI-USE.md` before asserting reproducibility, corpus completeness, expert acceptance or cross-corpus comparability. Record the source commit and actual validation outputs. Keep scientific review gates separate from passing software checks.
+
+## Evidence-denominator policy
+When comparing Eteocretan coverage, distinguish named inscriptions, editorial reading versions, source rows, and analytically admitted rows/tokens. Do not count alternative transcriptions as independent ancient witnesses or convert zero admitted tokens into linguistic frequency estimates. Preserve classification disputes and source-access limitations until independently resolved.
