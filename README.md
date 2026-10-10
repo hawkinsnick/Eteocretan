@@ -87,3 +87,7 @@ The repository has reached the machine-resolvable pre-expert method-parity basel
 ## 6 October 2026 rights-wall re-audit
 
 The pre-expert boundary was challenged again rather than accepted by declaration. Public Anemi access to Guarducci III is now confirmed, while systematic derivative/redistribution rights remain a separate gate. Public museum, Azoria and Dreros discovery routes were re-tested; unresolved accessions and conflicting location claims remain unresolved rather than inferred. The public Lejeune 1947 critical witness is now explicitly bounded as a derivative source-lineage/uncertainty witness, not a substitute for direct Van Effenterre collation or observation of the stone. See `research/rights-wall-audit-2026-10-06.md` and `research/dreros-public-source-closure-2026-10-06.md`.
+
+## Evidence denominator and admission policy
+
+The eight named inscriptions, twelve reading versions, 101 source-text rows and zero analytically admitted rows/tokens describe different units. Alternative versions are not independent stones or independent ancient witnesses. Neither searchability nor software validation admits excluded transcriptions to linguistic frequency analysis. Keep disputed classifications and source-access limitations explicit; independent collation and specialist adjudication remain open.
