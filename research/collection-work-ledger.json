@@ -1,0 +1,1297 @@
+{
+  "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
+  "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
+  "config_sha256": "0343d628fd81279ef5469a25bdd72685e6f8ea90c96e9562e8569207993b4b86",
+  "evidence_fingerprint": "b735fc9d87af04a50a626362f50aa458b2287500ffe3be7da9825c02e17ac352",
+  "input_sha256": {
+    "analysis/current-status.json": "8f0b2b14c9a5ff79139650ff77ec5973b19cdfb561cc7dea3efd4f7cfd5a2e85",
+    "data/records.json": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+    "research/coverage-register.json": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+    "research/pre-expert-maximum.json": "eda9e4d0dcd8be25cb881ae5e08e81cab52dc1cd764a3c6cebc19b505150d79d",
+    "research/pre-expert-source-exhaustion.json": "6ea3593b6b2c3f2689d7cb3aeef1f59db7ce8ae4402bf3f2c3f060bd4d258d64",
+    "research/source-inspection-2026-10-02.json": "f2991b9fbf20c4f2096a1aa77e87158bd5470638437c4625a9598d58653963a5"
+  },
+  "native_review_links": [
+    "LICENSING.md"
+  ],
+  "question_definitions": {
+    "language_or_script_classification": "Attribute membership and classification to named authorities; preserve disagreement.",
+    "object_identity": "Confirm the object, face and inventory concordance; distinguish source entries from physical objects.",
+    "reading_and_layout": "Compare the exact edition rows, figures and layout; preserve competing readings with page/line locators.",
+    "reuse_rights": "Check the applicable license or permission for each component; project terms do not override upstream rights.",
+    "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
+    "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
+  },
+  "record_identity_is_not_object_identity": true,
+  "record_views": [
+    {
+      "enumerated": 12,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "attributed_reading",
+      "view": "attributed-readings"
+    },
+    {
+      "enumerated": 11,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "coverage_candidate",
+      "view": "coverage-objects"
+    }
+  ],
+  "records": [
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/0",
+      "native_id": "ECR-DREROS-1-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-DREROS-1-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/0/source_id",
+        "/0/source",
+        "/0/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "0178e48eaa10f2671f51def2f8fb838723053f06a70750c59322790e07b46c71",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/1",
+      "native_id": "ECR-DREROS-2-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-DREROS-2-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/1/source_id",
+        "/1/source",
+        "/1/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "935ae3ef96a6ee808f7c47b844d04b7545ab4cfb6222f0b2280029c2e3bec82a",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/2",
+      "native_id": "ECR-PRAISOS-1-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-1-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/2/source_id",
+        "/2/source",
+        "/2/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "3405283363900e89da707b9000c4d4ff4e5089fce8060b49f6c920bfb89d1ea7",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/3",
+      "native_id": "ECR-PRAISOS-2-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-2-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/3/source_id",
+        "/3/source",
+        "/3/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "6611f12185f17227ddbbd9dd3ae8db13712811086159c31d6e46612896f7a7f7",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/4",
+      "native_id": "ECR-PRAISOS-3-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-3-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/4/source_id",
+        "/4/source",
+        "/4/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "222dd7d53daaadaa9e27e3c4a4cd1bc073963ddacd201f855732c9f49eacfec1",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/5",
+      "native_id": "ECR-PRAISOS-4-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-4-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/5/source_id",
+        "/5/source",
+        "/5/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "c00d36762f59e7f797f01ffda18488f2579828399c72f9b316ed60069a864d6a",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/6",
+      "native_id": "ECR-PRAISOS-5-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-5-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/6/source_id",
+        "/6/source",
+        "/6/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "4470b4bad2f7f9ed1e75f667d5007e6d53ea8225129a8f9ae0582c80ef70e801",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/7",
+      "native_id": "ECR-PRAISOS-6-WIKIPEDIA-174295509",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-6-WIKIPEDIA-174295509",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/7/source_id",
+        "/7/source",
+        "/7/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "87aef9f4160fb6481e271c669432929f0b21e503c4cc73637da17b6d1c994c4c",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/8",
+      "native_id": "ECR-PRAISOS-1-CONWAY-135",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-1-CONWAY-135",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/8/source_id",
+        "/8/source",
+        "/8/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "4465e5ea3b69f85cbdc1ca1cac09bd3fc9b9b20cdb642b4e43bc7aa00414cc26",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/9",
+      "native_id": "ECR-PRAISOS-2-CONWAY-127",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-2-CONWAY-127",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/9/source_id",
+        "/9/source",
+        "/9/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "4af1053dae098a421afabfa4e14577cd01ad92c1225b508374caead0eb65918d",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/10",
+      "native_id": "ECR-PRAISOS-3-CONWAY-117",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-3-CONWAY-117",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/10/source_id",
+        "/10/source",
+        "/10/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "258ba2d3f55cf69c4834723cf77769582402a622e078c56c7b58e7b0025cfea1",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/11",
+      "native_id": "ECR-PRAISOS-2-CONWAY-127-II",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "attributed-readings:ECR-PRAISOS-2-CONWAY-127-II",
+      "source_file_sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+      "source_lead_pointers": [
+        "/11/source_id",
+        "/11/source",
+        "/11/source/url"
+      ],
+      "source_path": "data/records.json",
+      "source_record_sha256": "ce337f3188878839f8281baa8f1d741d44d328a0d54297495398166d31797266",
+      "unit": "attributed_reading"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/0",
+      "native_id": "ECR-PRAISOS-1",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-PRAISOS-1",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/0/source_leads",
+        "/0/source_leads/0/citation",
+        "/0/source_leads/1/citation",
+        "/0/source_leads/2/citation",
+        "/0/source_leads/2/url",
+        "/0/scholarly_baseline/source"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "bb7d77936308ced3930ef34e9501524d85093071d8dc2638b231a346bc226f46",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/1",
+      "native_id": "ECR-PRAISOS-2",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-PRAISOS-2",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/1/source_leads",
+        "/1/source_leads/0/citation",
+        "/1/source_leads/1/citation",
+        "/1/source_leads/2/citation",
+        "/1/source_leads/2/url",
+        "/1/scholarly_baseline/source"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "d4217383e57af27b3f909ed2e9a0a21b6424cbfab1b9cadea89fc37bc20d93ee",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/2",
+      "native_id": "ECR-PRAISOS-3",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-PRAISOS-3",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/2/source_leads",
+        "/2/source_leads/0/citation",
+        "/2/source_leads/1/citation",
+        "/2/source_leads/2/citation",
+        "/2/source_leads/2/url",
+        "/2/scholarly_baseline/source"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "3dd84ba671f86891eda1462c909dc72a55743c371fa209a47eb6a6e06f57640b",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/3",
+      "native_id": "ECR-PRAISOS-4",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-PRAISOS-4",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/3/source_leads",
+        "/3/source_leads/0/citation",
+        "/3/source_leads/1/citation",
+        "/3/scholarly_baseline/source"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "bfd94a2d052813622262deec98498e920ca01b382aa5450a4908e97b0a91d689",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/4",
+      "native_id": "ECR-PRAISOS-5",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-PRAISOS-5",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/4/source_leads",
+        "/4/source_leads/0/citation",
+        "/4/source_leads/1/citation",
+        "/4/scholarly_baseline/source"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "85f7054d051b59f5e9e7ee1125c1d874b6af81806b040a92fe1d0a5eeaaadebd",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/5",
+      "native_id": "ECR-PRAISOS-6",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-PRAISOS-6",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/5/source_leads",
+        "/5/source_leads/0/citation",
+        "/5/source_leads/1/citation"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "9a19f6917b795d5db74f66cd9790cb186ebd3c8c57eb84a85b29277e1ae31ede",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/6",
+      "native_id": "ECR-DREROS-1",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-DREROS-1",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/6/source_leads",
+        "/6/source_leads/0/citation",
+        "/6/source_leads/1/citation",
+        "/6/source_leads/2/citation",
+        "/6/source_leads/2/url",
+        "/6/scholarly_baseline/source"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "91489d446838d6c092766711ac95d36f9fe44fa332f406701ffe111fcd844add",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/7",
+      "native_id": "ECR-DREROS-2",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-DREROS-2",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/7/source_leads",
+        "/7/source_leads/0/citation",
+        "/7/source_leads/1/citation",
+        "/7/source_leads/2/citation",
+        "/7/source_leads/2/doi",
+        "/7/source_leads/2/url"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "1d2d90975924ac8e6c763d0e029af5e5b878505a09350cabc3c077df24a5e88c",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/8",
+      "native_id": "ECR-PSYCHRO-DISPUTED",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-PSYCHRO-DISPUTED",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/8/source_leads",
+        "/8/source_leads/0/citation",
+        "/8/source_leads/1/citation",
+        "/8/source_leads/1/url"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "2dfddd8a26e109e76b4b7a229c8202ae582c505d1f86fb5b6b4298f4ecb68bf8",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/9",
+      "native_id": "CRET-DISPUTED-HM-X2416",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:CRET-DISPUTED-HM-X2416",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/9/source_leads",
+        "/9/source_leads/0/citation",
+        "/9/source_leads/1/url"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "c7477914d12c5fdf76d6649d5ae627d228b91abae3cd5543797c3dd503589c17",
+      "unit": "coverage_candidate"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/10",
+      "native_id": "ECR-AZORIA-COLLECTION-LEAD",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "coverage-objects:ECR-AZORIA-COLLECTION-LEAD",
+      "source_file_sha256": "5dcbb6c2859cf3aa10b129a2ccf174584e2fb20c2ae2c5774d1cd2d6229893af",
+      "source_lead_pointers": [
+        "/10/source_leads",
+        "/10/source_leads/0/url",
+        "/10/source_leads/1/citation",
+        "/10/source_leads/1/url"
+      ],
+      "source_path": "research/coverage-register.json",
+      "source_record_sha256": "f0d88fc212990ad9e76d9737e106dffeffc05c6acb6afbaa162693ff2e364e0f",
+      "unit": "coverage_candidate"
+    }
+  ],
+  "repository": "hawkinsnick/Eteocretan",
+  "review_dimensions": [
+    "object_identity",
+    "reading_and_layout",
+    "uncertainty",
+    "language_or_script_classification",
+    "source_independence",
+    "reuse_rights"
+  ],
+  "schema_version": "1.0",
+  "scientific_approval_granted": false,
+  "scope": "Declared native snapshots and source/task registers only; not a language-wide inventory",
+  "source_leads": [
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/11/source_id",
+      "kind": "source_id",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/11/source",
+      "kind": "source",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/11/source/url",
+      "kind": "url",
+      "source_path": "data/records.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_leads/2",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_leads/2/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/source_leads/2/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/0/scholarly_baseline/source",
+      "kind": "source",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_leads/2",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_leads/2/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/source_leads/2/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/1/scholarly_baseline/source",
+      "kind": "source",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_leads/2",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_leads/2/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/source_leads/2/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/2/scholarly_baseline/source",
+      "kind": "source",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/3/scholarly_baseline/source",
+      "kind": "source",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/4/scholarly_baseline/source",
+      "kind": "source",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/5/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/2",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/2/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/source_leads/2/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/6/scholarly_baseline/source",
+      "kind": "source",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/2",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/2/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/2/doi",
+      "kind": "doi",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/7/source_leads/2/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/8/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source_leads/0/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/9/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source_leads/0",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source_leads/1",
+      "kind": "source_leads",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source_leads/0/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source_leads/1/citation",
+      "kind": "citation",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/10/source_leads/1/url",
+      "kind": "url",
+      "source_path": "research/coverage-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/source-inspection-2026-10-02.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/url",
+      "kind": "url",
+      "source_path": "research/source-inspection-2026-10-02.json"
+    }
+  ],
+  "tasks": [
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/0",
+      "native_status": "LATER_PHOTOGRAPH_INSPECTED_ORIGINAL_COLLATION_OPEN",
+      "native_task_id": "ECR-PRE-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Later author-published Dreros 1 photograph inspected, with technique and group conservation reports. Acquire the original Rev. Phil. 1946 facsimile and reconcile current object accessions; do not treat later photo as completed critical collation."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/1",
+      "native_status": null,
+      "native_task_id": "ECR-PRE-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Acquire and lineage-map later critical editions against Conway."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/2",
+      "native_status": "TWO_CAPTION_CANDIDATES_SEPARATED_INVENTORY_JOIN_OPEN",
+      "native_task_id": "ECR-PRE-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Reconcile two D300 caption candidates to excavation/museum IDs and the 17-sherd collection; preserve uncertain attribution and vessel identity."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/0",
+      "native_status": null,
+      "native_task_id": "ECR-HUM-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate readings, restorations and uncertainty"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/1",
+      "native_status": null,
+      "native_task_id": "ECR-HUM-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate uncertain language attribution"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/2",
+      "native_status": null,
+      "native_task_id": "ECR-HUM-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate disputed script or authenticity"
+    }
+  ],
+  "terminal_pre_expert_maximum_established": false
+}
