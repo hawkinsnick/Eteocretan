@@ -1,3 +1,5 @@
+> Current stopping assessment (11 October 2026): rights-only readiness is not established. Use [the source-specific action plan](SOURCE-ACTION-PLAN.md) for access, permission, reconciliation and human dependencies. The baseline capabilities below do not establish evidence exhaustion.
+
 # Linear A parity / rights-only readiness
 
 Eteocretan is maintained toward the same evidence-control standard as Linear A, while respecting the much smaller and more disputed evidence base.

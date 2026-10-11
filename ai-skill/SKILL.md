@@ -64,7 +64,7 @@ Before describing Guarducci 1942 as inaccessible, read `research/rights-wall-aud
 Public museum and Azoria discovery searches do not establish safe accession joins for the Eteocretan objects. The SCS description of two probably Eteocretan pithos handles strengthens an attributed discovery/classification lead only. Never promote those handles, museum objects, or Dreros location claims to canonical identity without authoritative evidence.
 
 
-## Four-front public-source exhaustion (2026-10-06)
+## Four-front bounded public-source inspection (2026-10-06)
 
 Read `research/duhoux-concordance-targets.json`, `research/praisos-ic-crosswalk.json`, `research/azoria-item-candidates.json`, and `research/dreros-source-genealogy.json` before proposing corpus expansion.
 
@@ -80,3 +80,7 @@ Consult `docs/VALIDATION-AND-AI-USE.md` before asserting reproducibility, corpus
 
 ## Evidence-denominator policy
 When comparing Eteocretan coverage, distinguish named inscriptions, editorial reading versions, source rows, and analytically admitted rows/tokens. Do not count alternative transcriptions as independent ancient witnesses or convert zero admitted tokens into linguistic frequency estimates. Preserve classification disputes and source-access limitations until independently resolved.
+
+## Source-specific stopping policy
+
+Read `research/source-action-plan.json` and `docs/SOURCE-ACTION-PLAN.md` before proposing evidence growth or calling the corpus rights-only. Report access, permission for the intended use, source delivery, factual reconciliation and human adjudication separately. A failed endpoint or dated search is not global exhaustion. Preserve completed native crosswalks and identify their remaining edges; no metadata plan certifies a reading or physical identity.

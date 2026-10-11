@@ -1,0 +1,15 @@
+{
+  "format": "bounded-source-route-check-v1",
+  "checked": "2026-10-11",
+  "method": "urllib.request.urlopen; ordinary public route, 25-second timeout; no access bypass",
+  "attempts": [
+    {
+      "source": "Anemi catalogue",
+      "url": "https://anemi.lib.uoc.gr/metadata/2/2/0/metadata-203-0000001.tkl",
+      "http_status": 502,
+      "classification": "ACCESS_ATTEMPT_FAILED",
+      "permission_determined": false
+    }
+  ],
+  "inference_boundary": "Failure applies to the tested route at this checkpoint, not all copies or future delivery. No permission refusal, global unavailability or canonical evidence is inferred."
+}

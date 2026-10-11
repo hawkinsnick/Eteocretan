@@ -15,6 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}
+      - run: python scripts/validate_source_action_plan.py
       - run: python scripts/release_check.py
       - name: Rebuild source-derived artifacts
         run: |
