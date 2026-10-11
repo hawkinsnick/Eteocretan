@@ -1,0 +1,56 @@
+{
+  "format": "corpus-source-action-plan-v1",
+  "corpus": "Eteocretan",
+  "checked": "2026-10-11",
+  "claim_scope": "BOUNDED_SOURCE_AUDIT_NOT_GLOBAL_EXHAUSTION",
+  "rights_only_ready": false,
+  "tasks": [
+    {
+      "id": "ECR-GUARDUCCI-ACCESS",
+      "source": "Anemi Guarducci III resource 000070579",
+      "dependency": "ACCESS",
+      "status": "BLOCKED",
+      "evidence": [
+        "research/guarducci-1942-access-route.json",
+        "research/source-route-check-2026-10-11.json"
+      ],
+      "next_action": "Retry documented Anemi delivery, then inspect printed pp. 134\u2013142 and distinguish scan locators from printed pages.",
+      "acceptance": "Actual edition bytes/hash and bounded lawful inspection receipt; a catalogue route or eleven-page review is not completed collation."
+    },
+    {
+      "id": "ECR-GUARDUCCI-RIGHTS",
+      "source": "Guarducci III structured public derivative",
+      "dependency": "PERMISSION",
+      "status": "BLOCKED",
+      "evidence": [
+        "research/rights-source-matrix.json"
+      ],
+      "next_action": "Assess specific component/intended-use rights independently of download success.",
+      "acceptance": "Documented rights basis before systematic structured derivative/public redistribution."
+    },
+    {
+      "id": "ECR-IDENTITY",
+      "source": "Praisos, Dreros and Azoria object identities",
+      "dependency": "SOURCE_DELIVERY",
+      "status": "BLOCKED",
+      "evidence": [
+        "research/rights-wall-audit-2026-10-06.md",
+        "research/azoria-item-candidates.json"
+      ],
+      "next_action": "Seek authoritative inventory/excavation identifiers through lawful museum/archive sources; preserve conflicting whereabouts.",
+      "acceptance": "Explicit object-level identity evidence; no fabricated records from the seventeen-sherd denominator."
+    },
+    {
+      "id": "ECR-ADJUDICATION",
+      "source": "Reading and classification disputes",
+      "dependency": "HUMAN_REVIEW",
+      "status": "WAITING_FOR_EVIDENCE",
+      "evidence": [
+        "research/residual-blocker-ledger.json"
+      ],
+      "next_action": "Route admissible evidence to specialist review without resolving by majority vote.",
+      "acceptance": "Recorded source-bound specialist adjudication; software pass is insufficient."
+    }
+  ],
+  "rule": "Assess access, intended-use permission, source delivery, machine reconciliation and human adjudication separately. Never infer global exhaustion from a dated search or route failure. Do not reopen completed evidence by ignoring existing native audits."
+}

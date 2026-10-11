@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "corpus": "Eteocretan",
   "target": "LINEAR_A_LEVEL_PRE_EXPERT_MACHINE_RESOLVABLE_MAXIMUM",
-  "checked": "2026-10-06",
-  "assessment": "RIGHTS_AND_INSTITUTIONAL_ACCESS_DOMINANT_AFTER_PUBLIC_SOURCE_EXHAUSTION",
+  "checked": "2026-10-11",
+  "assessment": "SOURCE_SPECIFIC_ACCESS_PERMISSION_RECONCILIATION_AND_HUMAN_GATES",
   "blockers": [
     {
       "id": "ECR-BLK-001",
@@ -68,7 +68,12 @@
       "Azoria 17-sherd denominator itemized to two known handle candidates plus fifteen unresolved items",
       "Conservative Praisos/IC publication crosswalk encoded"
     ],
-    "remaining_actionable_without_new_access": [],
-    "note": "No presently identified corpus-growth task can safely create additional canonical readings, object identities, or item-level Azoria records from the currently admitted public evidence."
-  }
+    "remaining_actionable_without_new_access": [
+      "Review existing access receipts and reconcile source-specific permission boundaries; actual new object/reading evidence still needs authoritative source delivery."
+    ],
+    "note": "Prior admitted evidence did not support new canonical identities/readings. This does not prove all lawful public routes exhausted; the Anemi route is separately tracked as access versus permission.",
+    "scope": "BOUNDED_PRIOR_INSPECTION_NOT_GLOBAL_EXHAUSTION"
+  },
+  "source_action_plan": "research/source-action-plan.json",
+  "rights_only_ready": false
 }
