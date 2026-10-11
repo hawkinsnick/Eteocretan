@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "ad351b76561d5512f0bf36ae0574f4611498a75e",
+  "source_commit": "fe2f874298a0a39e687711351c53384fd6930ff7",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-10T18:27:17+00:00",
+  "generated_at_utc": "2026-10-11T20:49:17+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -13,6 +13,24 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "source_route_check",
+      "path": "research/source-route-check-2026-10-11.json",
+      "sha256": "8ff2b99ecaf6af79502d21e8cc1c13d68f5aea903192a362a765020b27e50d12",
+      "bytes": 632
+    },
+    {
+      "role": "source_action_plan",
+      "path": "research/source-action-plan.json",
+      "sha256": "f315d40099cacf68accc95a20f7e61142d2a8aa07532a2aea270a4af2b197ce4",
+      "bytes": 2566
+    },
+    {
+      "role": "source_action_guide",
+      "path": "docs/SOURCE-ACTION-PLAN.md",
+      "sha256": "0452cd0274056c89e8f66acb146ff53c7c2bbd779f2e5938978965c31f3573de",
+      "bytes": 1954
+    },
     {
       "role": "dreros_physical_context",
       "path": "research/dreros-context-evidence.json",
