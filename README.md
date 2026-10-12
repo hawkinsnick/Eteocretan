@@ -91,3 +91,7 @@ The pre-expert boundary was challenged again rather than accepted by declaration
 ## Evidence denominator and admission policy
 
 The eight named inscriptions, twelve reading versions, 101 source-text rows and zero analytically admitted rows/tokens describe different units. Alternative versions are not independent stones or independent ancient witnesses. Neither searchability nor software validation admits excluded transcriptions to linguistic frequency analysis. Keep disputed classifications and source-access limitations explicit; independent collation and specialist adjudication remain open.
+
+## AI integrity checkpoint — 2026-10-11
+
+[AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.
