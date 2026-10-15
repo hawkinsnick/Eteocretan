@@ -17,6 +17,14 @@
       "id_pointer": "/id",
       "unit": "research disagreement/control item",
       "scope": "Classification and reading disputes retain their stated scope."
+    },
+    {
+      "name": "attribution-review",
+      "path": "research/attribution-review.json",
+      "pointer": "/cases",
+      "id_pointer": "/review_id",
+      "unit": "bounded documentary attribution review task",
+      "scope": "All five controls; Duhoux-derived classification remains indirect, Conway versions remain a lineage, and Lejeune’s Dreros discussion depends on the earlier editor."
     }
   ],
   "relations": [
@@ -33,59 +41,77 @@
       "path": "data/records.json",
       "sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
       "encoding": "json",
-      "role": "reading-versions"
+      "role": "reading-versions",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "research/disagreement-register.json",
       "sha256": "38bcaebd4a345f8bbf8835752188d5ebc32b69384b22e6dc451d1bd95b81ca23",
       "encoding": "json",
-      "role": "disagreement-register"
+      "role": "disagreement-register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "research/source-lineage-register.json",
       "sha256": "a089f2ebe43cd1a59b748bc18130eee2453b23b3bcf8704c034a7d6aa7b245f3",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "research/rights-source-matrix.json",
       "sha256": "f018cb263ef107bc7d8fcc9cdc785dfe30ff6f63c8cc5c9d1d208402a99413e9",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "research/dreros1-lejeune-critical-witness.json",
       "sha256": "b2f460b6f20d5292271e9eafc14b133dc795191e56a0e75adeae28ec4f624bb0",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "research/dreros-source-genealogy.json",
       "sha256": "7c544abc7df7e44a41c56b611545850157a942abc0fdaccde634d263fbeed7bb",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "research/praisos-guarducci-number-concordance.json",
       "sha256": "4d99b3f7abf2c1aa1d57e8a28b7c5e2478fc1636b4daa7fe1f69fa1b01d9f822",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "LICENSE-CONTENT.md",
       "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
       "encoding": "text",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
     },
     {
       "path": "NOTICE",
       "sha256": "f2477f7571ac5a27da4b1203a530571570d3b5dab30eea14efbe0572dcc14ba4",
       "encoding": "text",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "c7649b96e32951448eb7d46eb4bba728441495c973974ad9b97983fcff71edc4",
+      "encoding": "json",
+      "role": "bounded attribution review",
+      "source_snapshot_commit": null
     }
   ],
   "scholarly_limits": [
-    "Source reading versions linked by a declared project object ID are not certified physical identities. Lejeune reproduces an earlier editor; secondary readings must not be upgraded to direct autopsy."
+    "Source reading versions linked by a declared project object ID are not certified physical identities. Lejeune reproduces an earlier editor; secondary readings must not be upgraded to direct autopsy.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
   ],
-  "native_artifacts_snapshot_commit": "6c581711fd0932c22993981e1bc0b1709efdd0ae"
+  "native_artifacts_snapshot_commit": null,
+  "snapshot_commit_scope": "Mixed inputs retain their per-artifact anchors. New original review artifacts are byte-pinned and identified by published repository history, not assigned to an earlier commit."
 }
