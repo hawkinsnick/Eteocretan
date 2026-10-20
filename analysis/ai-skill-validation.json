@@ -1,0 +1,58 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Eteocretan",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "eteocretan-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "5d0d948565e84361b08a432859c9cbead1ae3987d95ede21c86737eccf3815e9",
+  "bundle_source_commit": "b2c6a68475ca83f7313f17cdbf9e52e3b3b0f8a2",
+  "bundle_sha256": "497fc29b87830545c3581516b05e73c6a95b2eb0f1ce83633661330b86bc5fb3",
+  "indexed_artifact_entries_checked": 57,
+  "unique_indexed_paths_checked": 57,
+  "lookups": [
+    {
+      "collection": "reading-versions",
+      "id": "ECR-DREROS-1-WIKIPEDIA-174295509",
+      "native_unit": "attributed digital reading version",
+      "provenance": {
+        "path": "data/records.json",
+        "sha256": "1195e8a2a823a875b4770d9770a6ed2204beab0318c596164322195a0e52cbf8",
+        "pointer": "/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "reading-versions",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "disagreement-register",
+      "id": "ECR-DIS-001",
+      "native_unit": "research disagreement/control item",
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "38bcaebd4a345f8bbf8835752188d5ebc32b69384b22e6dc451d1bd95b81ca23",
+        "pointer": "/items/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "ECR-DIS-001",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "c7649b96e32951448eb7d46eb4bba728441495c973974ad9b97983fcff71edc4",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
