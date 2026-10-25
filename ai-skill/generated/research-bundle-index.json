@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "4987454ff9fe221aa4e6b8d493c3bd4b2b318aae",
+  "source_commit": "e195771ac82f34bcab32747e58a5009323c11b4b",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-20T16:52:32+00:00",
+  "generated_at_utc": "2026-10-25T19:27:44+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -298,14 +298,14 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "504633b74f412f3bc1b18866d74a4d95a28d4aec2577180ba9d7f33f2cd525bd",
+      "sha256": "074b0403206a04ded1dcfdcc90cc1ec22f6f738b5a41a4f4e66f9097e2aa8ce8",
       "bytes": 6605
     },
     {
       "role": "skill_function_validation",
       "path": "ai-skill/SKILL.md",
-      "sha256": "5d0d948565e84361b08a432859c9cbead1ae3987d95ede21c86737eccf3815e9",
-      "bytes": 14491
+      "sha256": "f2bc85f4888b41c3e3febdbab177656a37749e251293c670749139eb1d4866dd",
+      "bytes": 15063
     },
     {
       "role": "skill_function_validation",
@@ -316,20 +316,20 @@
     {
       "role": "skill_function_validation",
       "path": "scripts/validate_ai_skill.py",
-      "sha256": "aacfb721bcf218975802968d4e260abc2dc24a300ac41eac44c0bd0d15fcb9d1",
-      "bytes": 10829
+      "sha256": "802f7e46534c9d26a87217bf95eece124a5624085054537c2314d0419e9586de",
+      "bytes": 11280
     },
     {
       "role": "skill_function_validation",
       "path": "scripts/test_ai_skill_validation.py",
-      "sha256": "5c4405e2b856e976bbeb6838ff011c7f3b3d59e910d18e182ac3e6f16b737d57",
-      "bytes": 2395
+      "sha256": "b44c6f0fc3c35cd1dd51ec040e95136dd3bba107ef8caab4492e52d593661e6c",
+      "bytes": 3879
     },
     {
       "role": "skill_function_validation",
       "path": "docs/AI-SKILL-VALIDATION.md",
-      "sha256": "4f17f179fc799feef209ce989b3cd309069e1abf7c2b2bc5a4d541a310bedaa7",
-      "bytes": 3216
+      "sha256": "0f4af10383fc8606f0c1670ad5234e0fb33f65d9e78c2e1a36ac19879833f95f",
+      "bytes": 4606
     },
     {
       "role": "skill_function_validation",
